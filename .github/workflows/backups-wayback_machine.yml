@@ -1,0 +1,30 @@
+name: 备份至Wayback Machine
+
+env:
+  TZ: Asia/Shanghai
+
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Archive multiple pages
+        run: |
+          for url in \
+            "https://write-on-paper.wikidot.com/" \
+            "https://write-on-paper.wikidot.com/major" \
+            "https://write-on-paper.wikidot.com/forum:start" \
+            "https://write-on-paper.wikidot.com/system:list-all-pages"
+          do
+            echo "Archiving $url"
+            curl -s -L --max-time 60 "https://web.archive.org/save/$url"
+            sleep 10
+          done
