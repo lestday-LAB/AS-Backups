@@ -1,0 +1,166 @@
+{
+    "name": "object-as-14",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1544092609,
+            "author": 8677784,
+            "stamp": 1779549001,
+            "flags": "A",
+            "commentary": "移除标签：危险。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542365643,
+            "author": 7599847,
+            "stamp": 1772356432,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542365632,
+            "author": 7599847,
+            "stamp": 1772356395,
+            "flags": "F",
+            "commentary": "已上传文件 “62050c9c-03af-4f33-bf18-4041e28a7ee3.png”。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542365245,
+            "author": 7599847,
+            "stamp": 1772354979,
+            "flags": "A",
+            "commentary": "已新增标签：物品。 移除标签：现象。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542365240,
+            "author": 7599847,
+            "stamp": 1772354964,
+            "flags": "A",
+            "commentary": "已新增标签：危险, 悲喜交加, 现实扭曲, 现象。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542365233,
+            "author": 7599847,
+            "stamp": 1772354929,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542365182,
+            "author": 7599847,
+            "stamp": 1772354769,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542365178,
+            "author": 7599847,
+            "stamp": 1772354736,
+            "flags": "F",
+            "commentary": "已上传文件 “1771562007216.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542365173,
+            "author": 7599847,
+            "stamp": 1772354724,
+            "flags": "F",
+            "commentary": "已上传文件 “EagleSD (1).png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542365141,
+            "author": 7599847,
+            "stamp": 1772354709,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11751072,
+            "name": "1771562007216.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/object-as-14/1771562007216.jpg",
+            "size": "375 kB (384001 Bytes)",
+            "size_bytes": 384001,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: ], progressive, precision 8, 1170x1317, components 3",
+            "author": 7599847,
+            "stamp": 1772354736,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11751105,
+            "name": "62050c9c-03af-4f33-bf18-4041e28a7ee3.png",
+            "url": "http://asbackroom.wikidot.com/local--files/object-as-14/62050c9c-03af-4f33-bf18-4041e28a7ee3.png",
+            "size": "1.6 MB (1675056 Bytes)",
+            "size_bytes": 1675056,
+            "mime": "image/png",
+            "content": "PNG image data, 1024 x 1536, 8-bit/color RGB, non-interlaced",
+            "author": 7599847,
+            "stamp": 1772356395,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11751071,
+            "name": "EagleSD (1).png",
+            "url": "http://asbackroom.wikidot.com/local--files/object-as-14/EagleSD%20%281%29.png",
+            "size": "50.26 kB (51463 Bytes)",
+            "size_bytes": 51463,
+            "mime": "image/png",
+            "content": "PNG image data, 1304 x 593, 8-bit/color RGBA, non-interlaced",
+            "author": 7599847,
+            "stamp": 1772354724,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468188187,
+    "rating": 1,
+    "forum_thread": 17598983,
+    "tags": [
+        "原创",
+        "悲喜交加",
+        "物品",
+        "现实扭曲"
+    ],
+    "title": "Object AS-14 “临界现实”",
+    "sitemap_update": 1779549001000,
+    "votings": [
+        [
+            8719322,
+            false
+        ],
+        [
+            9494389,
+            true
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            8968839,
+            false
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9620811,
+            true
+        ]
+    ],
+    "is_locked": false
+}

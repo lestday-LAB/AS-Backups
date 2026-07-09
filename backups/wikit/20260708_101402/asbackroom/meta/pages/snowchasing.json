@@ -1,0 +1,110 @@
+{
+    "name": "snowchasing",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1544540397,
+            "author": 9295815,
+            "stamp": 1781013828,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544532371,
+            "author": 8749548,
+            "stamp": 1780982027,
+            "flags": "A",
+            "commentary": "已新增标签：魔法少女初级证书。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544532362,
+            "author": 8749548,
+            "stamp": 1780981958,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544527798,
+            "author": 9295815,
+            "stamp": 1780959917,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544527680,
+            "author": 9295815,
+            "stamp": 1780959470,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 星光魔法歌姬。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544527669,
+            "author": 9295815,
+            "stamp": 1780959373,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544527577,
+            "author": 9295815,
+            "stamp": 1780958707,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468825774,
+    "rating": 8,
+    "forum_thread": 18012294,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "故事",
+        "星光魔法歌姬",
+        "魔法少女初级证书"
+    ],
+    "title": "六月追雪",
+    "sitemap_update": 1781013828000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,145 @@
+{
+    "name": "fragment:gun1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1545067807,
+            "author": 9729411,
+            "stamp": 1783424886,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1544875637,
+            "author": 8719322,
+            "stamp": 1782532548,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1544735879,
+            "author": 8677784,
+            "stamp": 1781877119,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"hxjs2026-1\"."
+        },
+        {
+            "revision": 11,
+            "global_revision": 1544735859,
+            "author": 8677784,
+            "stamp": 1781877052,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1544119047,
+            "author": 8827633,
+            "stamp": 1779668742,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1543252367,
+            "author": 9379814,
+            "stamp": 1775831940,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543252249,
+            "author": 9379814,
+            "stamp": 1775831700,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543081811,
+            "author": 9577969,
+            "stamp": 1775181318,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542414756,
+            "author": 9603691,
+            "stamp": 1772572973,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542296806,
+            "author": 9729411,
+            "stamp": 1772012977,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542296135,
+            "author": 8719322,
+            "stamp": 1772010423,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542295902,
+            "author": 9808112,
+            "stamp": 1772009401,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542294627,
+            "author": 9844505,
+            "stamp": 1772003730,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542291702,
+            "author": 8827633,
+            "stamp": 1771990186,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542173230,
+            "author": 8457826,
+            "stamp": 1771589093,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468152399,
+    "parent": "hxjs2026-1",
+    "tags": [
+        "段落"
+    ],
+    "title": "枪之魔法少女第二季度",
+    "sitemap_update": 1783424886000,
+    "votings": [
+        [
+            9494389,
+            false
+        ],
+        [
+            9844505,
+            true
+        ]
+    ],
+    "is_locked": false
+}

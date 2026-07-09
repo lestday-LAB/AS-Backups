@@ -1,0 +1,86 @@
+{
+    "name": "level-as-523",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542116018,
+            "author": 9711154,
+            "stamp": 1771305038,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542115629,
+            "author": 9808112,
+            "stamp": 1771303750,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 城镇, 层级, 开阔性, 悲剧, 浪漫, 生存难度？, 道路, 雾霾。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542115608,
+            "author": 9808112,
+            "stamp": 1771303637,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468139989,
+    "rating": 9,
+    "forum_thread": 17590506,
+    "tags": [
+        "原创",
+        "城镇",
+        "层级",
+        "开阔性",
+        "悲剧",
+        "浪漫",
+        "生存难度？",
+        "道路",
+        "雾霾"
+    ],
+    "title": "Level-AS-523-“中山北二路”",
+    "sitemap_update": 1771305038000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9711154,
+            true
+        ],
+        [
+            8767769,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9545391,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8669732,
+            true
+        ],
+        [
+            9620811,
+            true
+        ]
+    ],
+    "is_locked": false
+}

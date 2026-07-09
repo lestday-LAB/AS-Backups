@@ -1,0 +1,213 @@
+{
+    "name": "level-as-98",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1543952225,
+            "author": 8749548,
+            "stamp": 1778905353,
+            "flags": "A",
+            "commentary": "已新增标签：站娘。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1525490182,
+            "author": 8827633,
+            "stamp": 1730116269,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1525488643,
+            "author": 8827633,
+            "stamp": 1730105456,
+            "flags": "A",
+            "commentary": "已新增标签：1/5k竞赛, 2024盲盒游戏, 原创, 封闭性, 层级, 生存难度2。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525488596,
+            "author": 8827633,
+            "stamp": 1730105130,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1525488576,
+            "author": 8827633,
+            "stamp": 1730104933,
+            "flags": "F",
+            "commentary": "已上传文件 “S4”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1525488573,
+            "author": 8827633,
+            "stamp": 1730104906,
+            "flags": "F",
+            "commentary": "已上传文件 “S3”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1525488569,
+            "author": 8827633,
+            "stamp": 1730104882,
+            "flags": "F",
+            "commentary": "已上传文件 “S2”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1525488566,
+            "author": 8827633,
+            "stamp": 1730104860,
+            "flags": "F",
+            "commentary": "已上传文件 “S1”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1525488560,
+            "author": 8827633,
+            "stamp": 1730104803,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11214941,
+            "name": "S1",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-98/S1",
+            "size": "2.31 MB (2423822 Bytes)",
+            "size_bytes": 2423822,
+            "mime": "image/png",
+            "content": "PNG image data, 1232 x 928, 8-bit/color RGBA, non-interlaced",
+            "author": 8827633,
+            "stamp": 1730104860,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11214942,
+            "name": "S2",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-98/S2",
+            "size": "1.97 MB (2066098 Bytes)",
+            "size_bytes": 2066098,
+            "mime": "image/png",
+            "content": "PNG image data, 1232 x 928, 8-bit/color RGBA, non-interlaced",
+            "author": 8827633,
+            "stamp": 1730104882,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11214943,
+            "name": "S3",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-98/S3",
+            "size": "1.98 MB (2080324 Bytes)",
+            "size_bytes": 2080324,
+            "mime": "image/png",
+            "content": "PNG image data, 1232 x 928, 8-bit/color RGBA, non-interlaced",
+            "author": 8827633,
+            "stamp": 1730104906,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11214944,
+            "name": "S4",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-98/S4",
+            "size": "1.87 MB (1961504 Bytes)",
+            "size_bytes": 1961504,
+            "mime": "image/png",
+            "content": "PNG image data, 1232 x 928, 8-bit/color RGBA, non-interlaced",
+            "author": 8827633,
+            "stamp": 1730104933,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1457222395,
+    "rating": 17,
+    "forum_thread": 16979453,
+    "tags": [
+        "1/5k竞赛",
+        "2024盲盒游戏",
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度2",
+        "站娘"
+    ],
+    "title": "The Station",
+    "sitemap_update": 1778905353000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9326772,
+            true
+        ],
+        [
+            9360102,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9441972,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            9178718,
+            true
+        ],
+        [
+            8145986,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            9168168,
+            true
+        ],
+        [
+            8695935,
+            true
+        ]
+    ],
+    "is_locked": false
+}

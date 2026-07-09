@@ -1,0 +1,155 @@
+{
+    "name": "level-as-614",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1542492534,
+            "author": 9545391,
+            "stamp": 1772933720,
+            "flags": "A",
+            "commentary": "已新增标签：模因, 艺术。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542492385,
+            "author": 9545391,
+            "stamp": 1772932926,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542316491,
+            "author": 9545391,
+            "stamp": 1772111889,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542315901,
+            "author": 9545391,
+            "stamp": 1772109923,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539556970,
+            "author": 9545391,
+            "stamp": 1763304224,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 层级意识, 开阔性, 浪漫, 生存难度死区, 积极, 返乡可能。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539556847,
+            "author": 9545391,
+            "stamp": 1763304173,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466803841,
+    "rating": 16,
+    "forum_thread": 17451272,
+    "tags": [
+        "原创",
+        "层级",
+        "层级意识",
+        "开阔性",
+        "模因",
+        "浪漫",
+        "生存难度死区",
+        "积极",
+        "艺术",
+        "返乡可能"
+    ],
+    "title": "Paradise AS-614 - “永恒双生 · 繁花归魂”",
+    "sitemap_update": 1772933720000,
+    "votings": [
+        [
+            9711154,
+            true
+        ],
+        [
+            10273658,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            9545391,
+            true
+        ],
+        [
+            9764585,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            8895670,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            8527767,
+            true
+        ],
+        [
+            9034717,
+            false
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9309833,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            8747271,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,97 @@
+{
+    "name": "the-beast-and-the-dream",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1544607665,
+            "author": 8457826,
+            "stamp": 1781324114,
+            "flags": "A",
+            "commentary": "已新增标签：千日庆典烟花券。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544607652,
+            "author": 8457826,
+            "stamp": 1781324046,
+            "flags": "A",
+            "commentary": "已新增标签：as层群千日纪念。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544607621,
+            "author": 8457826,
+            "stamp": 1781323878,
+            "flags": "A",
+            "commentary": "已新增标签：层级5。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544607618,
+            "author": 8457826,
+            "stamp": 1781323854,
+            "flags": "A",
+            "commentary": "已新增标签：实体18。 移除标签：entity18。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544607610,
+            "author": 8457826,
+            "stamp": 1781323811,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, entity18, 原创, 恐怖旅馆设定, 故事, 星光魔法歌姬。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544607591,
+            "author": 8457826,
+            "stamp": 1781323748,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468844007,
+    "forum_thread": 18027742,
+    "tags": [
+        "2026幻想竞赛",
+        "as层群千日纪念",
+        "千日庆典烟花券",
+        "原创",
+        "实体18",
+        "层级5",
+        "恐怖旅馆设定",
+        "故事",
+        "星光魔法歌姬"
+    ],
+    "title": "野兽与梦",
+    "sitemap_update": 1781324114000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            false
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ]
+    ],
+    "is_locked": false
+}

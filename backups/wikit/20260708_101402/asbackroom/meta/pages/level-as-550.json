@@ -1,0 +1,164 @@
+{
+    "name": "level-as-550",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1544470366,
+            "author": 8827633,
+            "stamp": 1780727282,
+            "flags": "A",
+            "commentary": "移除标签：宅之魔法少女。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543265355,
+            "author": 8749548,
+            "stamp": 1775883891,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543181152,
+            "author": 8827633,
+            "stamp": 1775638004,
+            "flags": "A",
+            "commentary": "移除标签：封魔石α。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543124665,
+            "author": 8736966,
+            "stamp": 1775360262,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543124655,
+            "author": 8736966,
+            "stamp": 1775360231,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543124584,
+            "author": 8736966,
+            "stamp": 1775359963,
+            "flags": "A",
+            "commentary": "已新增标签：合作。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543114784,
+            "author": 8736966,
+            "stamp": 1775315674,
+            "flags": "A",
+            "commentary": "已新增标签：封魔石α。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543114767,
+            "author": 8736966,
+            "stamp": 1775315584,
+            "flags": "A",
+            "commentary": "已新增标签：前厅映像, 返乡可能。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543114720,
+            "author": 8736966,
+            "stamp": 1775315512,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 宅之魔法少女, 层级, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543114678,
+            "author": 8736966,
+            "stamp": 1775315461,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468419270,
+    "rating": 11,
+    "forum_thread": 17697216,
+    "tags": [
+        "2026幻想竞赛",
+        "前厅映像",
+        "原创",
+        "合作",
+        "层级",
+        "生存难度0",
+        "返乡可能"
+    ],
+    "title": "Level AS-550",
+    "sitemap_update": 1780727282000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            9577969,
+            true
+        ],
+        [
+            10437326,
+            true
+        ],
+        [
+            8579565,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9034717,
+            false
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            8968839,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            9532241,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

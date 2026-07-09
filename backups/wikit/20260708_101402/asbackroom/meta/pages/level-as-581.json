@@ -1,0 +1,124 @@
+{
+    "name": "level-as-581",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1544759247,
+            "author": 9814883,
+            "stamp": 1781975484,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544622299,
+            "author": 9814883,
+            "stamp": 1781366302,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544472521,
+            "author": 9814883,
+            "stamp": 1780735373,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544453911,
+            "author": 9814883,
+            "stamp": 1780656304,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543401271,
+            "author": 9814883,
+            "stamp": 1776483376,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543401264,
+            "author": 9814883,
+            "stamp": 1776483352,
+            "flags": "A",
+            "commentary": "已新增标签：劣化, 危险度2, 原创, 层级, 开阔性, 感官影响, 时间异常, 生化性, 精神影响, 返乡可能, 道路。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543401255,
+            "author": 9814883,
+            "stamp": 1776483313,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468509789,
+    "rating": 10,
+    "forum_thread": 17750695,
+    "tags": [
+        "劣化",
+        "危险度2",
+        "原创",
+        "层级",
+        "开阔性",
+        "感官影响",
+        "时间异常",
+        "生化性",
+        "精神影响",
+        "返乡可能",
+        "道路"
+    ],
+    "title": "Level AS-581 “夜街”",
+    "sitemap_update": 1781975484000,
+    "votings": [
+        [
+            10260411,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9577969,
+            true
+        ],
+        [
+            8457826,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

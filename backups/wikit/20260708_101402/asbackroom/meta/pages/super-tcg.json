@@ -1,0 +1,103 @@
+{
+    "name": "super-tcg",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531535295,
+            "author": 8457826,
+            "stamp": 1755075063,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531535277,
+            "author": 8457826,
+            "stamp": 1755075042,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531534454,
+            "author": 8457826,
+            "stamp": 1755073784,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531534099,
+            "author": 8457826,
+            "stamp": 1755073118,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 速切大冒险。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531534093,
+            "author": 8457826,
+            "stamp": 1755073103,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460048563,
+    "forum_thread": 17185999,
+    "tags": [
+        "原创",
+        "故事",
+        "速切大冒险"
+    ],
+    "title": "酥皮：不打牌就出不去的房间之这就是我们之间的羁绊口牙！",
+    "sitemap_update": 1755075063000,
+    "votings": [
+        [
+            9056862,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

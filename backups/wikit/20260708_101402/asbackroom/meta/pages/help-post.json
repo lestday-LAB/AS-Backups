@@ -1,0 +1,140 @@
+{
+    "name": "help-post",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1544470416,
+            "author": 8827633,
+            "stamp": 1780727406,
+            "flags": "A",
+            "commentary": "移除标签：宅之魔法少女。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542405442,
+            "author": 9056862,
+            "stamp": 1772533504,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542405261,
+            "author": 9056862,
+            "stamp": 1772533175,
+            "flags": "A",
+            "commentary": "已新增标签：速切大冒险。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542397064,
+            "author": 8736966,
+            "stamp": 1772522313,
+            "flags": "T",
+            "commentary": "修改半角符号"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542396941,
+            "author": 9056862,
+            "stamp": 1772522157,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 宅之魔法少女, 魔法少女实习证书。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542396881,
+            "author": 9056862,
+            "stamp": 1772522088,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542396868,
+            "author": 9056862,
+            "stamp": 1772522069,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 喜剧, 悲喜交加, 故事。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542396848,
+            "author": 9056862,
+            "stamp": 1772522037,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542396796,
+            "author": 9056862,
+            "stamp": 1772521932,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542396747,
+            "author": 9056862,
+            "stamp": 1772521837,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542396728,
+            "author": 9056862,
+            "stamp": 1772521775,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468195787,
+    "rating": 5,
+    "forum_thread": 17599824,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "喜剧",
+        "悲喜交加",
+        "故事",
+        "速切大冒险",
+        "魔法少女实习证书"
+    ],
+    "title": "求助贴：救命",
+    "sitemap_update": 1780727406000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            false
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            8740422,
+            true
+        ]
+    ],
+    "is_locked": false
+}

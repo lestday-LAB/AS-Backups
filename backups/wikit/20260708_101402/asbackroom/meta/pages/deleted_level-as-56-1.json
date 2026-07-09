@@ -1,0 +1,52 @@
+{
+    "name": "deleted:level-as-56-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545093846,
+            "author": 9309833,
+            "stamp": 1783531331,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-as-56\" 至 \"deleted:level-as-56-1\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545092335,
+            "author": 9309833,
+            "stamp": 1783525140,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度3。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545092318,
+            "author": 9309833,
+            "stamp": 1783525071,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468956221,
+    "rating": 0,
+    "forum_thread": 18106964,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度3"
+    ],
+    "title": "Level As 56",
+    "sitemap_update": 1783531331000,
+    "votings": [
+        [
+            4784440,
+            false
+        ],
+        [
+            10140214,
+            true
+        ]
+    ],
+    "is_locked": false
+}

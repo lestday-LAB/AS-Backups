@@ -1,0 +1,161 @@
+{
+    "name": "page-completion",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1544663008,
+            "author": 8145986,
+            "stamp": 1781577108,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1531355698,
+            "author": 9453818,
+            "stamp": 1754214458,
+            "flags": "S",
+            "commentary": "将物品上限数量改为50"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1526999273,
+            "author": 8145986,
+            "stamp": 1735476790,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1526162654,
+            "author": 8145986,
+            "stamp": 1733366625,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1526162645,
+            "author": 8145986,
+            "stamp": 1733366563,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1526162596,
+            "author": 8145986,
+            "stamp": 1733366499,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1526162591,
+            "author": 8145986,
+            "stamp": 1733366460,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1525918542,
+            "author": 8145986,
+            "stamp": 1732249378,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1525918418,
+            "author": 8145986,
+            "stamp": 1732247977,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1525918377,
+            "author": 8145986,
+            "stamp": 1732247530,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1525918370,
+            "author": 8145986,
+            "stamp": 1732247499,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525918332,
+            "author": 8145986,
+            "stamp": 1732247401,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 1"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1525918325,
+            "author": 8145986,
+            "stamp": 1732247250,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1525918313,
+            "author": 8145986,
+            "stamp": 1732247098,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1525918302,
+            "author": 8145986,
+            "stamp": 1732246949,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1525918288,
+            "author": 8145986,
+            "stamp": 1732246749,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1525918284,
+            "author": 8145986,
+            "stamp": 1732246708,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1457417735,
+    "forum_thread": 17177284,
+    "tags": [
+        "管理"
+    ],
+    "title": "页面完成度",
+    "sitemap_update": 1781577108000,
+    "votings": [
+        [
+            9287769,
+            false
+        ],
+        [
+            9795685,
+            true
+        ]
+    ],
+    "is_locked": false
+}

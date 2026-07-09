@@ -1,0 +1,74 @@
+{
+    "name": "sherryandannie1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1544511663,
+            "author": 8827633,
+            "stamp": 1780892316,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 大图书管理员, 故事, 站娘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544511526,
+            "author": 8827633,
+            "stamp": 1780891940,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468822198,
+    "rating": 9,
+    "forum_thread": 18007447,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "大图书管理员",
+        "故事",
+        "站娘"
+    ],
+    "title": "间章·焦土与麦穗之间",
+    "sitemap_update": 1780892316000,
+    "votings": [
+        [
+            10433929,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            10302775,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

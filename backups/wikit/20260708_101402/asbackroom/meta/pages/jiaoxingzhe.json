@@ -1,0 +1,218 @@
+{
+    "name": "jiaoxingzhe",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 19,
+            "global_revision": 1544928840,
+            "author": 8749548,
+            "stamp": 1782792871,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1544744440,
+            "author": 8749548,
+            "stamp": 1781921241,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1544652060,
+            "author": 8749548,
+            "stamp": 1781522783,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1544652041,
+            "author": 8749548,
+            "stamp": 1781522735,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1544626176,
+            "author": 8749548,
+            "stamp": 1781390676,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1544470514,
+            "author": 8827633,
+            "stamp": 1780727724,
+            "flags": "A",
+            "commentary": "移除标签：不良魔法少女。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1544470418,
+            "author": 8827633,
+            "stamp": 1780727421,
+            "flags": "A",
+            "commentary": "移除标签：宅之魔法少女。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1544378333,
+            "author": 8749548,
+            "stamp": 1780286765,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1544282257,
+            "author": 8749548,
+            "stamp": 1780046402,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1544143772,
+            "author": 8749548,
+            "stamp": 1779768080,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1544064387,
+            "author": 8749548,
+            "stamp": 1779427856,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543960492,
+            "author": 8749548,
+            "stamp": 1778933980,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543840743,
+            "author": 8749548,
+            "stamp": 1778470376,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543840733,
+            "author": 8749548,
+            "stamp": 1778470311,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543840503,
+            "author": 8827633,
+            "stamp": 1778468678,
+            "flags": "A",
+            "commentary": "移除标签：陷阱：孤立无援。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543824320,
+            "author": 8749548,
+            "stamp": 1778385837,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543824031,
+            "author": 8749548,
+            "stamp": 1778384600,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543823626,
+            "author": 8749548,
+            "stamp": 1778383050,
+            "flags": "A",
+            "commentary": "已新增标签：陷阱：孤立无援。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543823615,
+            "author": 8749548,
+            "stamp": 1778382982,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 不良魔法少女, 原创, 宅之魔法少女, 悲剧, 相关人士, 羁绊的纽带。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543823597,
+            "author": 8749548,
+            "stamp": 1778382929,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468636581,
+    "rating": 9,
+    "forum_thread": 17862666,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "悲剧",
+        "相关人士",
+        "羁绊的纽带"
+    ],
+    "title": "绞幸者",
+    "sitemap_update": 1782792871000,
+    "votings": [
+        [
+            9171886,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            10302775,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            9533296,
+            true
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

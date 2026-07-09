@@ -1,0 +1,200 @@
+{
+    "name": "object-as-xs-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1544861669,
+            "author": 10433929,
+            "stamp": 1782457736,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1526067502,
+            "author": 8145986,
+            "stamp": 1733144027,
+            "flags": "A",
+            "commentary": "已新增标签：新手专区。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1525338714,
+            "author": 9337543,
+            "stamp": 1729337055,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1525338607,
+            "author": 9337543,
+            "stamp": 1729336530,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1525336222,
+            "author": 9337543,
+            "stamp": 1729324573,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1525335025,
+            "author": 9337543,
+            "stamp": 1729318152,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1525334428,
+            "author": 9337543,
+            "stamp": 1729315656,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1525334328,
+            "author": 9337543,
+            "stamp": 1729315235,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525334219,
+            "author": 9337543,
+            "stamp": 1729314704,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 物品。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1525334213,
+            "author": 9337543,
+            "stamp": 1729314679,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1525334162,
+            "author": 9337543,
+            "stamp": 1729314350,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20241019_130535.jpg”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1525334118,
+            "author": 9337543,
+            "stamp": 1729314302,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20241019_122745.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1525334114,
+            "author": 9337543,
+            "stamp": 1729314273,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20241019_121740.jpg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1525334087,
+            "author": 9337543,
+            "stamp": 1729314209,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11209120,
+            "name": "IMG_20241019_121740.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/object-as-xs-1/IMG_20241019_121740.jpg",
+            "size": "208.41 kB (213414 Bytes)",
+            "size_bytes": 213414,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 768x768, components 3",
+            "author": 9337543,
+            "stamp": 1729314273,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11209121,
+            "name": "IMG_20241019_122745.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/object-as-xs-1/IMG_20241019_122745.jpg",
+            "size": "160.26 kB (164107 Bytes)",
+            "size_bytes": 164107,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 768x768, components 3",
+            "author": 9337543,
+            "stamp": 1729314302,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11209124,
+            "name": "IMG_20241019_130535.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/object-as-xs-1/IMG_20241019_130535.jpg",
+            "size": "142.73 kB (146151 Bytes)",
+            "size_bytes": 146151,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 768x768, components 3",
+            "author": 9337543,
+            "stamp": 1729314350,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1457169387,
+    "forum_thread": 16973672,
+    "tags": [
+        "原创",
+        "新手专区",
+        "物品"
+    ],
+    "title": "Object As Xs 1",
+    "sitemap_update": 1782457736000,
+    "votings": [
+        [
+            9344041,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9326772,
+            true
+        ],
+        [
+            9441972,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

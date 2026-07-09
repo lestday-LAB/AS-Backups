@@ -1,0 +1,97 @@
+{
+    "name": "basic-typesetting",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1544901101,
+            "author": 8457826,
+            "stamp": 1782645864,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544727178,
+            "author": 8457826,
+            "stamp": 1781845287,
+            "flags": "A",
+            "commentary": "已新增标签：星光魔法歌姬。 移除标签：星光魔法少女。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544727166,
+            "author": 8457826,
+            "stamp": 1781845235,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 星光魔法少女, 议论。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544727161,
+            "author": 8457826,
+            "stamp": 1781845203,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544727155,
+            "author": 8457826,
+            "stamp": 1781845157,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468869034,
+    "rating": 9,
+    "forum_thread": 18033178,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "星光魔法歌姬",
+        "议论"
+    ],
+    "title": "基础排版——不要让你的文章到处都是",
+    "sitemap_update": 1782645864000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9420530,
+            true
+        ],
+        [
+            8895670,
+            true
+        ],
+        [
+            10140214,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

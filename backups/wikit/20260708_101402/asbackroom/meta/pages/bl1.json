@@ -1,0 +1,105 @@
+{
+    "name": "bl1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1544470244,
+            "author": 8827633,
+            "stamp": 1780726904,
+            "flags": "A",
+            "commentary": "移除标签：不良魔法少女, 大图书管理员。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543102767,
+            "author": 8749548,
+            "stamp": 1775276663,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543004309,
+            "author": 8749548,
+            "stamp": 1774843647,
+            "flags": "A",
+            "commentary": "已新增标签：站娘。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543004263,
+            "author": 8749548,
+            "stamp": 1774843564,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543004213,
+            "author": 8749548,
+            "stamp": 1774843150,
+            "flags": "A",
+            "commentary": "已新增标签：大图书管理员。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543003471,
+            "author": 8827633,
+            "stamp": 1774837671,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 不良魔法少女, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543003464,
+            "author": 8827633,
+            "stamp": 1774837640,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468384875,
+    "rating": 7,
+    "forum_thread": 17672113,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "故事",
+        "站娘"
+    ],
+    "title": "不良魔法少女-Q的日记",
+    "sitemap_update": 1780726904000,
+    "votings": [
+        [
+            10389231,
+            true
+        ],
+        [
+            10302775,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9533296,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9482930,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

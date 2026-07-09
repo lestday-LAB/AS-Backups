@@ -1,0 +1,240 @@
+{
+    "name": "rave-place",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1526999178,
+            "author": 8145986,
+            "stamp": 1735476221,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度其他。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1525331911,
+            "author": 8457826,
+            "stamp": 1729302090,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1525216791,
+            "author": 8457826,
+            "stamp": 1728904458,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1525205540,
+            "author": 8457826,
+            "stamp": 1728828688,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1525205534,
+            "author": 8457826,
+            "stamp": 1728828665,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1525205482,
+            "author": 8457826,
+            "stamp": 1728828377,
+            "flags": "A",
+            "commentary": "已新增标签：子层级。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1525205480,
+            "author": 8457826,
+            "stamp": 1728828363,
+            "flags": "A",
+            "commentary": "已新增标签：层级。 移除标签：子层级。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1525205317,
+            "author": 8457826,
+            "stamp": 1728827797,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525205302,
+            "author": 8457826,
+            "stamp": 1728827671,
+            "flags": "A",
+            "commentary": "已新增标签：悲剧。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1525205183,
+            "author": 8457826,
+            "stamp": 1728827044,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1525205180,
+            "author": 8457826,
+            "stamp": 1728827024,
+            "flags": "A",
+            "commentary": "已新增标签：1/5k竞赛, 介系, 原创, 子层级。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1525205176,
+            "author": 8457826,
+            "stamp": 1728826998,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1525205161,
+            "author": 8457826,
+            "stamp": 1728826930,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1525205149,
+            "author": 8457826,
+            "stamp": 1728826872,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1457092084,
+    "rating": 24,
+    "forum_thread": 16963527,
+    "tags": [
+        "1/5k竞赛",
+        "介系",
+        "原创",
+        "子层级",
+        "层级",
+        "悲剧",
+        "生存难度其他"
+    ],
+    "title": "社区狂欢地介绍及安全指南",
+    "sitemap_update": 1735476221000,
+    "votings": [
+        [
+            9171886,
+            true
+        ],
+        [
+            8172076,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8767769,
+            true
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            7971589,
+            true
+        ],
+        [
+            9050277,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            8488493,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            7596287,
+            true
+        ],
+        [
+            9476521,
+            true
+        ],
+        [
+            9302580,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9437079,
+            true
+        ],
+        [
+            9719553,
+            true
+        ],
+        [
+            8705259,
+            true
+        ],
+        [
+            8145986,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8747271,
+            true
+        ],
+        [
+            9453818,
+            true
+        ],
+        [
+            9359857,
+            false
+        ],
+        [
+            8984427,
+            true
+        ],
+        [
+            9041970,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,134 @@
+{
+    "name": "level-as-567",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1545092596,
+            "author": 8677784,
+            "stamp": 1783525893,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度2。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1545022998,
+            "author": 9016526,
+            "stamp": 1783232127,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1545022573,
+            "author": 9016526,
+            "stamp": 1783230475,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1545022438,
+            "author": 9016526,
+            "stamp": 1783230059,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544943752,
+            "author": 8968839,
+            "stamp": 1782870020,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性, 道路。 移除标签：新手专区。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544934642,
+            "author": 9016526,
+            "stamp": 1782821918,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544934588,
+            "author": 9016526,
+            "stamp": 1782821696,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544934577,
+            "author": 9016526,
+            "stamp": 1782821662,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-as-xs-34\" 至 \"level-as-567\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544745883,
+            "author": 9016526,
+            "stamp": 1781927097,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544745662,
+            "author": 9016526,
+            "stamp": 1781926452,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 新手专区。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544745447,
+            "author": 9016526,
+            "stamp": 1781925622,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468873698,
+    "rating": 4,
+    "forum_thread": 18074313,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度2",
+        "道路"
+    ],
+    "title": "Level AS-567",
+    "sitemap_update": 1783525893000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            9016526,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            8968839,
+            false
+        ]
+    ],
+    "is_locked": false
+}

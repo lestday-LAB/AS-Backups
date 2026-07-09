@@ -1,0 +1,167 @@
+{
+    "name": "entity-as-44",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1544469431,
+            "author": 8827633,
+            "stamp": 1780724113,
+            "flags": "A",
+            "commentary": "移除标签：枪之魔法少女。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1544352023,
+            "author": 9844505,
+            "stamp": 1780204507,
+            "flags": "S T",
+            "commentary": "您已成功地回复本页至修订版本编号 8"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1544351997,
+            "author": 9844505,
+            "stamp": 1780204395,
+            "flags": "S T",
+            "commentary": "将REDE-AS-6改为REDE AS-6。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543185955,
+            "author": 9808112,
+            "stamp": 1775652385,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543149167,
+            "author": 9808112,
+            "stamp": 1775465793,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543147058,
+            "author": 9808112,
+            "stamp": 1775457099,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543147014,
+            "author": 9808112,
+            "stamp": 1775456833,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543146999,
+            "author": 9808112,
+            "stamp": 1775456749,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543146975,
+            "author": 9808112,
+            "stamp": 1775456627,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543146963,
+            "author": 9808112,
+            "stamp": 1775456577,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543144394,
+            "author": 9808112,
+            "stamp": 1775445794,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, rede实体, 原创, 孤例, 实体, 枪之魔法少女, 精神影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543144365,
+            "author": 9808112,
+            "stamp": 1775445581,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468424508,
+    "rating": 8,
+    "forum_thread": 17696372,
+    "tags": [
+        "2026幻想竞赛",
+        "rede实体",
+        "原创",
+        "孤例",
+        "实体",
+        "精神影响"
+    ],
+    "title": "REDE-AS-6",
+    "sitemap_update": 1780724113000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9833590,
+            true
+        ],
+        [
+            9577969,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9034717,
+            false
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

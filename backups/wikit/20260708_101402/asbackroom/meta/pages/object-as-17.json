@@ -1,0 +1,276 @@
+{
+    "name": "object-as-17",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 24,
+            "global_revision": 1544812780,
+            "author": 8749548,
+            "stamp": 1782212596,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1544812688,
+            "author": 8749548,
+            "stamp": 1782212068,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1544662968,
+            "author": 8749548,
+            "stamp": 1781577064,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1544546722,
+            "author": 8749548,
+            "stamp": 1781044676,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1544470475,
+            "author": 8827633,
+            "stamp": 1780727611,
+            "flags": "A",
+            "commentary": "移除标签：不良魔法少女。"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1544257962,
+            "author": 8749548,
+            "stamp": 1780013554,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1544257933,
+            "author": 8749548,
+            "stamp": 1780013515,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1544121197,
+            "author": 8749548,
+            "stamp": 1779681370,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1544061667,
+            "author": 8749548,
+            "stamp": 1779408607,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1543678077,
+            "author": 8749548,
+            "stamp": 1777718769,
+            "flags": "A",
+            "commentary": "已新增标签：千日庆典通行券。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1543622695,
+            "author": 8749548,
+            "stamp": 1777521726,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1543622693,
+            "author": 8749548,
+            "stamp": 1777521697,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1543622687,
+            "author": 8749548,
+            "stamp": 1777521621,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1543487359,
+            "author": 8749548,
+            "stamp": 1776828629,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1543487342,
+            "author": 8749548,
+            "stamp": 1776828500,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1543487213,
+            "author": 8749548,
+            "stamp": 1776827135,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543472894,
+            "author": 8749548,
+            "stamp": 1776744763,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543443169,
+            "author": 9844505,
+            "stamp": 1776603246,
+            "flags": "A",
+            "commentary": "已新增标签：物品。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543433096,
+            "author": 8749548,
+            "stamp": 1776574425,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543432660,
+            "author": 8749548,
+            "stamp": 1776573158,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543431476,
+            "author": 8749548,
+            "stamp": 1776569701,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543431186,
+            "author": 8749548,
+            "stamp": 1776568838,
+            "flags": "A",
+            "commentary": "已新增标签：as层群千日纪念。 移除标签：as层群千日纪念竞赛。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543431163,
+            "author": 8749548,
+            "stamp": 1776568776,
+            "flags": "A",
+            "commentary": "已新增标签：as层群千日纪念竞赛。 移除标签：后室as层群千日纪念竞赛。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543431144,
+            "author": 8749548,
+            "stamp": 1776568720,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 不良魔法少女, 原创, 后室as层群千日纪念竞赛, 后室厨师联盟, 消耗品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543431110,
+            "author": 8749548,
+            "stamp": 1776568646,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468524155,
+    "rating": 13,
+    "forum_thread": 17756363,
+    "tags": [
+        "2026幻想竞赛",
+        "as层群千日纪念",
+        "千日庆典通行券",
+        "原创",
+        "后室厨师联盟",
+        "消耗品",
+        "物品"
+    ],
+    "title": "Object As-17",
+    "sitemap_update": 1782212596000,
+    "votings": [
+        [
+            8156580,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9577969,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8669732,
+            true
+        ],
+        [
+            8712717,
+            true
+        ],
+        [
+            8747271,
+            true
+        ]
+    ],
+    "is_locked": false
+}

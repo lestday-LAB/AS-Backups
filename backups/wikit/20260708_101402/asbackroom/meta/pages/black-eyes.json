@@ -1,0 +1,88 @@
+{
+    "name": "black-eyes",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1544470592,
+            "author": 8827633,
+            "stamp": 1780727864,
+            "flags": "A",
+            "commentary": "移除标签：星光魔法歌姬。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542562671,
+            "author": 8457826,
+            "stamp": 1773057158,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 故事, 星光魔法歌姬。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542562663,
+            "author": 8457826,
+            "stamp": 1773057128,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542562620,
+            "author": 8457826,
+            "stamp": 1773057093,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468229943,
+    "rating": 9,
+    "forum_thread": 17613002,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "故事"
+    ],
+    "title": "电台杂谈第三期：黑瞳小孩",
+    "sitemap_update": 1780727864000,
+    "votings": [
+        [
+            9555124,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9825883,
+            true
+        ],
+        [
+            8504951,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            8747271,
+            true
+        ]
+    ],
+    "is_locked": false
+}

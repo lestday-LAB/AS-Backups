@@ -1,0 +1,152 @@
+{
+    "name": "art:star4326-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1544470269,
+            "author": 8827633,
+            "stamp": 1780726979,
+            "flags": "A",
+            "commentary": "移除标签：大图书管理员。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543314585,
+            "author": 8827633,
+            "stamp": 1776041703,
+            "flags": "A",
+            "commentary": "已新增标签：艺术作品。 移除标签：艺作。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543314505,
+            "author": 8827633,
+            "stamp": 1776040622,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 大图书管理员, 艺作。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543314501,
+            "author": 8827633,
+            "stamp": 1776040562,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543314498,
+            "author": 8827633,
+            "stamp": 1776040535,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543314479,
+            "author": 8827633,
+            "stamp": 1776040446,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543314477,
+            "author": 8827633,
+            "stamp": 1776040420,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543314468,
+            "author": 8827633,
+            "stamp": 1776040342,
+            "flags": "F",
+            "commentary": "已上传文件 “star4326”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543314467,
+            "author": 8827633,
+            "stamp": 1776040342,
+            "flags": "F",
+            "commentary": "已上传文件 “star4326”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543314459,
+            "author": 8827633,
+            "stamp": 1776040305,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11792952,
+            "name": "star4326",
+            "url": "http://asbackroom.wikidot.com/local--files/art:star4326-1/star4326",
+            "size": "107.18 kB (109757 Bytes)",
+            "size_bytes": 109757,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 922x2000, components 3",
+            "author": 8827633,
+            "stamp": 1776040342,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468482941,
+    "forum_thread": 17718368,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "艺术作品"
+    ],
+    "title": "《某个世界，星璇》",
+    "sitemap_update": 1780726979000,
+    "votings": [
+        [
+            9056862,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9577969,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9533296,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8669732,
+            true
+        ],
+        [
+            8747271,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,107 @@
+{
+    "name": "level-as-385",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1544470189,
+            "author": 8827633,
+            "stamp": 1780726711,
+            "flags": "A",
+            "commentary": "移除标签：大图书管理员。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543429910,
+            "author": 8677784,
+            "stamp": 1776565450,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度？。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543428448,
+            "author": 8677784,
+            "stamp": 1776561584,
+            "flags": "A",
+            "commentary": "已新增标签：大图书管理员。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543428421,
+            "author": 8677784,
+            "stamp": 1776561467,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"deleted:level-as-385\" 至 \"level-as-385\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543345870,
+            "author": 9018165,
+            "stamp": 1776212617,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-as-385\" 至 \"deleted:level-as-385\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543345754,
+            "author": 9018165,
+            "stamp": 1776211503,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543345563,
+            "author": 9018165,
+            "stamp": 1776210585,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543345556,
+            "author": 9018165,
+            "stamp": 1776210539,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543340652,
+            "author": 9018165,
+            "stamp": 1776181579,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 层级。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543340571,
+            "author": 9018165,
+            "stamp": 1776181239,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468490485,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "层级",
+        "生存难度？"
+    ],
+    "title": "Level AS-385“停车地”",
+    "sitemap_update": 1780726711000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            9533296,
+            true
+        ]
+    ],
+    "is_locked": false
+}

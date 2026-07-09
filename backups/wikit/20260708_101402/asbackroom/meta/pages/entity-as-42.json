@@ -1,0 +1,155 @@
+{
+    "name": "entity-as-42",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1545030520,
+            "author": 10377956,
+            "stamp": 1783259831,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1545030496,
+            "author": 10377956,
+            "stamp": 1783259726,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1545030465,
+            "author": 10377956,
+            "stamp": 1783259607,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542410532,
+            "author": 9531925,
+            "stamp": 1772549762,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542410514,
+            "author": 9531925,
+            "stamp": 1772549694,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542410508,
+            "author": 9531925,
+            "stamp": 1772549676,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542410481,
+            "author": 9531925,
+            "stamp": 1772549559,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541183928,
+            "author": 9531925,
+            "stamp": 1767103680,
+            "flags": "A",
+            "commentary": "已新增标签：共生, 原创, 实体, 悲剧, 智能, 精神影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541180833,
+            "author": 9531925,
+            "stamp": 1767090670,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467943476,
+    "rating": 15,
+    "forum_thread": 17504273,
+    "tags": [
+        "共生",
+        "原创",
+        "实体",
+        "悲剧",
+        "智能",
+        "精神影响"
+    ],
+    "title": "Entity AS-42",
+    "sitemap_update": 1783259831000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9555124,
+            true
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            9545391,
+            true
+        ],
+        [
+            9100566,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            7599847,
+            true
+        ],
+        [
+            9593076,
+            true
+        ],
+        [
+            8504951,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            8747271,
+            true
+        ]
+    ],
+    "is_locked": false
+}

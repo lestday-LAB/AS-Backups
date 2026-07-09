@@ -1,0 +1,145 @@
+{
+    "name": "entity-as-8",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1544174569,
+            "author": 9844505,
+            "stamp": 1779889713,
+            "flags": "T",
+            "commentary": "标题少打了个“y”没绷住"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1525985932,
+            "author": 8145986,
+            "stamp": 1732600472,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1525199465,
+            "author": 8457826,
+            "stamp": 1728790275,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"entit-as-8\" 至 \"entity-as-8\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1518858485,
+            "author": 8752576,
+            "stamp": 1709960566,
+            "flags": "S",
+            "commentary": "修正微链接"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1515557954,
+            "author": 8747271,
+            "stamp": 1698583034,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1515557945,
+            "author": 8747271,
+            "stamp": 1698583004,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 善意, 实体, 现实扭曲。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1515215383,
+            "author": 8747271,
+            "stamp": 1697903980,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1515101117,
+            "author": 8747271,
+            "stamp": 1697544696,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1514955781,
+            "author": 8747271,
+            "stamp": 1697305414,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1514955580,
+            "author": 8747271,
+            "stamp": 1697304656,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1514955577,
+            "author": 8747271,
+            "stamp": 1697304614,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1450676953,
+    "rating": 7,
+    "forum_thread": 16414281,
+    "tags": [
+        "原创",
+        "善意",
+        "实体",
+        "现实扭曲"
+    ],
+    "title": "Entity AS-8",
+    "sitemap_update": 1779889713000,
+    "votings": [
+        [
+            8853151,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            8821793,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9009778,
+            false
+        ],
+        [
+            8752576,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8747271,
+            true
+        ],
+        [
+            8695935,
+            true
+        ]
+    ],
+    "is_locked": false
+}

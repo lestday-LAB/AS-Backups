@@ -1,0 +1,89 @@
+{
+    "name": "level-as-330",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1545078118,
+            "author": 9453818,
+            "stamp": 1783476549,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531217631,
+            "author": 9453818,
+            "stamp": 1753623225,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531217557,
+            "author": 9453818,
+            "stamp": 1753622907,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531175793,
+            "author": 9453818,
+            "stamp": 1753428820,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 环境危害, 生存难度3。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531175784,
+            "author": 9453818,
+            "stamp": 1753428753,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459961352,
+    "forum_thread": 17171375,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "环境危害",
+        "生存难度3"
+    ],
+    "title": "Level AS-330",
+    "sitemap_update": 1783476549000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9555124,
+            true
+        ],
+        [
+            9603691,
+            false
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            9326772,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8669732,
+            true
+        ]
+    ],
+    "is_locked": false
+}

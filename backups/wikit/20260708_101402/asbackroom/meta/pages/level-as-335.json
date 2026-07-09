@@ -1,0 +1,142 @@
+{
+    "name": "level-as-335",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1543831763,
+            "author": 10146283,
+            "stamp": 1778416454,
+            "flags": "A",
+            "commentary": "已新增标签：合著。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543746301,
+            "author": 9853042,
+            "stamp": 1777979567,
+            "flags": "A",
+            "commentary": "移除标签：2026幻想竞赛, 大图书管理员。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543741372,
+            "author": 9853042,
+            "stamp": 1777969326,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543740034,
+            "author": 9853042,
+            "stamp": 1777967437,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543739991,
+            "author": 9853042,
+            "stamp": 1777967334,
+            "flags": "F",
+            "commentary": "已上传文件 “Screenshot_2026-05-05-15-46-55-289_com.larus.nova-edit.jpg”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543739974,
+            "author": 9853042,
+            "stamp": 1777967310,
+            "flags": "F",
+            "commentary": "已上传文件 “Screenshot_2026-05-05-15-47-21-833_com.larus.nova-edit.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543739806,
+            "author": 9853042,
+            "stamp": 1777967069,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 大图书管理员, 层级, 生存难度3。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543739716,
+            "author": 9853042,
+            "stamp": 1777966952,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11809642,
+            "name": "Screenshot_2026-05-05-15-46-55-289_com.larus.nova-edit.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-335/Screenshot_2026-05-05-15-46-55-289_com.larus.nova-edit.jpg",
+            "size": "308.37 kB (315768 Bytes)",
+            "size_bytes": 315768,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 522x1135, components 3",
+            "author": 9853042,
+            "stamp": 1777967334,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11809641,
+            "name": "Screenshot_2026-05-05-15-47-21-833_com.larus.nova-edit.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-335/Screenshot_2026-05-05-15-47-21-833_com.larus.nova-edit.jpg",
+            "size": "664.31 kB (680254 Bytes)",
+            "size_bytes": 680254,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 1011x1350, components 3",
+            "author": 9853042,
+            "stamp": 1777967310,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468618065,
+    "rating": 6,
+    "forum_thread": 17850802,
+    "tags": [
+        "原创",
+        "合著",
+        "层级",
+        "生存难度3"
+    ],
+    "title": "Level AS-335 “天各一方”",
+    "sitemap_update": 1778416454000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9853042,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            9034717,
+            false
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            10146283,
+            true
+        ]
+    ],
+    "is_locked": false
+}

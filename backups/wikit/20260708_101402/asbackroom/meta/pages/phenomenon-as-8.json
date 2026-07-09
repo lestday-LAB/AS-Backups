@@ -1,0 +1,134 @@
+{
+    "name": "phenomenon-as-8",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1518467526,
+            "author": 8962113,
+            "stamp": 1708526554,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1518467516,
+            "author": 8962113,
+            "stamp": 1708526494,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 4"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1518467510,
+            "author": 8962113,
+            "stamp": 1708526444,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1518445994,
+            "author": 8962113,
+            "stamp": 1708446791,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1518445904,
+            "author": 8962113,
+            "stamp": 1708446432,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1518445825,
+            "author": 8962113,
+            "stamp": 1708446213,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1518109684,
+            "author": 8962113,
+            "stamp": 1707369173,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 现象。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1518109677,
+            "author": 8962113,
+            "stamp": 1707369151,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1452572424,
+    "rating": 9,
+    "tags": [
+        "原创",
+        "现象"
+    ],
+    "title": "Phenomenon AS-8",
+    "sitemap_update": 1708526554000,
+    "votings": [
+        [
+            8443876,
+            true
+        ],
+        [
+            9171886,
+            false
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            8729181,
+            false
+        ],
+        [
+            7596287,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            8752576,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8712717,
+            true
+        ],
+        [
+            8747271,
+            true
+        ],
+        [
+            8984427,
+            true
+        ],
+        [
+            8666147,
+            true
+        ]
+    ],
+    "is_locked": false
+}

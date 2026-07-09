@@ -1,0 +1,111 @@
+{
+    "name": "level-as-xs-7",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1526161790,
+            "author": 8145986,
+            "stamp": 1733361880,
+            "flags": "A",
+            "commentary": "已新增标签：原创。 移除标签：寒冷。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1526067412,
+            "author": 8145986,
+            "stamp": 1733143421,
+            "flags": "A",
+            "commentary": "已新增标签：新手专区。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1526064421,
+            "author": 8145986,
+            "stamp": 1733124542,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1526064398,
+            "author": 8145986,
+            "stamp": 1733124335,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度2。 移除标签：生存难度2e。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1526064397,
+            "author": 8145986,
+            "stamp": 1733124317,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1520887463,
+            "author": 8690722,
+            "stamp": 1718113954,
+            "flags": "A",
+            "commentary": "已新增标签：寒冷, 层级, 开阔性, 环境危害, 生存难度2e。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1520887411,
+            "author": 8690722,
+            "stamp": 1718113698,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1454045400,
+    "rating": 8,
+    "forum_thread": 16906943,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "新手专区",
+        "环境危害",
+        "生存难度2"
+    ],
+    "title": "Level AS-XS-7",
+    "sitemap_update": 1733361880000,
+    "votings": [
+        [
+            9739429,
+            true
+        ],
+        [
+            10204656,
+            true
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            9125469,
+            true
+        ],
+        [
+            8993068,
+            true
+        ],
+        [
+            9293437,
+            true
+        ],
+        [
+            8961567,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

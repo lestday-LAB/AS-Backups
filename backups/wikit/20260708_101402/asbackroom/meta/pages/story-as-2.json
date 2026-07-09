@@ -1,0 +1,104 @@
+{
+    "name": "story-as-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1525535638,
+            "author": 8827633,
+            "stamp": 1730423160,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1525484556,
+            "author": 8827633,
+            "stamp": 1730075539,
+            "flags": "A",
+            "commentary": "已新增标签：2024盲盒游戏, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1525484555,
+            "author": 8827633,
+            "stamp": 1730075527,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1457220857,
+    "rating": 1,
+    "forum_thread": 16979358,
+    "tags": [
+        "2024盲盒游戏",
+        "原创",
+        "故事"
+    ],
+    "title": "《表》",
+    "sitemap_update": 1730423160000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            8767769,
+            false
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            8677784,
+            false
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9302580,
+            false
+        ],
+        [
+            8504951,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9178718,
+            false
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9395238,
+            true
+        ],
+        [
+            8669732,
+            false
+        ],
+        [
+            9620811,
+            false
+        ],
+        [
+            8747271,
+            true
+        ],
+        [
+            9359857,
+            false
+        ]
+    ],
+    "is_locked": false
+}

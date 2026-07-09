@@ -1,0 +1,197 @@
+{
+    "name": "level-as-452",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 17,
+            "global_revision": 1539166277,
+            "author": 9360102,
+            "stamp": 1762683116,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1526155818,
+            "author": 8145986,
+            "stamp": 1733325045,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度？。 移除标签：生存难度未定分级。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1526050417,
+            "author": 9171886,
+            "stamp": 1733027196,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度未定分级。 移除标签：故事, 生存难度待定。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1525640654,
+            "author": 9360102,
+            "stamp": 1730887283,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1525640653,
+            "author": 9360102,
+            "stamp": 1730887264,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1525640650,
+            "author": 9360102,
+            "stamp": 1730887231,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1525640645,
+            "author": 9360102,
+            "stamp": 1730887191,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1525628429,
+            "author": 9360102,
+            "stamp": 1730808238,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1525628410,
+            "author": 9360102,
+            "stamp": 1730808112,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1525628382,
+            "author": 9360102,
+            "stamp": 1730807941,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1525614186,
+            "author": 9360102,
+            "stamp": 1730721895,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1525614107,
+            "author": 9360102,
+            "stamp": 1730721202,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525614090,
+            "author": 9360102,
+            "stamp": 1730721089,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度待定。 移除标签：生存难度待分级。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1525614084,
+            "author": 9360102,
+            "stamp": 1730721051,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度待分级。 移除标签：生存难度未知。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1525614078,
+            "author": 9360102,
+            "stamp": 1730721033,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1525614063,
+            "author": 9360102,
+            "stamp": 1730720957,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 悲剧, 故事, 生存难度未知。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1525614053,
+            "author": 9360102,
+            "stamp": 1730720899,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1525614047,
+            "author": 9360102,
+            "stamp": 1730720858,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1457281047,
+    "rating": 6,
+    "forum_thread": 16988118,
+    "tags": [
+        "原创",
+        "层级",
+        "悲剧",
+        "生存难度？"
+    ],
+    "title": "最终日",
+    "sitemap_update": 1762683116000,
+    "votings": [
+        [
+            9146620,
+            true
+        ],
+        [
+            9171886,
+            false
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            8740422,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9168168,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

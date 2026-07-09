@@ -1,0 +1,352 @@
+{
+    "name": "level-as-198",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 24,
+            "global_revision": 1526890933,
+            "author": 8145986,
+            "stamp": 1735010876,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1517075018,
+            "author": 8195194,
+            "stamp": 1703988756,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1516588427,
+            "author": 8195194,
+            "stamp": 1702187806,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1516558516,
+            "author": 8195194,
+            "stamp": 1702032428,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1516397036,
+            "author": 8195194,
+            "stamp": 1701408034,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1515958744,
+            "author": 8195194,
+            "stamp": 1699812838,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1515958686,
+            "author": 8195194,
+            "stamp": 1699812694,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1515958504,
+            "author": 8195194,
+            "stamp": 1699812128,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1515958259,
+            "author": 8195194,
+            "stamp": 1699811014,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1515918845,
+            "author": 8489316,
+            "stamp": 1699664163,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1515807748,
+            "author": 8195194,
+            "stamp": 1699182544,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1515807698,
+            "author": 8195194,
+            "stamp": 1699182479,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1515807625,
+            "author": 8195194,
+            "stamp": 1699182261,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1515807617,
+            "author": 8195194,
+            "stamp": 1699182235,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1515807364,
+            "author": 8195194,
+            "stamp": 1699181516,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1515807286,
+            "author": 8195194,
+            "stamp": 1699181152,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1515801381,
+            "author": 8195194,
+            "stamp": 1699167760,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1515799793,
+            "author": 8195194,
+            "stamp": 1699162533,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1515799764,
+            "author": 8195194,
+            "stamp": 1699162325,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1515799537,
+            "author": 8195194,
+            "stamp": 1699161659,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1515799460,
+            "author": 8195194,
+            "stamp": 1699161326,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 前厅映像, 原创, 层级, 悲剧, 生存难度死区, 返乡可能。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1515799224,
+            "author": 8712717,
+            "stamp": 1699160326,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1515799195,
+            "author": 8195194,
+            "stamp": 1699160134,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1515798692,
+            "author": 8195194,
+            "stamp": 1699158618,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1515798686,
+            "author": 8195194,
+            "stamp": 1699158601,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451303321,
+    "rating": 24,
+    "forum_thread": 16443019,
+    "tags": [
+        "切行困难",
+        "前厅映像",
+        "原创",
+        "层级",
+        "悲剧",
+        "生存难度死区",
+        "返乡可能"
+    ],
+    "title": "Level AS-198- “ぺポン星”",
+    "sitemap_update": 1735010876000,
+    "votings": [
+        [
+            8443876,
+            true
+        ],
+        [
+            8828300,
+            true
+        ],
+        [
+            9171886,
+            false
+        ],
+        [
+            8690404,
+            true
+        ],
+        [
+            10204656,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            8738540,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            8821793,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8690453,
+            true
+        ],
+        [
+            10140214,
+            true
+        ],
+        [
+            9409890,
+            true
+        ],
+        [
+            9682829,
+            true
+        ],
+        [
+            9360102,
+            true
+        ],
+        [
+            8941184,
+            false
+        ],
+        [
+            9293437,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            8643702,
+            true
+        ],
+        [
+            8752576,
+            true
+        ],
+        [
+            8195194,
+            true
+        ],
+        [
+            8740422,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            8712717,
+            true
+        ],
+        [
+            9058439,
+            true
+        ],
+        [
+            8767844,
+            true
+        ],
+        [
+            8489316,
+            false
+        ],
+        [
+            8984427,
+            false
+        ]
+    ],
+    "is_locked": false
+}

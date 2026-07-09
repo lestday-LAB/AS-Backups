@@ -1,0 +1,80 @@
+{
+    "name": "xiangguanrenshi",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1543823880,
+            "author": 8749548,
+            "stamp": 1778383886,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530626568,
+            "author": 8827633,
+            "stamp": 1750679001,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530305521,
+            "author": 9056862,
+            "stamp": 1748650642,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530305458,
+            "author": 9056862,
+            "stamp": 1748650386,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530305455,
+            "author": 9056862,
+            "stamp": 1748650364,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527472117,
+            "author": 8145986,
+            "stamp": 1738049389,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1525912108,
+            "author": 8145986,
+            "stamp": 1732205518,
+            "flags": "A",
+            "commentary": "已新增标签：总览, 相关人士。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523479330,
+            "author": 8747271,
+            "stamp": 1722912019,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456089354,
+    "tags": [
+        "总览",
+        "相关人士"
+    ],
+    "title": "相关人士列表",
+    "sitemap_update": 1778383886000,
+    "votings": [],
+    "is_locked": false
+}

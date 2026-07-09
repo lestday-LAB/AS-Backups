@@ -1,0 +1,77 @@
+{
+    "name": "level-as-269",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1544732310,
+            "author": 8457826,
+            "stamp": 1781864186,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544727239,
+            "author": 8457826,
+            "stamp": 1781845614,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度？。 移除标签：生存难度?。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544727073,
+            "author": 8457826,
+            "stamp": 1781844708,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 层级, 星光魔法歌姬, 生存难度?。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544727065,
+            "author": 8457826,
+            "stamp": 1781844683,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468869025,
+    "forum_thread": 18033168,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "层级",
+        "星光魔法歌姬",
+        "生存难度？"
+    ],
+    "title": "Level AS-269 - “狗与狼”",
+    "sitemap_update": 1781864186000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            8767769,
+            true
+        ],
+        [
+            9420530,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            8749548,
+            false
+        ]
+    ],
+    "is_locked": false
+}

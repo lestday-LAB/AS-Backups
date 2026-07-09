@@ -1,0 +1,150 @@
+{
+    "name": "art:cats",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1544774762,
+            "author": 10302775,
+            "stamp": 1782028305,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 不良魔法少女, 原创, 艺术作品。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544774689,
+            "author": 10302775,
+            "stamp": 1782028019,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544774669,
+            "author": 10302775,
+            "stamp": 1782027931,
+            "flags": "F",
+            "commentary": "已上传文件 “3.jpg”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544774659,
+            "author": 10302775,
+            "stamp": 1782027889,
+            "flags": "F",
+            "commentary": "已上传文件 “2.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544774651,
+            "author": 10302775,
+            "stamp": 1782027863,
+            "flags": "F",
+            "commentary": "已上传文件 “1.jpg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544774646,
+            "author": 10302775,
+            "stamp": 1782027836,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11843440,
+            "name": "1.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/art:cats/1.jpg",
+            "size": "32.72 kB (33502 Bytes)",
+            "size_bytes": 33502,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , datetime=MM, width=0], progressive, precision 8, 1135x638, components 3",
+            "author": 10302775,
+            "stamp": 1782027863,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11843442,
+            "name": "2.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/art:cats/2.jpg",
+            "size": "1.8 MB (1884925 Bytes)",
+            "size_bytes": 1884925,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 3726x1854, components 3",
+            "author": 10302775,
+            "stamp": 1782027889,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11843443,
+            "name": "3.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/art:cats/3.jpg",
+            "size": "1.78 MB (1867229 Bytes)",
+            "size_bytes": 1867229,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 3354x1728, components 3",
+            "author": 10302775,
+            "stamp": 1782027931,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468883807,
+    "rating": 11,
+    "forum_thread": 18042216,
+    "tags": [
+        "2026幻想竞赛",
+        "不良魔法少女",
+        "原创",
+        "艺术作品"
+    ],
+    "title": "［艺作］魔法……小猫？",
+    "sitemap_update": 1782028305000,
+    "votings": [
+        [
+            9842140,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

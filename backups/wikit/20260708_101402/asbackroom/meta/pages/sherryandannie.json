@@ -1,0 +1,166 @@
+{
+    "name": "sherryandannie",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1544470165,
+            "author": 8827633,
+            "stamp": 1780726621,
+            "flags": "A",
+            "commentary": "移除标签：大图书管理员。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542409056,
+            "author": 9533296,
+            "stamp": 1772543730,
+            "flags": "A",
+            "commentary": "已新增标签：站娘。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542370673,
+            "author": 9533296,
+            "stamp": 1772379684,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542365298,
+            "author": 9603691,
+            "stamp": 1772355115,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542365287,
+            "author": 9603691,
+            "stamp": 1772355094,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542365264,
+            "author": 9533296,
+            "stamp": 1772355030,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542365127,
+            "author": 8827633,
+            "stamp": 1772354625,
+            "flags": "A",
+            "commentary": "已新增标签：魔法少女实习证书。 移除标签：魔法少女的实习证书。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542365053,
+            "author": 8827633,
+            "stamp": 1772354306,
+            "flags": "A",
+            "commentary": "已新增标签：大图书管理员, 魔法少女的实习证书。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542365032,
+            "author": 9533296,
+            "stamp": 1772354227,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542364973,
+            "author": 9533296,
+            "stamp": 1772354163,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542364962,
+            "author": 9533296,
+            "stamp": 1772354124,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468188141,
+    "rating": 14,
+    "forum_thread": 17598979,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "故事",
+        "站娘",
+        "魔法少女实习证书"
+    ],
+    "title": "Annie &Sherry 番外篇《冒险之余的休假日》",
+    "sitemap_update": 1780726621000,
+    "votings": [
+        [
+            9056862,
+            true
+        ],
+        [
+            9555124,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9494389,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9533296,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            9844993,
+            true
+        ]
+    ],
+    "is_locked": false
+}

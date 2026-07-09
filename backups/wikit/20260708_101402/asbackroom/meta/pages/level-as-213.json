@@ -1,0 +1,52 @@
+{
+    "name": "level-as-213",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545083850,
+            "author": 9309833,
+            "stamp": 1783495697,
+            "flags": "A",
+            "commentary": "已新增标签：不结盟贸易集团, 原创, 层级, 生存难度终结。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545083833,
+            "author": 9309833,
+            "stamp": 1783495634,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468954225,
+    "forum_thread": 18104870,
+    "tags": [
+        "不结盟贸易集团",
+        "原创",
+        "层级",
+        "生存难度终结"
+    ],
+    "title": "Level As 213",
+    "sitemap_update": 1783495697000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            4784440,
+            false
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

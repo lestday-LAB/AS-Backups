@@ -1,0 +1,432 @@
+{
+    "name": "the-e-m-c",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 31,
+            "global_revision": 1543746763,
+            "author": 9310550,
+            "stamp": 1777981454,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1543739051,
+            "author": 9310550,
+            "stamp": 1777966171,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1543254153,
+            "author": 8677784,
+            "stamp": 1775837814,
+            "flags": "A",
+            "commentary": "移除标签：中心, 条件触发。"
+        },
+        {
+            "revision": 28,
+            "global_revision": 1543145452,
+            "author": 9310550,
+            "stamp": 1775450466,
+            "flags": "S",
+            "commentary": "捉虫001"
+        },
+        {
+            "revision": 27,
+            "global_revision": 1543144835,
+            "author": 9310550,
+            "stamp": 1775447869,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1542389364,
+            "author": 9310550,
+            "stamp": 1772482942,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1531816635,
+            "author": 9310550,
+            "stamp": 1756374941,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1531816611,
+            "author": 9310550,
+            "stamp": 1756374855,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1531816590,
+            "author": 9310550,
+            "stamp": 1756374754,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1531816403,
+            "author": 9310550,
+            "stamp": 1756374026,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1531816362,
+            "author": 9310550,
+            "stamp": 1756373843,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1531816344,
+            "author": 9310550,
+            "stamp": 1756373776,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1531803982,
+            "author": 9310550,
+            "stamp": 1756312893,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1531803931,
+            "author": 9310550,
+            "stamp": 1756312589,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1531803911,
+            "author": 9310550,
+            "stamp": 1756312497,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1531803801,
+            "author": 9310550,
+            "stamp": 1756312082,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1531803695,
+            "author": 9310550,
+            "stamp": 1756311672,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1531515568,
+            "author": 9310550,
+            "stamp": 1755017428,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531515541,
+            "author": 9310550,
+            "stamp": 1755017267,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531515536,
+            "author": 9310550,
+            "stamp": 1755017247,
+            "flags": "F",
+            "commentary": "已上传文件 “贺图2”。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531515306,
+            "author": 9310550,
+            "stamp": 1755016126,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531468902,
+            "author": 9310550,
+            "stamp": 1754786736,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531424761,
+            "author": 9310550,
+            "stamp": 1754561569,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531403064,
+            "author": 9310550,
+            "stamp": 1754446957,
+            "flags": "A",
+            "commentary": "移除标签：合作, 随机性。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531392136,
+            "author": 9454668,
+            "stamp": 1754392248,
+            "flags": "S",
+            "commentary": "修改一处漏代码。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531310691,
+            "author": 9310550,
+            "stamp": 1753982856,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531310506,
+            "author": 9310550,
+            "stamp": 1753981840,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531310397,
+            "author": 9310550,
+            "stamp": 1753981410,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531310292,
+            "author": 9310550,
+            "stamp": 1753980697,
+            "flags": "F",
+            "commentary": "已上传文件 “贺图1”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531310284,
+            "author": 9310550,
+            "stamp": 1753980652,
+            "flags": "F",
+            "commentary": "已上传文件 “E.M.C.旗帜”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531310270,
+            "author": 9310550,
+            "stamp": 1753980613,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 原创, 合作, 总览, 条件触发, 神秘, 积极, 速切玩家, 随机性。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531310262,
+            "author": 9310550,
+            "stamp": 1753980542,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11430309,
+            "name": "E.M.C.旗帜",
+            "url": "http://asbackroom.wikidot.com/local--files/the-e-m-c/E.M.C.%E6%97%97%E5%B8%9C",
+            "size": "110.21 kB (112859 Bytes)",
+            "size_bytes": 112859,
+            "mime": "image/png",
+            "content": "PNG image data, 1080 x 810, 8-bit/color RGBA, non-interlaced",
+            "author": 9310550,
+            "stamp": 1753980652,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11430311,
+            "name": "贺图1",
+            "url": "http://asbackroom.wikidot.com/local--files/the-e-m-c/%E8%B4%BA%E5%9B%BE1",
+            "size": "163.93 kB (167865 Bytes)",
+            "size_bytes": 167865,
+            "mime": "image/png",
+            "content": "PNG image data, 1080 x 1440, 8-bit/color RGBA, non-interlaced",
+            "author": 9310550,
+            "stamp": 1753980697,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11437643,
+            "name": "贺图2",
+            "url": "http://asbackroom.wikidot.com/local--files/the-e-m-c/%E8%B4%BA%E5%9B%BE2",
+            "size": "99.54 kB (101927 Bytes)",
+            "size_bytes": 101927,
+            "mime": "image/png",
+            "content": "PNG image data, 1080 x 810, 8-bit/color RGBA, non-interlaced",
+            "author": 9310550,
+            "stamp": 1755017247,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459987898,
+    "rating": 29,
+    "forum_thread": 17174255,
+    "tags": [
+        "原创",
+        "总览",
+        "故事",
+        "神秘",
+        "积极",
+        "速切玩家"
+    ],
+    "title": "W版后室全部层级性逃离方法一览（the E.M.C.）",
+    "sitemap_update": 1777981454000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9056862,
+            true
+        ],
+        [
+            8585657,
+            true
+        ],
+        [
+            9555124,
+            true
+        ],
+        [
+            8219242,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            9545391,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9555402,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            10245569,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            9545845,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9437079,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            10305519,
+            true
+        ],
+        [
+            9482930,
+            true
+        ],
+        [
+            9255757,
+            true
+        ],
+        [
+            8712717,
+            true
+        ],
+        [
+            9309125,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

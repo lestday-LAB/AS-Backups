@@ -1,0 +1,66 @@
+{
+    "name": "tingshenmea",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1544470489,
+            "author": 8827633,
+            "stamp": 1780727659,
+            "flags": "A",
+            "commentary": "移除标签：不良魔法少女。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543564303,
+            "author": 8749548,
+            "stamp": 1777165939,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543564282,
+            "author": 8749548,
+            "stamp": 1777165836,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 不良魔法少女, 原创, 后室民风考, 故事, 有识血肉。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543564275,
+            "author": 8749548,
+            "stamp": 1777165806,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468575880,
+    "rating": 3,
+    "forum_thread": 17796802,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "后室民风考",
+        "故事",
+        "有识血肉"
+    ],
+    "title": "后室民风考：我们听点什么？",
+    "sitemap_update": 1780727659000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9729411,
+            true
+        ]
+    ],
+    "is_locked": false
+}

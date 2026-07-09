@@ -1,0 +1,213 @@
+{
+    "name": "level-as-313",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 17,
+            "global_revision": 1544865959,
+            "author": 9295815,
+            "stamp": 1782478722,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1544865882,
+            "author": 9295815,
+            "stamp": 1782478261,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1544662930,
+            "author": 8749548,
+            "stamp": 1781576697,
+            "flags": "A",
+            "commentary": "已新增标签：阅读推荐。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1544470363,
+            "author": 8827633,
+            "stamp": 1780727270,
+            "flags": "A",
+            "commentary": "移除标签：宅之魔法少女。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1543589179,
+            "author": 9295815,
+            "stamp": 1777301253,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1543589061,
+            "author": 9295815,
+            "stamp": 1777300668,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1543588688,
+            "author": 9295815,
+            "stamp": 1777299504,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1543579041,
+            "author": 9295815,
+            "stamp": 1777243319,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1543572981,
+            "author": 9295815,
+            "stamp": 1777209427,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543571795,
+            "author": 9295815,
+            "stamp": 1777204468,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543571707,
+            "author": 9295815,
+            "stamp": 1777204355,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 开阔性, 补给可能。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543571695,
+            "author": 9295815,
+            "stamp": 1777204307,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 宅之魔法少女, 层级, 浪漫, 生存难度宜居。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543571682,
+            "author": 9295815,
+            "stamp": 1777204207,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543571677,
+            "author": 9295815,
+            "stamp": 1777204175,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543571658,
+            "author": 9295815,
+            "stamp": 1777204060,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543571647,
+            "author": 9295815,
+            "stamp": 1777204004,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543571541,
+            "author": 9295815,
+            "stamp": 1777203317,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543571535,
+            "author": 9295815,
+            "stamp": 1777203293,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468577180,
+    "rating": 9,
+    "forum_thread": 17799118,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "层级",
+        "开阔性",
+        "浪漫",
+        "生存难度宜居",
+        "补给可能",
+        "阅读推荐"
+    ],
+    "title": "Level AS-313 “夏岭橘园”",
+    "sitemap_update": 1782478722000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9853042,
+            true
+        ],
+        [
+            8895670,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            4784440,
+            true
+        ],
+        [
+            9034717,
+            false
+        ],
+        [
+            8968839,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            8712717,
+            true
+        ],
+        [
+            9844993,
+            true
+        ]
+    ],
+    "is_locked": false
+}

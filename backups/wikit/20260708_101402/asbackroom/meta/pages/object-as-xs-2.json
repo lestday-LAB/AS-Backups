@@ -1,0 +1,213 @@
+{
+    "name": "object-as-xs-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 17,
+            "global_revision": 1544861665,
+            "author": 10433929,
+            "stamp": 1782457702,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1526067505,
+            "author": 8145986,
+            "stamp": 1733144043,
+            "flags": "A",
+            "commentary": "已新增标签：新手专区。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1525338701,
+            "author": 9337543,
+            "stamp": 1729337028,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1525145064,
+            "author": 9337543,
+            "stamp": 1728645287,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1525145058,
+            "author": 9337543,
+            "stamp": 1728645243,
+            "flags": "F",
+            "commentary": "已上传文件 “file-jDcIf7lzPVp7mqTQ7IzfjhEu (2).webp”。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1525131532,
+            "author": 9337543,
+            "stamp": 1728557712,
+            "flags": "A",
+            "commentary": "已新增标签：as层群, 原创, 物品。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1525131529,
+            "author": 9337543,
+            "stamp": 1728557695,
+            "flags": "A",
+            "commentary": "移除标签：as层群, 原创, 物品。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1525131525,
+            "author": 8719322,
+            "stamp": 1728557617,
+            "flags": "A",
+            "commentary": "移除标签：新手。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1525117606,
+            "author": 9337543,
+            "stamp": 1728477771,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1525117528,
+            "author": 9337543,
+            "stamp": 1728477218,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1525117509,
+            "author": 9337543,
+            "stamp": 1728477108,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1525117489,
+            "author": 9337543,
+            "stamp": 1728476934,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525117422,
+            "author": 9337543,
+            "stamp": 1728476392,
+            "flags": "F",
+            "commentary": "已上传文件 “一张黑色评处哨照片.jpg”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1525117233,
+            "author": 9337543,
+            "stamp": 1728475310,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1525088865,
+            "author": 9337543,
+            "stamp": 1728394923,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1525088576,
+            "author": 9337543,
+            "stamp": 1728393118,
+            "flags": "A",
+            "commentary": "已新增标签：as层群, 原创, 新手, 物品。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1525088543,
+            "author": 9337543,
+            "stamp": 1728392889,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1525088516,
+            "author": 9337543,
+            "stamp": 1728392737,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11203887,
+            "name": "file-jDcIf7lzPVp7mqTQ7IzfjhEu (2).webp",
+            "url": "http://asbackroom.wikidot.com/local--files/object-as-xs-2/file-jDcIf7lzPVp7mqTQ7IzfjhEu%20%282%29.webp",
+            "size": "227.72 kB (233184 Bytes)",
+            "size_bytes": 233184,
+            "mime": "application/octet-stream",
+            "content": "RIFF (little-endian) data, Web/P image, VP8 encoding, 1024x1024, Scaling: [none]x[none], YUV color, decoders should clamp",
+            "author": 9337543,
+            "stamp": 1728645243,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11202700,
+            "name": "一张黑色评处哨照片.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/object-as-xs-2/%E4%B8%80%E5%BC%A0%E9%BB%91%E8%89%B2%E8%AF%84%E5%A4%84%E5%93%A8%E7%85%A7%E7%89%87.jpg",
+            "size": "39.62 kB (40569 Bytes)",
+            "size_bytes": 40569,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 768x768, components 3",
+            "author": 9337543,
+            "stamp": 1728476392,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1457025283,
+    "forum_thread": 16958811,
+    "tags": [
+        "as层群",
+        "原创",
+        "新手专区",
+        "物品"
+    ],
+    "title": "Object As Xs 2",
+    "sitemap_update": 1782457702000,
+    "votings": [
+        [
+            8690147,
+            false
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            9360102,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,117 @@
+{
+    "name": "wbuzhidqisha",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1544470422,
+            "author": 8827633,
+            "stamp": 1780727437,
+            "flags": "A",
+            "commentary": "移除标签：宅之魔法少女。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544351213,
+            "author": 9844505,
+            "stamp": 1780201677,
+            "flags": "S",
+            "commentary": "捉虫，详见历史记录"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544348891,
+            "author": 8736966,
+            "stamp": 1780192623,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544348886,
+            "author": 8736966,
+            "stamp": 1780192590,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544348875,
+            "author": 8736966,
+            "stamp": 1780192496,
+            "flags": "A",
+            "commentary": "已新增标签：as层群千日纪念。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544348843,
+            "author": 8736966,
+            "stamp": 1780192480,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544348808,
+            "author": 8736966,
+            "stamp": 1780192314,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 宅之魔法少女, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544348800,
+            "author": 8736966,
+            "stamp": 1780192285,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468783486,
+    "rating": 8,
+    "forum_thread": 17973894,
+    "tags": [
+        "2026幻想竞赛",
+        "as层群千日纪念",
+        "原创",
+        "故事"
+    ],
+    "title": "那是我不能忘记的人啊（上）",
+    "sitemap_update": 1780727437000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            10302775,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

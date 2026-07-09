@@ -1,0 +1,149 @@
+{
+    "name": "how-we-farewell",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1542813430,
+            "author": 8736966,
+            "stamp": 1774072531,
+            "flags": "A",
+            "commentary": "已新增标签：后室民风考。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541939891,
+            "author": 8827633,
+            "stamp": 1770792139,
+            "flags": "A",
+            "commentary": "已新增标签：阅读推荐。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540368884,
+            "author": 9575701,
+            "stamp": 1765183933,
+            "flags": "A",
+            "commentary": "已新增标签：合著。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540368868,
+            "author": 9575701,
+            "stamp": 1765183911,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 悲剧, 悲喜交加, 探险者总署, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540368735,
+            "author": 9575701,
+            "stamp": 1765183777,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467395133,
+    "rating": 21,
+    "forum_thread": 17484055,
+    "tags": [
+        "原创",
+        "合著",
+        "后室民风考",
+        "悲剧",
+        "悲喜交加",
+        "探险者总署",
+        "故事",
+        "阅读推荐"
+    ],
+    "title": "后室民风考：与死亡同居",
+    "sitemap_update": 1774072531000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            8113340,
+            true
+        ],
+        [
+            8767769,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8895670,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            9325610,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            10177337,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9309833,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8516280,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            9058439,
+            true
+        ]
+    ],
+    "is_locked": false
+}

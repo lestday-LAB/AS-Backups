@@ -1,0 +1,118 @@
+{
+    "name": "buzhidqisha6",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1530693651,
+            "author": 8986496,
+            "stamp": 1751025295,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530690862,
+            "author": 8986496,
+            "stamp": 1751004493,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530675497,
+            "author": 8986496,
+            "stamp": 1750945616,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530675494,
+            "author": 8986496,
+            "stamp": 1750945591,
+            "flags": "A",
+            "commentary": "已新增标签：克劳德, 原创, 故事, 速切大冒险, 速切玩家。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530675485,
+            "author": 8986496,
+            "stamp": 1750945566,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459845484,
+    "rating": 12,
+    "forum_thread": 17159127,
+    "tags": [
+        "克劳德",
+        "原创",
+        "故事",
+        "速切大冒险",
+        "速切玩家"
+    ],
+    "title": "直尺柯宇获得寻找多厨线索",
+    "sitemap_update": 1751025295000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9056862,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9603691,
+            false
+        ],
+        [
+            10302775,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            7168571,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9590775,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

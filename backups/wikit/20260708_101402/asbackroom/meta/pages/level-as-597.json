@@ -1,0 +1,132 @@
+{
+    "name": "level-as-597",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531904718,
+            "author": 9295815,
+            "stamp": 1756629661,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 水域, 生存难度0, 返乡可能。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531904606,
+            "author": 9295815,
+            "stamp": 1756629563,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531904543,
+            "author": 9295815,
+            "stamp": 1756629523,
+            "flags": "F",
+            "commentary": "已上传文件 “haiou”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531904538,
+            "author": 9295815,
+            "stamp": 1756629488,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11450589,
+            "name": "haiou",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-597/haiou",
+            "size": "454.39 kB (465292 Bytes)",
+            "size_bytes": 465292,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1440x2530, components 3",
+            "author": 9295815,
+            "stamp": 1756629523,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460165720,
+    "rating": 14,
+    "forum_thread": 17236417,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "水域",
+        "生存难度0",
+        "返乡可能"
+    ],
+    "title": "Level AS-597 “鸥港”",
+    "sitemap_update": 1756629661000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9555124,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9287769,
+            true
+        ],
+        [
+            9764585,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8669732,
+            true
+        ],
+        [
+            9620811,
+            true
+        ]
+    ],
+    "is_locked": false
+}

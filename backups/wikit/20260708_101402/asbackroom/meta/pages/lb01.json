@@ -1,0 +1,76 @@
+{
+    "name": "lb01",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544470276,
+            "author": 8827633,
+            "stamp": 1780726993,
+            "flags": "A",
+            "commentary": "移除标签：大图书管理员。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543876346,
+            "author": 8827633,
+            "stamp": 1778653244,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 大图书管理员, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543876344,
+            "author": 8827633,
+            "stamp": 1778653219,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468650326,
+    "rating": 8,
+    "forum_thread": 17880609,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "故事"
+    ],
+    "title": "第零篇：潮痕之邀",
+    "sitemap_update": 1780726993000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9825883,
+            true
+        ],
+        [
+            9533296,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ]
+    ],
+    "is_locked": false
+}

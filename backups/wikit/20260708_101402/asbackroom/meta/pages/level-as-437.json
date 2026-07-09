@@ -1,0 +1,124 @@
+{
+    "name": "level-as-437",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1545027528,
+            "author": 9146620,
+            "stamp": 1783249361,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544952776,
+            "author": 9146620,
+            "stamp": 1782909425,
+            "flags": "A",
+            "commentary": "移除标签：新手专区。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544952733,
+            "author": 9146620,
+            "stamp": 1782909112,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544952706,
+            "author": 9146620,
+            "stamp": 1782908984,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-as-xs-37\" 至 \"level-as-437\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544770099,
+            "author": 9146620,
+            "stamp": 1782009644,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度1。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544766407,
+            "author": 8749548,
+            "stamp": 1781997428,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 新手专区。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544758252,
+            "author": 9146620,
+            "stamp": 1781971449,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544758244,
+            "author": 9146620,
+            "stamp": 1781971424,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544758215,
+            "author": 9146620,
+            "stamp": 1781971273,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544758130,
+            "author": 9146620,
+            "stamp": 1781971003,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468876447,
+    "rating": 6,
+    "forum_thread": 18040125,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度1"
+    ],
+    "title": "Level AS-437 - “群体孤独症”",
+    "sitemap_update": 1783249361000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            8968839,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

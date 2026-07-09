@@ -1,0 +1,166 @@
+{
+    "name": "level-as-348",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1544075515,
+            "author": 9853042,
+            "stamp": 1779475271,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 7"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1544075485,
+            "author": 9853042,
+            "stamp": 1779475150,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544075158,
+            "author": 9853042,
+            "stamp": 1779473635,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544075039,
+            "author": 9853042,
+            "stamp": 1779473242,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544072961,
+            "author": 9853042,
+            "stamp": 1779464041,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544072653,
+            "author": 9853042,
+            "stamp": 1779462789,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544072637,
+            "author": 9853042,
+            "stamp": 1779462718,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544072587,
+            "author": 9853042,
+            "stamp": 1779462584,
+            "flags": "F",
+            "commentary": "已上传文件 “Screenshot_2026-05-22-23-06-35-841_com.tencent.hunyuan.app.chat-edit.jpg”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544072385,
+            "author": 9853042,
+            "stamp": 1779461905,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级。 移除标签：原创。层级。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544072361,
+            "author": 9853042,
+            "stamp": 1779461801,
+            "flags": "A",
+            "commentary": "已新增标签：原创。层级, 封闭性, 生存难度1。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544072301,
+            "author": 9853042,
+            "stamp": 1779461716,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11823105,
+            "name": "Screenshot_2026-05-22-23-06-35-841_com.tencent.hunyuan.app.chat-edit.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-348/Screenshot_2026-05-22-23-06-35-841_com.tencent.hunyuan.app.chat-edit.jpg",
+            "size": "447.52 kB (458259 Bytes)",
+            "size_bytes": 458259,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 1080x565, components 3",
+            "author": 9853042,
+            "stamp": 1779462584,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468697555,
+    "rating": 11,
+    "forum_thread": 17938109,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度1"
+    ],
+    "title": "Level AS-348 “以情换景”",
+    "sitemap_update": 1779475271000,
+    "votings": [
+        [
+            9890020,
+            true
+        ],
+        [
+            10204656,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9853042,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9565995,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ]
+    ],
+    "is_locked": false
+}

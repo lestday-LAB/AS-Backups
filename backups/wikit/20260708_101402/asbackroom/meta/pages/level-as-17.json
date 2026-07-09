@@ -1,0 +1,187 @@
+{
+    "name": "level-as-17",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1526161723,
+            "author": 8145986,
+            "stamp": 1733361389,
+            "flags": "A",
+            "commentary": "已新增标签：精神影响。 移除标签：精神危害。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1526026726,
+            "author": 8145986,
+            "stamp": 1732884413,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1523008718,
+            "author": 9041970,
+            "stamp": 1720796373,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度其他。 移除标签：生存难度Ψ。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1517123179,
+            "author": 8827633,
+            "stamp": 1704262833,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1517112738,
+            "author": 8827633,
+            "stamp": 1704195499,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1517112716,
+            "author": 8827633,
+            "stamp": 1704195389,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1517112708,
+            "author": 8827633,
+            "stamp": 1704195342,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1517112688,
+            "author": 8827633,
+            "stamp": 1704195211,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度Ψ。 移除标签：生存难度其他。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1517112683,
+            "author": 8827633,
+            "stamp": 1704195178,
+            "flags": "F",
+            "commentary": "已上传文件 “U1”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1517112271,
+            "author": 8827633,
+            "stamp": 1704193979,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1517112226,
+            "author": 8827633,
+            "stamp": 1704193845,
+            "flags": "A",
+            "commentary": "已新增标签：as层群, 原创, 层级, 生存难度其他, 精神危害。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1517112154,
+            "author": 8827633,
+            "stamp": 1704193713,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 10943384,
+            "name": "U1",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-17/U1",
+            "size": "1.57 MB (1648482 Bytes)",
+            "size_bytes": 1648482,
+            "mime": "image/png",
+            "content": "PNG image data, 1456 x 816, 8-bit/color RGBA, non-interlaced",
+            "author": 8827633,
+            "stamp": 1704195178,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1452016228,
+    "rating": 10,
+    "forum_thread": 16599528,
+    "tags": [
+        "as层群",
+        "原创",
+        "层级",
+        "生存难度其他",
+        "精神影响"
+    ],
+    "title": "Level AS-17 思忆如刀斩春秋",
+    "sitemap_update": 1733361389000,
+    "votings": [
+        [
+            8443876,
+            true
+        ],
+        [
+            8690147,
+            true
+        ],
+        [
+            9171886,
+            false
+        ],
+        [
+            8585657,
+            false
+        ],
+        [
+            9201438,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            10140214,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9736816,
+            true
+        ],
+        [
+            8643702,
+            true
+        ],
+        [
+            8705259,
+            true
+        ],
+        [
+            8752576,
+            true
+        ],
+        [
+            8145986,
+            true
+        ],
+        [
+            9620811,
+            true
+        ]
+    ],
+    "is_locked": false
+}

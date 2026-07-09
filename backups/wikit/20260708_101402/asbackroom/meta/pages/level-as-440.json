@@ -1,0 +1,196 @@
+{
+    "name": "level-as-440",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1525358376,
+            "author": 8747271,
+            "stamp": 1729435168,
+            "flags": "A",
+            "commentary": "移除标签：as, 城镇。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1525232463,
+            "author": 8628692,
+            "stamp": 1728996966,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1525232437,
+            "author": 8628692,
+            "stamp": 1728996766,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1524579654,
+            "author": 8628692,
+            "stamp": 1726244380,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1524505510,
+            "author": 8628692,
+            "stamp": 1725973821,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1523653278,
+            "author": 8628692,
+            "stamp": 1723563745,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1523467350,
+            "author": 8628692,
+            "stamp": 1722840336,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1523467296,
+            "author": 8628692,
+            "stamp": 1722839763,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1523467259,
+            "author": 8628692,
+            "stamp": 1722839564,
+            "flags": "A",
+            "commentary": "已新增标签：as, 原创, 城镇, 层级, 生存难度死区。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1523467251,
+            "author": 8628692,
+            "stamp": 1722839520,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1523467214,
+            "author": 8628692,
+            "stamp": 1722839269,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1523467208,
+            "author": 8628692,
+            "stamp": 1722839240,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1523467107,
+            "author": 8628692,
+            "stamp": 1722838826,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1523467103,
+            "author": 8628692,
+            "stamp": 1722838799,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523467101,
+            "author": 8628692,
+            "stamp": 1722838770,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456086477,
+    "rating": 10,
+    "forum_thread": 16899178,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度死区"
+    ],
+    "title": "Level AS-440“崩晨垣溃”",
+    "sitemap_update": 1729435168000,
+    "votings": [
+        [
+            8443876,
+            true
+        ],
+        [
+            9146620,
+            true
+        ],
+        [
+            9552098,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            8628692,
+            true
+        ],
+        [
+            9309055,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9178718,
+            true
+        ],
+        [
+            9464213,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8747271,
+            false
+        ],
+        [
+            9168168,
+            true
+        ],
+        [
+            8695935,
+            false
+        ]
+    ],
+    "is_locked": false
+}

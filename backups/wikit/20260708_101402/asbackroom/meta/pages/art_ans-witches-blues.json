@@ -1,0 +1,77 @@
+{
+    "name": "art:ans-witches-blues",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544469561,
+            "author": 8827633,
+            "stamp": 1780724366,
+            "flags": "A",
+            "commentary": "移除标签：枪之魔法少女。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543476209,
+            "author": 9729411,
+            "stamp": 1776766726,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 枪之魔法少女, 站娘, 艺术作品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543476208,
+            "author": 9729411,
+            "stamp": 1776766700,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468542288,
+    "rating": 8,
+    "forum_thread": 17771039,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "站娘",
+        "艺术作品"
+    ],
+    "title": "艺作：Annie & Sherry - 魔女蓝调",
+    "sitemap_update": 1780724366000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9577969,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

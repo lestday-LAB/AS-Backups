@@ -1,0 +1,103 @@
+{
+    "name": "level-as-430",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1545086937,
+            "author": 8986496,
+            "stamp": 1783507147,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545086893,
+            "author": 8986496,
+            "stamp": 1783506995,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545085320,
+            "author": 8719322,
+            "stamp": 1783501023,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 悲剧, 敌意, 生存难度待定。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545085213,
+            "author": 8719322,
+            "stamp": 1783500467,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545085199,
+            "author": 8719322,
+            "stamp": 1783500411,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468954630,
+    "rating": 8,
+    "forum_thread": 18104942,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "悲剧",
+        "敌意",
+        "生存难度待定"
+    ],
+    "title": "Level AS-430",
+    "sitemap_update": 1783507147000,
+    "votings": [
+        [
+            9842140,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            9590775,
+            true
+        ],
+        [
+            9034717,
+            false
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            10380688,
+            true
+        ],
+        [
+            9309833,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

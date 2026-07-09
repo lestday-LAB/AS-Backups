@@ -1,0 +1,148 @@
+{
+    "name": "object-as-3",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1532844363,
+            "author": 8941184,
+            "stamp": 1759898109,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1517491754,
+            "author": 8941184,
+            "stamp": 1705594597,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1517409552,
+            "author": 8941184,
+            "stamp": 1705200607,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1517409544,
+            "author": 8941184,
+            "stamp": 1705200548,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1517409510,
+            "author": 8941184,
+            "stamp": 1705200516,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1517409503,
+            "author": 8941184,
+            "stamp": 1705200474,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 2"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1517409497,
+            "author": 8941184,
+            "stamp": 1705200455,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1517409234,
+            "author": 8941184,
+            "stamp": 1705199256,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 消耗品, 物品。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1517399300,
+            "author": 8941184,
+            "stamp": 1705156431,
+            "flags": "F",
+            "commentary": "已上传文件 “IMAGE”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1517399297,
+            "author": 8941184,
+            "stamp": 1705156401,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 10951165,
+            "name": "IMAGE",
+            "url": "http://asbackroom.wikidot.com/local--files/object-as-3/IMAGE",
+            "size": "66.66 kB (68260 Bytes)",
+            "size_bytes": 68260,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 800x1186, components 3",
+            "author": 8941184,
+            "stamp": 1705156431,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1452187648,
+    "rating": 3,
+    "tags": [
+        "原创",
+        "消耗品",
+        "物品"
+    ],
+    "title": "Object AS 3",
+    "sitemap_update": 1759898109000,
+    "votings": [
+        [
+            8443876,
+            true
+        ],
+        [
+            9733029,
+            false
+        ],
+        [
+            9609194,
+            false
+        ],
+        [
+            9009778,
+            true
+        ],
+        [
+            8941184,
+            true
+        ],
+        [
+            7599847,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            8695935,
+            false
+        ]
+    ],
+    "is_locked": false
+}

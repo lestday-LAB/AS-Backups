@@ -1,0 +1,149 @@
+{
+    "name": "level-as-82",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1543096439,
+            "author": 8968839,
+            "stamp": 1775246399,
+            "flags": "S",
+            "commentary": "我讨厌柠辰不用标准的url！！！"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1543096436,
+            "author": 8968839,
+            "stamp": 1775246372,
+            "flags": "S",
+            "commentary": "柠辰！！！"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1543096102,
+            "author": 8968839,
+            "stamp": 1775244411,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1543096098,
+            "author": 8968839,
+            "stamp": 1775244377,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543096085,
+            "author": 8968839,
+            "stamp": 1775244328,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543096068,
+            "author": 8968839,
+            "stamp": 1775244223,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543095998,
+            "author": 8968839,
+            "stamp": 1775243989,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543095996,
+            "author": 8968839,
+            "stamp": 1775243968,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 水域, 生存难度2。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543095981,
+            "author": 8968839,
+            "stamp": 1775243920,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543095934,
+            "author": 8968839,
+            "stamp": 1775243647,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543095906,
+            "author": 8968839,
+            "stamp": 1775243500,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543095891,
+            "author": 8968839,
+            "stamp": 1775243437,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543095787,
+            "author": 8968839,
+            "stamp": 1775242837,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468414227,
+    "rating": 6,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "水域",
+        "生存难度2"
+    ],
+    "title": "Level AS-82 - “坐看云起时”",
+    "sitemap_update": 1775246399000,
+    "votings": [
+        [
+            10389231,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            9593076,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8747271,
+            true
+        ]
+    ],
+    "is_locked": false
+}

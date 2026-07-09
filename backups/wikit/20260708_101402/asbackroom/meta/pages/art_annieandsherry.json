@@ -1,0 +1,108 @@
+{
+    "name": "art:annieandsherry",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1544069534,
+            "author": 8749548,
+            "stamp": 1779452867,
+            "flags": "A",
+            "commentary": "已新增标签：站娘。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544063709,
+            "author": 9825883,
+            "stamp": 1779424649,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"annieandsherry\" 至 \"art:annieandsherry\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544063696,
+            "author": 9825883,
+            "stamp": 1779424510,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544063692,
+            "author": 9825883,
+            "stamp": 1779424479,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544063685,
+            "author": 9825883,
+            "stamp": 1779424447,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 艺术作品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544063679,
+            "author": 9825883,
+            "stamp": 1779424381,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468694839,
+    "rating": 10,
+    "forum_thread": 17962850,
+    "tags": [
+        "搬运",
+        "站娘",
+        "艺术作品"
+    ],
+    "title": "艺作：Annie & Sherry - 表情",
+    "sitemap_update": 1779452867000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            10302775,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            8145986,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,89 @@
+{
+    "name": "black-envelope",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1544900918,
+            "author": 9302580,
+            "stamp": 1782645117,
+            "flags": "A",
+            "commentary": "移除标签：宅之魔法少女。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544900911,
+            "author": 9302580,
+            "stamp": 1782645083,
+            "flags": "A",
+            "commentary": "已新增标签：宅之魔法少女。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544470425,
+            "author": 8827633,
+            "stamp": 1780727450,
+            "flags": "A",
+            "commentary": "移除标签：宅之魔法少女。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544331844,
+            "author": 9302580,
+            "stamp": 1780130390,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544331838,
+            "author": 9302580,
+            "stamp": 1780130373,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544331818,
+            "author": 9302580,
+            "stamp": 1780130314,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 宅之魔法少女, 悲剧, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544331801,
+            "author": 9302580,
+            "stamp": 1780130291,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468779437,
+    "rating": 3,
+    "forum_thread": 17970603,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "悲剧",
+        "故事"
+    ],
+    "title": "黑色信封流过冬日",
+    "sitemap_update": 1782645117000,
+    "votings": [
+        [
+            10302775,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9302580,
+            true
+        ]
+    ],
+    "is_locked": false
+}

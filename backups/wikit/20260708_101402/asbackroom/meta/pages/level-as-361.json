@@ -1,0 +1,191 @@
+{
+    "name": "level-as-361",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1544967320,
+            "author": 9853042,
+            "stamp": 1782985957,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1544781373,
+            "author": 9853042,
+            "stamp": 1782055949,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 不良魔法少女。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1544641118,
+            "author": 9853042,
+            "stamp": 1781451446,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1544641091,
+            "author": 9853042,
+            "stamp": 1781451311,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1544633431,
+            "author": 9853042,
+            "stamp": 1781426105,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1544633406,
+            "author": 9853042,
+            "stamp": 1781425917,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1544631053,
+            "author": 9853042,
+            "stamp": 1781415003,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1544631008,
+            "author": 9853042,
+            "stamp": 1781414894,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544630891,
+            "author": 9853042,
+            "stamp": 1781414549,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544630876,
+            "author": 9853042,
+            "stamp": 1781414508,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544630852,
+            "author": 9853042,
+            "stamp": 1781414439,
+            "flags": "F",
+            "commentary": "已上传文件 “9690aef185ddca28.jpg”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544630851,
+            "author": 9853042,
+            "stamp": 1781414439,
+            "flags": "F",
+            "commentary": "已上传文件 “9690aef185ddca28.jpg”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544630736,
+            "author": 9853042,
+            "stamp": 1781414252,
+            "flags": "A",
+            "commentary": "已新增标签：原创。 移除标签：2原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544630733,
+            "author": 9853042,
+            "stamp": 1781414241,
+            "flags": "A",
+            "commentary": "已新增标签：2原创, 生存难度4。 移除标签：原创, 生存难度4e。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544630707,
+            "author": 9853042,
+            "stamp": 1781414158,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544630552,
+            "author": 9853042,
+            "stamp": 1781413667,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度4e。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544630544,
+            "author": 9853042,
+            "stamp": 1781413636,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11839049,
+            "name": "9690aef185ddca28.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-361/9690aef185ddca28.jpg",
+            "size": "178.31 kB (182590 Bytes)",
+            "size_bytes": 182590,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 1200x800, components 3",
+            "author": 9853042,
+            "stamp": 1781414440,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468848185,
+    "rating": 3,
+    "forum_thread": 18028346,
+    "tags": [
+        "2026幻想竞赛",
+        "不良魔法少女",
+        "原创",
+        "层级",
+        "生存难度4"
+    ],
+    "title": "Level AS-361 “万千集群”",
+    "sitemap_update": 1782985957000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            8749548,
+            false
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

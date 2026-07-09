@@ -1,0 +1,177 @@
+{
+    "name": "level-as-159",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1544469614,
+            "author": 8827633,
+            "stamp": 1780724624,
+            "flags": "A",
+            "commentary": "移除标签：枪之魔法少女。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1543915721,
+            "author": 9577969,
+            "stamp": 1778808448,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1543678087,
+            "author": 8749548,
+            "stamp": 1777718818,
+            "flags": "A",
+            "commentary": "已新增标签：千日庆典通行券。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1543429762,
+            "author": 8677784,
+            "stamp": 1776565069,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度？。 移除标签：生存难度未知。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1543352069,
+            "author": 9577969,
+            "stamp": 1776251363,
+            "flags": "S",
+            "commentary": "捉虫"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543351042,
+            "author": 9577969,
+            "stamp": 1776244778,
+            "flags": "S",
+            "commentary": "捉虫"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543350236,
+            "author": 9577969,
+            "stamp": 1776238269,
+            "flags": "S",
+            "commentary": "修改语句顺序使通顺"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543349845,
+            "author": 9577969,
+            "stamp": 1776236239,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543349842,
+            "author": 9577969,
+            "stamp": 1776236216,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543349840,
+            "author": 9577969,
+            "stamp": 1776236178,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543349799,
+            "author": 9577969,
+            "stamp": 1776236037,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543349766,
+            "author": 9577969,
+            "stamp": 1776235785,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543349727,
+            "author": 9577969,
+            "stamp": 1776235521,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, as层群千日纪念, 原创, 层级, 开阔性, 枪之魔法少女, 生存难度未知, 高温。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543349718,
+            "author": 9577969,
+            "stamp": 1776235501,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468492872,
+    "rating": 6,
+    "forum_thread": 17730138,
+    "tags": [
+        "2026幻想竞赛",
+        "as层群千日纪念",
+        "千日庆典通行券",
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度？",
+        "高温"
+    ],
+    "title": "Level AS-159 - “阈面”",
+    "sitemap_update": 1780724624000,
+    "votings": [
+        [
+            9056862,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9287769,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            8797278,
+            false
+        ],
+        [
+            9034717,
+            false
+        ],
+        [
+            9729411,
+            true
+        ]
+    ],
+    "is_locked": false
+}

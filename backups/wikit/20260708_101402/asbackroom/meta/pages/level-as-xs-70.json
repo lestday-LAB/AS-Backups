@@ -1,0 +1,98 @@
+{
+    "name": "level-as-xs-70",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1544935064,
+            "author": 9016526,
+            "stamp": 1782823360,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544935026,
+            "author": 9016526,
+            "stamp": 1782823236,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544754203,
+            "author": 8677784,
+            "stamp": 1781957151,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性。 移除标签：城市, 补给可能。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544754202,
+            "author": 9016526,
+            "stamp": 1781957138,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 城市, 层级, 新手专区, 生存难度宜居, 补给可能。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544754029,
+            "author": 9814883,
+            "stamp": 1781956362,
+            "flags": "S",
+            "commentary": "帮忙分个行"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544752788,
+            "author": 9016526,
+            "stamp": 1781952059,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468875638,
+    "rating": 7,
+    "forum_thread": 18037504,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "新手专区",
+        "生存难度宜居"
+    ],
+    "title": "Level AS-XS-70",
+    "sitemap_update": 1782823360000,
+    "votings": [
+        [
+            9146620,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9016526,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

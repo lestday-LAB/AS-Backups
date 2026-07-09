@@ -1,0 +1,198 @@
+{
+    "name": "level-as-410",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1544470302,
+            "author": 8827633,
+            "stamp": 1780727075,
+            "flags": "A",
+            "commentary": "移除标签：大图书管理员, 宅之魔法少女。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542849970,
+            "author": 8736966,
+            "stamp": 1774225293,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542834886,
+            "author": 10297201,
+            "stamp": 1774154228,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542834544,
+            "author": 10297201,
+            "stamp": 1774152869,
+            "flags": "A",
+            "commentary": "已新增标签：大图书管理员, 宅之魔法少女, 生存难度4。 移除标签：等级4。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542834474,
+            "author": 10297201,
+            "stamp": 1774152597,
+            "flags": "A",
+            "commentary": "已新增标签：层级, 等级4。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542834438,
+            "author": 10297201,
+            "stamp": 1774152445,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542834429,
+            "author": 10297201,
+            "stamp": 1774152405,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542834416,
+            "author": 10297201,
+            "stamp": 1774152329,
+            "flags": "F",
+            "commentary": "已上传文件 “运兵车”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542834411,
+            "author": 10297201,
+            "stamp": 1774152307,
+            "flags": "F",
+            "commentary": "已上传文件 “焦土”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542834397,
+            "author": 10297201,
+            "stamp": 1774152230,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542834383,
+            "author": 10297201,
+            "stamp": 1774152147,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11763791,
+            "name": "焦土",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-410/%E7%84%A6%E5%9C%9F",
+            "size": "369.85 kB (378726 Bytes)",
+            "size_bytes": 378726,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 1280x851, components 3",
+            "author": 10297201,
+            "stamp": 1774152307,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11763792,
+            "name": "运兵车",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-410/%E8%BF%90%E5%85%B5%E8%BD%A6",
+            "size": "8.53 kB (8730 Bytes)",
+            "size_bytes": 8730,
+            "mime": "application/octet-stream",
+            "content": "RIFF (little-endian) data, Web/P image, VP8 encoding, 400x300, Scaling: [none]x[none], YUV color, decoders should clamp",
+            "author": 10297201,
+            "stamp": 1774152329,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468335256,
+    "rating": 14,
+    "forum_thread": 17640365,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "层级",
+        "生存难度4"
+    ],
+    "title": "Level AS-410“纵使炮火连天，这一切也从未改变”",
+    "sitemap_update": 1780727075000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9420530,
+            true
+        ],
+        [
+            10265816,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            8968839,
+            true
+        ],
+        [
+            9533296,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9575701,
+            true
+        ],
+        [
+            9620811,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,128 @@
+{
+    "name": "level-as-55",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1518970191,
+            "author": 8747271,
+            "stamp": 1710236389,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1517425565,
+            "author": 8488493,
+            "stamp": 1705274709,
+            "flags": "S",
+            "commentary": "修了无效的超链接"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1517414919,
+            "author": 8712717,
+            "stamp": 1705222556,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度死区。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1517397901,
+            "author": 8827633,
+            "stamp": 1705150518,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1517397861,
+            "author": 8827633,
+            "stamp": 1705150312,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1517397694,
+            "author": 8827633,
+            "stamp": 1705149665,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1517392895,
+            "author": 8712717,
+            "stamp": 1705128497,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1517391353,
+            "author": 8747271,
+            "stamp": 1705122553,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1517391207,
+            "author": 8747271,
+            "stamp": 1705121467,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1452185015,
+    "rating": 9,
+    "forum_thread": 16706120,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度死区"
+    ],
+    "title": "Level AS-55 梦坠仲夏",
+    "sitemap_update": 1710236389000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            10245569,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9437079,
+            true
+        ],
+        [
+            8752576,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8712717,
+            true
+        ],
+        [
+            8695935,
+            true
+        ]
+    ],
+    "is_locked": false
+}

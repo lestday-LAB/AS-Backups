@@ -1,0 +1,144 @@
+{
+    "name": "fragment:bright1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 15,
+            "global_revision": 1544878644,
+            "author": 9171886,
+            "stamp": 1782546878,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1544759716,
+            "author": 9853042,
+            "stamp": 1781977831,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1544735909,
+            "author": 8677784,
+            "stamp": 1781877247,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"hxjs2026-1\"."
+        },
+        {
+            "revision": 12,
+            "global_revision": 1544735906,
+            "author": 8677784,
+            "stamp": 1781877236,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1544496044,
+            "author": 9825883,
+            "stamp": 1780830727,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1544468240,
+            "author": 10302775,
+            "stamp": 1780718730,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1544467138,
+            "author": 9814883,
+            "stamp": 1780713919,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544467126,
+            "author": 9814883,
+            "stamp": 1780713886,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544466108,
+            "author": 8827633,
+            "stamp": 1780709180,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542823475,
+            "author": 8827633,
+            "stamp": 1774101578,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542414747,
+            "author": 9603691,
+            "stamp": 1772572933,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542406657,
+            "author": 8749548,
+            "stamp": 1772535794,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542400102,
+            "author": 8749548,
+            "stamp": 1772526316,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542298257,
+            "author": 8752576,
+            "stamp": 1772018687,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542298006,
+            "author": 8677784,
+            "stamp": 1772018094,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542292130,
+            "author": 8827633,
+            "stamp": 1771992674,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468173372,
+    "parent": "hxjs2026-1",
+    "tags": [
+        "段落"
+    ],
+    "title": "不良魔法少女第二赛季",
+    "sitemap_update": 1782546878000,
+    "votings": [],
+    "is_locked": false
+}

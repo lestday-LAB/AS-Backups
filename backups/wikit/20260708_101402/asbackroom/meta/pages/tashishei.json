@@ -1,0 +1,79 @@
+{
+    "name": "tashishei",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544470379,
+            "author": 8827633,
+            "stamp": 1780727310,
+            "flags": "A",
+            "commentary": "移除标签：宅之魔法少女。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542490958,
+            "author": 8736966,
+            "stamp": 1772925174,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 宅之魔法少女, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542490951,
+            "author": 8736966,
+            "stamp": 1772925118,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468224556,
+    "forum_thread": 17628037,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "故事"
+    ],
+    "title": "她的名字",
+    "sitemap_update": 1780727310000,
+    "votings": [
+        [
+            9056862,
+            true
+        ],
+        [
+            8767769,
+            true
+        ],
+        [
+            9420530,
+            true
+        ],
+        [
+            7168571,
+            true
+        ],
+        [
+            8797278,
+            false
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            false
+        ],
+        [
+            9620811,
+            true
+        ]
+    ],
+    "is_locked": false
+}

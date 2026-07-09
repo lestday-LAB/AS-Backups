@@ -1,0 +1,85 @@
+{
+    "name": "buzhidqisha114514",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544470372,
+            "author": 8827633,
+            "stamp": 1780727296,
+            "flags": "A",
+            "commentary": "移除标签：宅之魔法少女。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542410232,
+            "author": 8736966,
+            "stamp": 1772548299,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 喜剧, 宅之魔法少女, 悲喜交加, 故事, 速切大冒险。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542410069,
+            "author": 8736966,
+            "stamp": 1772547808,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468197394,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "喜剧",
+        "悲喜交加",
+        "故事",
+        "速切大冒险"
+    ],
+    "title": "他们为什么打架？",
+    "sitemap_update": 1780727296000,
+    "votings": [
+        [
+            9056862,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            7168571,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9620811,
+            true
+        ]
+    ],
+    "is_locked": false
+}

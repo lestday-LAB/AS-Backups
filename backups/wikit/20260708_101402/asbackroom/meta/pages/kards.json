@@ -1,0 +1,68 @@
+{
+    "name": "kards",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544470318,
+            "author": 8827633,
+            "stamp": 1780727171,
+            "flags": "A",
+            "commentary": "移除标签：宅之魔法少女。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543080810,
+            "author": 8736966,
+            "stamp": 1775173440,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, crossover, 原创, 宅之魔法少女, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543080797,
+            "author": 8736966,
+            "stamp": 1775173332,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468410001,
+    "forum_thread": 17688467,
+    "tags": [
+        "2026幻想竞赛",
+        "crossover",
+        "原创",
+        "故事"
+    ],
+    "title": "KARDS 异域战争：严防死守 迷你套装新卡速递",
+    "sitemap_update": 1780727171000,
+    "votings": [
+        [
+            9287769,
+            true
+        ],
+        [
+            10245569,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

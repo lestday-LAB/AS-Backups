@@ -1,0 +1,89 @@
+{
+    "name": "lonely",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1544469460,
+            "author": 8827633,
+            "stamp": 1780724237,
+            "flags": "A",
+            "commentary": "移除标签：枪之魔法少女。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543280474,
+            "author": 9808112,
+            "stamp": 1775905619,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543268692,
+            "author": 8749548,
+            "stamp": 1775895426,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543087389,
+            "author": 9808112,
+            "stamp": 1775209361,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 合著, 故事, 枪之魔法少女。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543087376,
+            "author": 9808112,
+            "stamp": 1775209281,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468412435,
+    "rating": 5,
+    "forum_thread": 17966663,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "合著",
+        "故事"
+    ],
+    "title": "电台杂谈第四期：孤独",
+    "sitemap_update": 1780724237000,
+    "votings": [
+        [
+            10389231,
+            true
+        ],
+        [
+            9577969,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8747271,
+            true
+        ]
+    ],
+    "is_locked": false
+}

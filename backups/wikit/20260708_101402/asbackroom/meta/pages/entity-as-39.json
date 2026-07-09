@@ -1,0 +1,112 @@
+{
+    "name": "entity-as-39",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1544532383,
+            "author": 8749548,
+            "stamp": 1780982100,
+            "flags": "A",
+            "commentary": "已新增标签：魔法少女初级证书。 移除标签：魔法少女的初级证书。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544514731,
+            "author": 8827633,
+            "stamp": 1780905292,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544511250,
+            "author": 8827633,
+            "stamp": 1780891134,
+            "flags": "A",
+            "commentary": "已新增标签：魔法少女的初级证书。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544510786,
+            "author": 8827633,
+            "stamp": 1780889916,
+            "flags": "A",
+            "commentary": "已新增标签：孤例, 现实扭曲。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544510740,
+            "author": 8827633,
+            "stamp": 1780889797,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 大图书管理员, 实体。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544510700,
+            "author": 8827633,
+            "stamp": 1780889685,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468822112,
+    "rating": 10,
+    "forum_thread": 18009138,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "大图书管理员",
+        "孤例",
+        "实体",
+        "现实扭曲",
+        "魔法少女初级证书"
+    ],
+    "title": "Entity AS-39 “童话织机”",
+    "sitemap_update": 1780982100000,
+    "votings": [
+        [
+            10433929,
+            true
+        ],
+        [
+            9555124,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            8747271,
+            true
+        ]
+    ],
+    "is_locked": false
+}

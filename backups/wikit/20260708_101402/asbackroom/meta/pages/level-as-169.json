@@ -1,0 +1,121 @@
+{
+    "name": "level-as-169",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1544716290,
+            "author": 8677784,
+            "stamp": 1781792319,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度0。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544661506,
+            "author": 8767769,
+            "stamp": 1781564574,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544661492,
+            "author": 8767769,
+            "stamp": 1781564460,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544641033,
+            "author": 8827633,
+            "stamp": 1781450890,
+            "flags": "T",
+            "commentary": "规范层级编号"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544638154,
+            "author": 8767769,
+            "stamp": 1781440370,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544637182,
+            "author": 8767769,
+            "stamp": 1781436481,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 大图书管理员, 层级。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544637174,
+            "author": 8767769,
+            "stamp": 1781436450,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544637166,
+            "author": 8767769,
+            "stamp": 1781436409,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468849022,
+    "forum_thread": 18028536,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "大图书管理员",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level AS-169",
+    "sitemap_update": 1781792319000,
+    "votings": [
+        [
+            10433929,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9853042,
+            true
+        ],
+        [
+            9420530,
+            true
+        ],
+        [
+            8797278,
+            false
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

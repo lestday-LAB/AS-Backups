@@ -1,0 +1,61 @@
+{
+    "name": "story-as-birthday",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545086397,
+            "author": 9309833,
+            "stamp": 1783505151,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545071363,
+            "author": 9309833,
+            "stamp": 1783437298,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545071348,
+            "author": 9309833,
+            "stamp": 1783437255,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468951998,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "富春盛游记",
+    "sitemap_update": 1783505151000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            4784440,
+            false
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            8749548,
+            true
+        ]
+    ],
+    "is_locked": false
+}

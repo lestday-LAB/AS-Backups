@@ -1,0 +1,325 @@
+{
+    "name": "level-as-40",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 24,
+            "global_revision": 1526890943,
+            "author": 8145986,
+            "stamp": 1735010946,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1518017734,
+            "author": 8827633,
+            "stamp": 1707061807,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1517079947,
+            "author": 8752576,
+            "stamp": 1704011467,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1517079938,
+            "author": 8752576,
+            "stamp": 1704011422,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1516452316,
+            "author": 8712717,
+            "stamp": 1701583320,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1516452045,
+            "author": 8712717,
+            "stamp": 1701582617,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-as-140\" 至 \"level-as-40\"."
+        },
+        {
+            "revision": 18,
+            "global_revision": 1515918531,
+            "author": 8752576,
+            "stamp": 1699660743,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1515903568,
+            "author": 8752576,
+            "stamp": 1699572698,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1515895564,
+            "author": 8752576,
+            "stamp": 1699535099,
+            "flags": "A",
+            "commentary": "已新增标签：阈限竞赛。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1515025566,
+            "author": 8712717,
+            "stamp": 1697358615,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1514990200,
+            "author": 8712717,
+            "stamp": 1697352751,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1514942167,
+            "author": 8752576,
+            "stamp": 1697286392,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1514422083,
+            "author": 8752576,
+            "stamp": 1696298740,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1514422074,
+            "author": 8752576,
+            "stamp": 1696298694,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1514422011,
+            "author": 8752576,
+            "stamp": 1696298411,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1514421909,
+            "author": 8752576,
+            "stamp": 1696298105,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1514412419,
+            "author": 8752576,
+            "stamp": 1696260719,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1514383511,
+            "author": 8752576,
+            "stamp": 1696155572,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1514383496,
+            "author": 8752576,
+            "stamp": 1696155526,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1514285948,
+            "author": 8752576,
+            "stamp": 1695815202,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1514132496,
+            "author": 8712717,
+            "stamp": 1695390517,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1513866960,
+            "author": 8752576,
+            "stamp": 1694344705,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513837962,
+            "author": 8712717,
+            "stamp": 1694276755,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513837753,
+            "author": 8752576,
+            "stamp": 1694275475,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度1。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513837751,
+            "author": 8752576,
+            "stamp": 1694275436,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449929968,
+    "rating": 22,
+    "forum_thread": 16339129,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度1",
+        "阈限竞赛"
+    ],
+    "title": "Level AS-40- “废弃写字楼”",
+    "sitemap_update": 1735010946000,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            8670898,
+            true
+        ],
+        [
+            9110655,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9594304,
+            false
+        ],
+        [
+            8767769,
+            false
+        ],
+        [
+            8547847,
+            true
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            8689829,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            8352352,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9420530,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            9016526,
+            true
+        ],
+        [
+            7622619,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8752576,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8712717,
+            true
+        ],
+        [
+            8747271,
+            true
+        ],
+        [
+            8489316,
+            true
+        ],
+        [
+            8666147,
+            true
+        ],
+        [
+            8695935,
+            true
+        ]
+    ],
+    "is_locked": false
+}

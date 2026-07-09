@@ -1,0 +1,59 @@
+{
+    "name": "level-as-596",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544500868,
+            "author": 8620589,
+            "stamp": 1780849069,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544490343,
+            "author": 8620589,
+            "stamp": 1780808087,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 悲剧, 格式错乱, 生存难度宜居。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544490341,
+            "author": 8620589,
+            "stamp": 1780808073,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468818400,
+    "rating": 3,
+    "forum_thread": 18011540,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "悲剧",
+        "格式错乱",
+        "生存难度宜居"
+    ],
+    "title": "Level AS-596",
+    "sitemap_update": 1780849069000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,120 @@
+{
+    "name": "level-as-51",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1544612940,
+            "author": 8827633,
+            "stamp": 1781345175,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544612295,
+            "author": 9814883,
+            "stamp": 1781343774,
+            "flags": "S",
+            "commentary": "帮忙加个字"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527752777,
+            "author": 8827633,
+            "stamp": 1739351076,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527752396,
+            "author": 8827633,
+            "stamp": 1739348945,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527751951,
+            "author": 8827633,
+            "stamp": 1739346888,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527751900,
+            "author": 8827633,
+            "stamp": 1739346839,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458421416,
+    "rating": 13,
+    "forum_thread": 17035331,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度5"
+    ],
+    "title": "Level AS-51-“盲”",
+    "sitemap_update": 1781345175000,
+    "votings": [
+        [
+            9056862,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9017126,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9360102,
+            true
+        ],
+        [
+            9736816,
+            true
+        ],
+        [
+            9255757,
+            true
+        ],
+        [
+            8747271,
+            true
+        ],
+        [
+            9041970,
+            true
+        ]
+    ],
+    "is_locked": false
+}

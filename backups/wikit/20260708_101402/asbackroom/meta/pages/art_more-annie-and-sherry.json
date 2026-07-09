@@ -1,0 +1,229 @@
+{
+    "name": "art:more-annie-and-sherry",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1544470933,
+            "author": 10302775,
+            "stamp": 1780729316,
+            "flags": "F",
+            "commentary": "已上传文件 “xiangsu”。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1544470927,
+            "author": 10302775,
+            "stamp": 1780729285,
+            "flags": "F",
+            "commentary": "已上传文件 “toufaxiaoshishu”。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1544470915,
+            "author": 10302775,
+            "stamp": 1780729217,
+            "flags": "F",
+            "commentary": "已上传文件 “Annie.gif”。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544470859,
+            "author": 10302775,
+            "stamp": 1780729016,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544470841,
+            "author": 10302775,
+            "stamp": 1780728930,
+            "flags": "A",
+            "commentary": "已新增标签：不良魔法少女, 原创, 艺术作品。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544470824,
+            "author": 10302775,
+            "stamp": 1780728885,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544468867,
+            "author": 10302775,
+            "stamp": 1780721676,
+            "flags": "F",
+            "commentary": "已上传文件 “Annie and Sherry”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544468847,
+            "author": 10302775,
+            "stamp": 1780721563,
+            "flags": "F",
+            "commentary": "已上传文件 “Annie test”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544468836,
+            "author": 10302775,
+            "stamp": 1780721501,
+            "flags": "F",
+            "commentary": "已上传文件 “Sherry1”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544468825,
+            "author": 10302775,
+            "stamp": 1780721435,
+            "flags": "F",
+            "commentary": "已上传文件 “Annie1”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544468787,
+            "author": 10302775,
+            "stamp": 1780721267,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544468780,
+            "author": 10302775,
+            "stamp": 1780721247,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11833211,
+            "name": "Annie1",
+            "url": "http://asbackroom.wikidot.com/local--files/art:more-annie-and-sherry/Annie1",
+            "size": "2.27 MB (2378802 Bytes)",
+            "size_bytes": 2378802,
+            "mime": "image/png",
+            "content": "PNG image data, 1589 x 1432, 8-bit/color RGBA, non-interlaced",
+            "author": 10302775,
+            "stamp": 1780721435,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11833216,
+            "name": "Annie and Sherry",
+            "url": "http://asbackroom.wikidot.com/local--files/art:more-annie-and-sherry/Annie%20and%20Sherry",
+            "size": "504.57 kB (516680 Bytes)",
+            "size_bytes": 516680,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 1470x1261, components 3",
+            "author": 10302775,
+            "stamp": 1780721676,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11833316,
+            "name": "Annie.gif",
+            "url": "http://asbackroom.wikidot.com/local--files/art:more-annie-and-sherry/Annie.gif",
+            "size": "238.74 kB (244466 Bytes)",
+            "size_bytes": 244466,
+            "mime": "image/gif",
+            "content": "GIF image data, version 89a, 1000 x 1000",
+            "author": 10302775,
+            "stamp": 1780729217,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11833213,
+            "name": "Annie test",
+            "url": "http://asbackroom.wikidot.com/local--files/art:more-annie-and-sherry/Annie%20test",
+            "size": "6.05 MB (6339049 Bytes)",
+            "size_bytes": 6339049,
+            "mime": "image/png",
+            "content": "PNG image data, 2678 x 2277, 8-bit/color RGBA, non-interlaced",
+            "author": 10302775,
+            "stamp": 1780721563,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11833212,
+            "name": "Sherry1",
+            "url": "http://asbackroom.wikidot.com/local--files/art:more-annie-and-sherry/Sherry1",
+            "size": "3.07 MB (3218772 Bytes)",
+            "size_bytes": 3218772,
+            "mime": "image/png",
+            "content": "PNG image data, 1694 x 1525, 8-bit/color RGBA, non-interlaced",
+            "author": 10302775,
+            "stamp": 1780721501,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11833317,
+            "name": "toufaxiaoshishu",
+            "url": "http://asbackroom.wikidot.com/local--files/art:more-annie-and-sherry/toufaxiaoshishu",
+            "size": "354.91 kB (363424 Bytes)",
+            "size_bytes": 363424,
+            "mime": "image/png",
+            "content": "PNG image data, 1080 x 1440, 8-bit/color RGBA, non-interlaced",
+            "author": 10302775,
+            "stamp": 1780729285,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11833318,
+            "name": "xiangsu",
+            "url": "http://asbackroom.wikidot.com/local--files/art:more-annie-and-sherry/xiangsu",
+            "size": "19.83 kB (20306 Bytes)",
+            "size_bytes": 20306,
+            "mime": "image/png",
+            "content": "PNG image data, 950 x 950, 8-bit/color RGBA, non-interlaced",
+            "author": 10302775,
+            "stamp": 1780729316,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468813822,
+    "forum_thread": 17997013,
+    "tags": [
+        "2026幻想竞赛",
+        "不良魔法少女",
+        "原创",
+        "艺术作品"
+    ],
+    "title": "［艺作］我们需要更多的站娘",
+    "sitemap_update": 1780729316000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            8749548,
+            true
+        ]
+    ],
+    "is_locked": false
+}

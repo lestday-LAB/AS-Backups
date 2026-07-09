@@ -1,0 +1,219 @@
+{
+    "name": "buzhidqishabranch",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1544724496,
+            "author": 9808112,
+            "stamp": 1781833004,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1541253583,
+            "author": 8827633,
+            "stamp": 1767488517,
+            "flags": "A",
+            "commentary": "已新增标签：阅读推荐。 移除标签：月度推荐。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530150726,
+            "author": 8736966,
+            "stamp": 1747495070,
+            "flags": "A",
+            "commentary": "已新增标签：速切大冒险。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528269253,
+            "author": 8719322,
+            "stamp": 1741419142,
+            "flags": "A",
+            "commentary": "已新增标签：月度推荐。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527797216,
+            "author": 8736966,
+            "stamp": 1739541574,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527782763,
+            "author": 8736966,
+            "stamp": 1739455531,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527782755,
+            "author": 8736966,
+            "stamp": 1739455484,
+            "flags": "A",
+            "commentary": "已新增标签：克劳德。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527782753,
+            "author": 8736966,
+            "stamp": 1739455467,
+            "flags": "A",
+            "commentary": "已新增标签：2025图创竞赛, 原创, 悲剧, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527782734,
+            "author": 8736966,
+            "stamp": 1739455360,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458438090,
+    "forum_thread": 17036031,
+    "tags": [
+        "2025图创竞赛",
+        "克劳德",
+        "原创",
+        "悲剧",
+        "故事",
+        "速切大冒险",
+        "阅读推荐"
+    ],
+    "title": "EMO多厨会梦见数学小猫",
+    "sitemap_update": 1781833004000,
+    "votings": [
+        [
+            8690147,
+            true
+        ],
+        [
+            9056862,
+            true
+        ],
+        [
+            9171886,
+            true
+        ],
+        [
+            8219242,
+            true
+        ],
+        [
+            9298678,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            9305633,
+            true
+        ],
+        [
+            9017126,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9184668,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            7596287,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8457826,
+            true
+        ],
+        [
+            9565995,
+            true
+        ],
+        [
+            9034717,
+            false
+        ],
+        [
+            9302580,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8705259,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8669732,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            8747271,
+            true
+        ],
+        [
+            9041970,
+            true
+        ],
+        [
+            9052652,
+            true
+        ],
+        [
+            9359857,
+            true
+        ]
+    ],
+    "is_locked": false
+}

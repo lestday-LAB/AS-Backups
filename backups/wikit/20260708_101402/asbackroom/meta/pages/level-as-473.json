@@ -1,0 +1,210 @@
+{
+    "name": "level-as-473",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 17,
+            "global_revision": 1544469426,
+            "author": 8827633,
+            "stamp": 1780724093,
+            "flags": "A",
+            "commentary": "移除标签：枪之魔法少女。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1543268741,
+            "author": 9844505,
+            "stamp": 1775895637,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1543166527,
+            "author": 9844505,
+            "stamp": 1775559812,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1543166524,
+            "author": 9844505,
+            "stamp": 1775559788,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1543147613,
+            "author": 9844505,
+            "stamp": 1775459093,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1543145374,
+            "author": 9844505,
+            "stamp": 1775449978,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1543130175,
+            "author": 9844505,
+            "stamp": 1775380332,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1543130158,
+            "author": 9844505,
+            "stamp": 1775380282,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1543129128,
+            "author": 9844505,
+            "stamp": 1775376161,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543129101,
+            "author": 9844505,
+            "stamp": 1775376036,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543129078,
+            "author": 9844505,
+            "stamp": 1775375959,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543129072,
+            "author": 9844505,
+            "stamp": 1775375930,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 4"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543129071,
+            "author": 9844505,
+            "stamp": 1775375908,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 3"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543128990,
+            "author": 9844505,
+            "stamp": 1775375626,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543128710,
+            "author": 9844505,
+            "stamp": 1775374656,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543123913,
+            "author": 9844505,
+            "stamp": 1775357412,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 枪之魔法少女。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543123889,
+            "author": 9844505,
+            "stamp": 1775357333,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 恐怖, 生存难度死区。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543123825,
+            "author": 9844505,
+            "stamp": 1775357105,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468420687,
+    "rating": 1,
+    "forum_thread": 17697442,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "层级",
+        "恐怖",
+        "生存难度死区"
+    ],
+    "title": "Level AS-473",
+    "sitemap_update": 1780724093000,
+    "votings": [
+        [
+            10389231,
+            true
+        ],
+        [
+            9366578,
+            false
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9825883,
+            true
+        ],
+        [
+            8797278,
+            false
+        ],
+        [
+            9034717,
+            false
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            false
+        ],
+        [
+            8669732,
+            true
+        ]
+    ],
+    "is_locked": false
+}

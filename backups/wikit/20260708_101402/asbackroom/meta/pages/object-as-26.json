@@ -1,0 +1,93 @@
+{
+    "name": "object-as-26",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1544643185,
+            "author": 9729411,
+            "stamp": 1781465990,
+            "flags": "A",
+            "commentary": "已新增标签：魔法少女初级证书。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544610032,
+            "author": 9808112,
+            "stamp": 1781334976,
+            "flags": "A",
+            "commentary": "已新增标签：悲剧。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544609597,
+            "author": 9808112,
+            "stamp": 1781332969,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544609581,
+            "author": 9808112,
+            "stamp": 1781332836,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 枪之魔法少女, 物品, 精神影响, 速切玩家。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544609565,
+            "author": 9808112,
+            "stamp": 1781332756,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468844545,
+    "rating": 5,
+    "forum_thread": 18027801,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "悲剧",
+        "枪之魔法少女",
+        "物品",
+        "精神影响",
+        "速切玩家",
+        "魔法少女初级证书"
+    ],
+    "title": "Object-AS-26",
+    "sitemap_update": 1781465990000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            8797278,
+            false
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ]
+    ],
+    "is_locked": false
+}

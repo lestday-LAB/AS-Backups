@@ -1,0 +1,105 @@
+{
+    "name": "entity-cat-04",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1530136663,
+            "author": 8827633,
+            "stamp": 1747406359,
+            "flags": "A",
+            "commentary": "已新增标签：2025猫咪竞赛, 原创, 实体, 物品。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530136653,
+            "author": 8827633,
+            "stamp": 1747406301,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530136640,
+            "author": 8827633,
+            "stamp": 1747406254,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459714308,
+    "rating": 15,
+    "forum_thread": 17132218,
+    "tags": [
+        "2025猫咪竞赛",
+        "原创",
+        "实体",
+        "物品"
+    ],
+    "title": "摩尼宝光招福聚财智藏威德吉祥萨埵菩提心莲华生如意宝幢法雨普施甘露无畏金刚般若波罗蜜多虚空藏愿满众生菩萨——「招财猫」",
+    "sitemap_update": 1747406359000,
+    "votings": [
+        [
+            9056862,
+            true
+        ],
+        [
+            9171886,
+            true
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            9017126,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            7504264,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8145986,
+            true
+        ],
+        [
+            8669732,
+            true
+        ],
+        [
+            9168168,
+            true
+        ],
+        [
+            9453818,
+            true
+        ],
+        [
+            9041970,
+            true
+        ]
+    ],
+    "is_locked": false
+}

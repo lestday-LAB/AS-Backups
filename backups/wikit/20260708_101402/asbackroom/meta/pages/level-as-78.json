@@ -1,0 +1,137 @@
+{
+    "name": "level-as-78",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532148279,
+            "author": 8827633,
+            "stamp": 1757120460,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530503118,
+            "author": 8677784,
+            "stamp": 1749901171,
+            "flags": "S",
+            "commentary": "修改错别字\n这写噪声→这些噪声\n正咋，有没，窒息敢，疼痛敢→挣扎，没有，窒息感，疼痛感"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530499761,
+            "author": 8827633,
+            "stamp": 1749883915,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530499575,
+            "author": 8827633,
+            "stamp": 1749880561,
+            "flags": "A",
+            "commentary": "已新增标签：2025二周年活动, 原创, 层级, 生存难度？。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530499562,
+            "author": 8827633,
+            "stamp": 1749880502,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459796314,
+    "rating": 19,
+    "forum_thread": 17150778,
+    "tags": [
+        "2025二周年活动",
+        "原创",
+        "层级",
+        "生存难度？"
+    ],
+    "title": "Level AS-78 - “永堕棋局”",
+    "sitemap_update": 1757120460000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9171886,
+            true
+        ],
+        [
+            9711154,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            9305633,
+            true
+        ],
+        [
+            9603691,
+            true
+        ],
+        [
+            9537262,
+            true
+        ],
+        [
+            9017126,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8457826,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9453818,
+            true
+        ],
+        [
+            9041970,
+            true
+        ]
+    ],
+    "is_locked": false
+}

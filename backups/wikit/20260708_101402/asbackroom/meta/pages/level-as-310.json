@@ -1,0 +1,94 @@
+{
+    "name": "level-as-310",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1530971210,
+            "author": 9453818,
+            "stamp": 1752399439,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530971045,
+            "author": 8690722,
+            "stamp": 1752398342,
+            "flags": "A",
+            "commentary": "已新增标签：层级, 开阔性, 水域, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530971005,
+            "author": 8690722,
+            "stamp": 1752398275,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459911741,
+    "rating": 12,
+    "forum_thread": 18028116,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "水域",
+        "生存难度0"
+    ],
+    "title": "Level AS-310",
+    "sitemap_update": 1752399439000,
+    "votings": [
+        [
+            8728799,
+            true
+        ],
+        [
+            9551174,
+            true
+        ],
+        [
+            10260411,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            9545391,
+            true
+        ],
+        [
+            8615949,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8968839,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8669732,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

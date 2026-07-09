@@ -1,0 +1,193 @@
+{
+    "name": "level-as-135",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 17,
+            "global_revision": 1545092607,
+            "author": 8677784,
+            "stamp": 1783525938,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度其他。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1544737679,
+            "author": 8767769,
+            "stamp": 1781885017,
+            "flags": "S A",
+            "commentary": "您已成功地回复本页至修订版本编号 7"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1544737671,
+            "author": 8767769,
+            "stamp": 1781884993,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 10"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1544737635,
+            "author": 8767769,
+            "stamp": 1781884840,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1544737607,
+            "author": 8767769,
+            "stamp": 1781884727,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1544737563,
+            "author": 8767769,
+            "stamp": 1781884532,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1544737535,
+            "author": 8767769,
+            "stamp": 1781884410,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1544737461,
+            "author": 8767769,
+            "stamp": 1781884138,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1544737446,
+            "author": 8767769,
+            "stamp": 1781884026,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544735818,
+            "author": 8677784,
+            "stamp": 1781876880,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度其他。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544729241,
+            "author": 8736966,
+            "stamp": 1781854392,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544729235,
+            "author": 8736966,
+            "stamp": 1781854353,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 大图书管理员, 层级。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544729225,
+            "author": 8736966,
+            "stamp": 1781854318,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544729198,
+            "author": 8736966,
+            "stamp": 1781854220,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544729192,
+            "author": 8736966,
+            "stamp": 1781854192,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544729183,
+            "author": 8736966,
+            "stamp": 1781854126,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544729175,
+            "author": 8736966,
+            "stamp": 1781854084,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544729171,
+            "author": 8736966,
+            "stamp": 1781854063,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468869628,
+    "forum_thread": 18033234,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "大图书管理员",
+        "层级",
+        "生存难度其他"
+    ],
+    "title": "Level AS-135 - “余烬与潮汐”",
+    "sitemap_update": 1783525938000,
+    "votings": [
+        [
+            10433929,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            9559506,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8968839,
+            true
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

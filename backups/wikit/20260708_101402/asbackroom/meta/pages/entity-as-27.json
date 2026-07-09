@@ -1,0 +1,75 @@
+{
+    "name": "entity-as-27",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543985531,
+            "author": 9379814,
+            "stamp": 1778996772,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543985526,
+            "author": 9379814,
+            "stamp": 1778996729,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543985506,
+            "author": 9379814,
+            "stamp": 1778996656,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543985442,
+            "author": 9379814,
+            "stamp": 1778996530,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 实体。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543985427,
+            "author": 9379814,
+            "stamp": 1778996406,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468675882,
+    "rating": 4,
+    "forum_thread": 17910028,
+    "tags": [
+        "原创",
+        "实体"
+    ],
+    "title": "Entity AS-27 - “乘客”（已归档）",
+    "sitemap_update": 1778996772000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            9577969,
+            true
+        ],
+        [
+            10245569,
+            true
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,144 @@
+{
+    "name": "level-as-340",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1543835550,
+            "author": 9853042,
+            "stamp": 1778430868,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1529449375,
+            "author": 8719322,
+            "stamp": 1745232760,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1529449369,
+            "author": 8719322,
+            "stamp": 1745232738,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1529449361,
+            "author": 8719322,
+            "stamp": 1745232695,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529444976,
+            "author": 9657913,
+            "stamp": 1745209153,
+            "flags": "S",
+            "commentary": "根据建议修改文章内容"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529411795,
+            "author": 8719322,
+            "stamp": 1745065022,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度1。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529411790,
+            "author": 8719322,
+            "stamp": 1745064998,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529411761,
+            "author": 8719322,
+            "stamp": 1745064929,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459284840,
+    "rating": 9,
+    "forum_thread": 17095179,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度1"
+    ],
+    "title": "Level AS-340",
+    "sitemap_update": 1778430868000,
+    "votings": [
+        [
+            9056862,
+            true
+        ],
+        [
+            9555124,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            9603691,
+            false
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9420530,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9190721,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9178718,
+            false
+        ],
+        [
+            8669732,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            9041970,
+            true
+        ]
+    ],
+    "is_locked": false
+}

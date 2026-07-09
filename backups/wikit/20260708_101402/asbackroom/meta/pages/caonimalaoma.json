@@ -1,0 +1,92 @@
+{
+    "name": "caonimalaoma",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1544470396,
+            "author": 8827633,
+            "stamp": 1780727367,
+            "flags": "A",
+            "commentary": "移除标签：宅之魔法少女。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543844103,
+            "author": 8736966,
+            "stamp": 1778491440,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543840351,
+            "author": 8736966,
+            "stamp": 1778468014,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 宅之魔法少女, 探险者总署, 故事, 速切大冒险。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543840336,
+            "author": 8736966,
+            "stamp": 1778467928,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543840321,
+            "author": 8736966,
+            "stamp": 1778467806,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468639623,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "探险者总署",
+        "故事",
+        "速切大冒险"
+    ],
+    "title": "探险者总署时维观测中心通讯记录",
+    "sitemap_update": 1780727367000,
+    "votings": [
+        [
+            8113340,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8712717,
+            true
+        ]
+    ],
+    "is_locked": false
+}

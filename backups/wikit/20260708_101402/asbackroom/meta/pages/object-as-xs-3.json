@@ -1,0 +1,56 @@
+{
+    "name": "object-as-xs-3",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1544339438,
+            "author": 10333264,
+            "stamp": 1780147832,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544100743,
+            "author": 10333264,
+            "stamp": 1779588465,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543986605,
+            "author": 10333264,
+            "stamp": 1779002190,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 新手专区, 物品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543986562,
+            "author": 10333264,
+            "stamp": 1779002015,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468676068,
+    "rating": 1,
+    "forum_thread": 17917367,
+    "tags": [
+        "原创",
+        "新手专区",
+        "物品"
+    ],
+    "title": "Object AS-XS-3",
+    "sitemap_update": 1780147832000,
+    "votings": [
+        [
+            8827633,
+            true
+        ]
+    ],
+    "is_locked": false
+}

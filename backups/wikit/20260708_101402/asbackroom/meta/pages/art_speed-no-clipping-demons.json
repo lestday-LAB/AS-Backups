@@ -1,0 +1,102 @@
+{
+    "name": "art:speed-no-clipping-demons",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1544469587,
+            "author": 8827633,
+            "stamp": 1780724515,
+            "flags": "A",
+            "commentary": "移除标签：枪之魔法少女。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543088233,
+            "author": 9729411,
+            "stamp": 1775213658,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543088228,
+            "author": 9729411,
+            "stamp": 1775213629,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 枪之魔法少女, 艺术作品, 速切大冒险, 速切玩家。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543088222,
+            "author": 9729411,
+            "stamp": 1775213596,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468412630,
+    "rating": 12,
+    "forum_thread": 17689747,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "艺术作品",
+        "速切大冒险",
+        "速切玩家"
+    ],
+    "title": "艺作：多厨 - 玩速切玩的",
+    "sitemap_update": 1780724515000,
+    "votings": [
+        [
+            9056862,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9577969,
+            true
+        ],
+        [
+            10302775,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8747271,
+            true
+        ]
+    ],
+    "is_locked": false
+}

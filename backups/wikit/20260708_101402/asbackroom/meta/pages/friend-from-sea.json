@@ -1,0 +1,63 @@
+{
+    "name": "friend-from-sea",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545025329,
+            "author": 8749548,
+            "stamp": 1783241370,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542941171,
+            "author": 8749548,
+            "stamp": 1774606570,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542941169,
+            "author": 8749548,
+            "stamp": 1774606557,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468367996,
+    "rating": 3,
+    "forum_thread": 17661854,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "海边来客",
+    "sitemap_update": 1783241370000,
+    "votings": [
+        [
+            9555124,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

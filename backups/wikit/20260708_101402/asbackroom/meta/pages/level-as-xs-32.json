@@ -1,0 +1,102 @@
+{
+    "name": "level-as-xs-32",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531508196,
+            "author": 9609194,
+            "stamp": 1754988672,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531155198,
+            "author": 9551174,
+            "stamp": 1753324415,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531026436,
+            "author": 9609194,
+            "stamp": 1752660137,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531023769,
+            "author": 9609194,
+            "stamp": 1752649806,
+            "flags": "A",
+            "commentary": "已新增标签：人类关联, 原创, 层级, 开阔性, 怀旧, 生存难度宜居, 补给可能, 计算机, 音频。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531023759,
+            "author": 9609194,
+            "stamp": 1752649769,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459923191,
+    "rating": 5,
+    "forum_thread": 17166839,
+    "tags": [
+        "人类关联",
+        "原创",
+        "层级",
+        "开阔性",
+        "怀旧",
+        "生存难度宜居",
+        "补给可能",
+        "计算机",
+        "音频"
+    ],
+    "title": "Level AS-XS-32",
+    "sitemap_update": 1754988672000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9603691,
+            false
+        ],
+        [
+            8690722,
+            true
+        ],
+        [
+            8677784,
+            false
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8669732,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,101 @@
+{
+    "name": "little-nomatch-girl",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1544469458,
+            "author": 8827633,
+            "stamp": 1780724222,
+            "flags": "A",
+            "commentary": "移除标签：枪之魔法少女。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544150576,
+            "author": 9844505,
+            "stamp": 1779802358,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 枪之魔法少女。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544149080,
+            "author": 9844505,
+            "stamp": 1779797607,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544148243,
+            "author": 9844505,
+            "stamp": 1779794328,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544148143,
+            "author": 9844505,
+            "stamp": 1779793868,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 悲剧, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544148117,
+            "author": 9844505,
+            "stamp": 1779793791,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468714686,
+    "rating": 2,
+    "forum_thread": 17962848,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "悲剧",
+        "故事"
+    ],
+    "title": "没有火柴的小女孩",
+    "sitemap_update": 1780724222000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            false
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            false
+        ],
+        [
+            9453818,
+            false
+        ]
+    ],
+    "is_locked": false
+}

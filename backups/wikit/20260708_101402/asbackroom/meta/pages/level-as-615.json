@@ -1,0 +1,114 @@
+{
+    "name": "level-as-615",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1544622312,
+            "author": 9814883,
+            "stamp": 1781366348,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544472533,
+            "author": 9814883,
+            "stamp": 1780735418,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544472132,
+            "author": 9814883,
+            "stamp": 1780733942,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544092532,
+            "author": 8677784,
+            "stamp": 1779548795,
+            "flags": "A",
+            "commentary": "已新增标签：危险度2。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543647873,
+            "author": 9814883,
+            "stamp": 1777618088,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543640853,
+            "author": 9814883,
+            "stamp": 1777601749,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543638591,
+            "author": 9814883,
+            "stamp": 1777593447,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543638353,
+            "author": 9814883,
+            "stamp": 1777591665,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 封闭性, 层级, 建筑。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543638347,
+            "author": 9814883,
+            "stamp": 1777591621,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468593301,
+    "rating": 5,
+    "tags": [
+        "切行困难",
+        "危险度2",
+        "原创",
+        "封闭性",
+        "层级",
+        "建筑"
+    ],
+    "title": "Level AS-615-“造物厂”",
+    "sitemap_update": 1781366348000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            8749548,
+            true
+        ]
+    ],
+    "is_locked": false
+}

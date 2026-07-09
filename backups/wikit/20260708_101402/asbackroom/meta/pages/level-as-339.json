@@ -1,0 +1,235 @@
+{
+    "name": "level-as-339",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 20,
+            "global_revision": 1543955960,
+            "author": 9853042,
+            "stamp": 1778921320,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1543955939,
+            "author": 9853042,
+            "stamp": 1778921194,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1543955876,
+            "author": 9853042,
+            "stamp": 1778920955,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1543955739,
+            "author": 9853042,
+            "stamp": 1778920214,
+            "flags": "F",
+            "commentary": "已上传文件 “Screenshot_2026-05-16-16-29-38-093_com.larus.nova-edit.jpg”。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1543859000,
+            "author": 9853042,
+            "stamp": 1778576035,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1543858985,
+            "author": 9853042,
+            "stamp": 1778575965,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1543858962,
+            "author": 9853042,
+            "stamp": 1778575883,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1543835592,
+            "author": 9853042,
+            "stamp": 1778431077,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1543835505,
+            "author": 9853042,
+            "stamp": 1778430772,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1543835467,
+            "author": 9853042,
+            "stamp": 1778430587,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1543835457,
+            "author": 9853042,
+            "stamp": 1778430543,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1543835278,
+            "author": 9853042,
+            "stamp": 1778429601,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543835265,
+            "author": 9853042,
+            "stamp": 1778429544,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543835209,
+            "author": 9853042,
+            "stamp": 1778429316,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543833735,
+            "author": 9853042,
+            "stamp": 1778423684,
+            "flags": "A",
+            "commentary": "已新增标签：封闭性。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543833615,
+            "author": 9034717,
+            "stamp": 1778423410,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543831610,
+            "author": 9853042,
+            "stamp": 1778415764,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543831576,
+            "author": 9853042,
+            "stamp": 1778415657,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543831551,
+            "author": 9853042,
+            "stamp": 1778415581,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 层级意识, 生存难度宜居。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543831545,
+            "author": 9853042,
+            "stamp": 1778415558,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543831541,
+            "author": 9853042,
+            "stamp": 1778415545,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11818423,
+            "name": "Screenshot_2026-05-16-16-29-38-093_com.larus.nova-edit.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-339/Screenshot_2026-05-16-16-29-38-093_com.larus.nova-edit.jpg",
+            "size": "726.26 kB (743694 Bytes)",
+            "size_bytes": 743694,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 1080x1327, components 3",
+            "author": 9853042,
+            "stamp": 1778920215,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468637959,
+    "rating": 8,
+    "forum_thread": 17863831,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "层级意识",
+        "生存难度宜居"
+    ],
+    "title": "Level AS-339 “有几分钟时间吗？”",
+    "sitemap_update": 1778921320000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

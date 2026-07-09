@@ -1,0 +1,94 @@
+{
+    "name": "level-as-xs-42",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1544716317,
+            "author": 8677784,
+            "stamp": 1781792425,
+            "flags": "A",
+            "commentary": "已新增标签：环境危害, 生存难度4。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544630381,
+            "author": 10315846,
+            "stamp": 1781413195,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544621612,
+            "author": 10315846,
+            "stamp": 1781363789,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544621222,
+            "author": 10315846,
+            "stamp": 1781362616,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544621070,
+            "author": 10315846,
+            "stamp": 1781362151,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544618167,
+            "author": 10315846,
+            "stamp": 1781357069,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 新手专区。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544618117,
+            "author": 10315846,
+            "stamp": 1781356993,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468845786,
+    "rating": 4,
+    "forum_thread": 18028005,
+    "tags": [
+        "原创",
+        "层级",
+        "新手专区",
+        "环境危害",
+        "生存难度4"
+    ],
+    "title": "Level As Xs 42 - “暗巷”",
+    "sitemap_update": 1781792425000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            10315846,
+            true
+        ],
+        [
+            9729411,
+            true
+        ]
+    ],
+    "is_locked": false
+}

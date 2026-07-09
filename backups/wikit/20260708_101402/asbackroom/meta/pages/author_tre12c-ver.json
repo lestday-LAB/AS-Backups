@@ -1,0 +1,134 @@
+{
+    "name": "author:tre12c-ver",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1544994119,
+            "author": 10146283,
+            "stamp": 1783104714,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544992995,
+            "author": 10146283,
+            "stamp": 1783099567,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544992969,
+            "author": 10146283,
+            "stamp": 1783099441,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544992960,
+            "author": 10146283,
+            "stamp": 1783099418,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544992951,
+            "author": 10146283,
+            "stamp": 1783099382,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544992934,
+            "author": 10146283,
+            "stamp": 1783099326,
+            "flags": "A",
+            "commentary": "已新增标签：作者。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544992933,
+            "author": 10146283,
+            "stamp": 1783099312,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544992929,
+            "author": 10146283,
+            "stamp": 1783099284,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544992923,
+            "author": 10146283,
+            "stamp": 1783099240,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544992912,
+            "author": 10146283,
+            "stamp": 1783099173,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468935755,
+    "rating": 9,
+    "forum_thread": 18074777,
+    "tags": [
+        "作者"
+    ],
+    "title": "我们需要更多的洛夕和洛夕小窝",
+    "sitemap_update": 1783104714000,
+    "votings": [
+        [
+            9555124,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9850002,
+            true
+        ],
+        [
+            9853042,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

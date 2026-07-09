@@ -1,0 +1,120 @@
+{
+    "name": "level-as-154",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531432264,
+            "author": 8193535,
+            "stamp": 1754594464,
+            "flags": "S",
+            "commentary": "改了个错字"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531432109,
+            "author": 9302580,
+            "stamp": 1754593315,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531432100,
+            "author": 9302580,
+            "stamp": 1754593240,
+            "flags": "A",
+            "commentary": "已新增标签：2025萌新竞赛, 劣化, 原创, 合著, 城镇, 层级, 开阔性, 怀旧, 感官影响, 时间异常, 生存难度待定, 神秘, 精神影响, 道路, 非线性。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531432091,
+            "author": 9302580,
+            "stamp": 1754593192,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460017314,
+    "rating": 12,
+    "forum_thread": 17178030,
+    "tags": [
+        "2025萌新竞赛",
+        "劣化",
+        "原创",
+        "合著",
+        "城镇",
+        "层级",
+        "开阔性",
+        "怀旧",
+        "感官影响",
+        "时间异常",
+        "生存难度待定",
+        "神秘",
+        "精神影响",
+        "道路",
+        "非线性"
+    ],
+    "title": "Level AS-154",
+    "sitemap_update": 1754594464000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            8156580,
+            true
+        ],
+        [
+            9555124,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9603691,
+            false
+        ],
+        [
+            9764585,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9016526,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8504951,
+            true
+        ],
+        [
+            9437079,
+            true
+        ],
+        [
+            8747271,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

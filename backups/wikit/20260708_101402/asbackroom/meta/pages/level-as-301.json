@@ -1,0 +1,85 @@
+{
+    "name": "level-as-301",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1544980691,
+            "author": 9657913,
+            "stamp": 1783049134,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 生存难度2。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544980680,
+            "author": 9657913,
+            "stamp": 1783049069,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544980663,
+            "author": 9657913,
+            "stamp": 1783049001,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544980645,
+            "author": 9657913,
+            "stamp": 1783048908,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468933116,
+    "rating": 6,
+    "forum_thread": 18074309,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度2"
+    ],
+    "title": "Level AS-301",
+    "sitemap_update": 1783049134000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            10437326,
+            true
+        ],
+        [
+            9559506,
+            true
+        ],
+        [
+            4784440,
+            true
+        ],
+        [
+            8968839,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            10146283,
+            false
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

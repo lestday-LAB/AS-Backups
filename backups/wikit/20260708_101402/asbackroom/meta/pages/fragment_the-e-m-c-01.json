@@ -1,0 +1,112 @@
+{
+    "name": "fragment:the-e-m-c-01",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1544091205,
+            "author": 8677784,
+            "stamp": 1779545936,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"deleted:fragment:the-e-m-c-01\" 至 \"fragment:the-e-m-c-01\"."
+        },
+        {
+            "revision": 10,
+            "global_revision": 1543144733,
+            "author": 9310550,
+            "stamp": 1775447462,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"fragment:the-e-m-c-01\" 至 \"deleted:fragment:the-e-m-c-01\"."
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542981601,
+            "author": 9310550,
+            "stamp": 1774741275,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532231316,
+            "author": 8145986,
+            "stamp": 1757579881,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531816568,
+            "author": 9310550,
+            "stamp": 1756374626,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531816545,
+            "author": 9310550,
+            "stamp": 1756374541,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531816522,
+            "author": 9310550,
+            "stamp": 1756374437,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531816509,
+            "author": 9310550,
+            "stamp": 1756374373,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531816499,
+            "author": 9310550,
+            "stamp": 1756374327,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531816482,
+            "author": 9310550,
+            "stamp": 1756374220,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531816447,
+            "author": 9310550,
+            "stamp": 1756374181,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-e-m-c\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531816290,
+            "author": 9310550,
+            "stamp": 1756373636,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460119597,
+    "parent": "the-e-m-c",
+    "tags": [
+        "段落"
+    ],
+    "title": "The E M C 01",
+    "sitemap_update": 1779545936000,
+    "votings": [],
+    "is_locked": false
+}

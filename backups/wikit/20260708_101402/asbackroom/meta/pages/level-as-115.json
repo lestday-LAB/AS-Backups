@@ -1,0 +1,185 @@
+{
+    "name": "level-as-115",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1528552734,
+            "author": 8968839,
+            "stamp": 1742548076,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1528270054,
+            "author": 8968839,
+            "stamp": 1741423417,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528269915,
+            "author": 8968839,
+            "stamp": 1741422981,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性, 思想感知, 积极, 隔地促动。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528269736,
+            "author": 8968839,
+            "stamp": 1741422245,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度宜居。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528269721,
+            "author": 8968839,
+            "stamp": 1741422204,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528269709,
+            "author": 8968839,
+            "stamp": 1741422118,
+            "flags": "F",
+            "commentary": "已上传文件 “grass.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528269706,
+            "author": 8968839,
+            "stamp": 1741422103,
+            "flags": "F",
+            "commentary": "已上传文件 “Level.jpg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528269700,
+            "author": 8968839,
+            "stamp": 1741422073,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11339874,
+            "name": "grass.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-115/grass.jpg",
+            "size": "88.99 kB (91122 Bytes)",
+            "size_bytes": 91122,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 960x628, components 3",
+            "author": 8968839,
+            "stamp": 1741422118,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11339873,
+            "name": "Level.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-115/Level.jpg",
+            "size": "118.58 kB (121430 Bytes)",
+            "size_bytes": 121430,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 960x315, components 3",
+            "author": 8968839,
+            "stamp": 1741422103,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1458670246,
+    "rating": 12,
+    "forum_thread": 17060671,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "思想感知",
+        "生存难度宜居",
+        "积极",
+        "隔地促动"
+    ],
+    "title": "Level AS-115",
+    "sitemap_update": 1742548076000,
+    "votings": [
+        [
+            9056862,
+            true
+        ],
+        [
+            9171886,
+            false
+        ],
+        [
+            8172076,
+            true
+        ],
+        [
+            9603691,
+            false
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            9324970,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9190721,
+            true
+        ],
+        [
+            9293437,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            9441972,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9255757,
+            true
+        ],
+        [
+            8712717,
+            true
+        ],
+        [
+            8433148,
+            false
+        ]
+    ],
+    "is_locked": false
+}

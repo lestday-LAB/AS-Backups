@@ -1,0 +1,131 @@
+{
+    "name": "level-as-1-5",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1545084452,
+            "author": 9853042,
+            "stamp": 1783497680,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1545084378,
+            "author": 9853042,
+            "stamp": 1783497451,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1545078475,
+            "author": 9853042,
+            "stamp": 1783478132,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1545078402,
+            "author": 9853042,
+            "stamp": 1783477787,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 不良魔法少女。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545078397,
+            "author": 9853042,
+            "stamp": 1783477738,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度宜居。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545078387,
+            "author": 9853042,
+            "stamp": 1783477675,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545078368,
+            "author": 9853042,
+            "stamp": 1783477629,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545078343,
+            "author": 9853042,
+            "stamp": 1783477520,
+            "flags": "F",
+            "commentary": "已上传文件 “as1.5”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545078332,
+            "author": 9853042,
+            "stamp": 1783477480,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11854843,
+            "name": "as1.5",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-1-5/as1.5",
+            "size": "218.49 kB (223737 Bytes)",
+            "size_bytes": 223737,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 1170x780, components 3",
+            "author": 9853042,
+            "stamp": 1783477520,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468953111,
+    "rating": 4,
+    "forum_thread": 18104342,
+    "tags": [
+        "2026幻想竞赛",
+        "不良魔法少女",
+        "原创",
+        "层级",
+        "生存难度宜居"
+    ],
+    "title": "Level AS-1.5",
+    "sitemap_update": 1783497680000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9844505,
+            false
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

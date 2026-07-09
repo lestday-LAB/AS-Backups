@@ -1,0 +1,111 @@
+{
+    "name": "level-as-420",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531923090,
+            "author": 9287769,
+            "stamp": 1756647504,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 1"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531922606,
+            "author": 9287769,
+            "stamp": 1756647023,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531922396,
+            "author": 9287769,
+            "stamp": 1756646857,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527219402,
+            "author": 9287769,
+            "stamp": 1736683891,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 水域, 生存难度宜居, 生存难度死区, 降水。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527219340,
+            "author": 9287769,
+            "stamp": 1736683565,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458231048,
+    "rating": 6,
+    "forum_thread": 17019162,
+    "tags": [
+        "原创",
+        "层级",
+        "水域",
+        "生存难度宜居",
+        "生存难度死区",
+        "降水"
+    ],
+    "title": "Level As-420-“湮灭，重生”",
+    "sitemap_update": 1756647504000,
+    "votings": [
+        [
+            9171886,
+            false
+        ],
+        [
+            9201438,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8719322,
+            false
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            8527767,
+            true
+        ],
+        [
+            9531940,
+            true
+        ],
+        [
+            8752576,
+            false
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9255757,
+            true
+        ],
+        [
+            9168168,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,53 @@
+{
+    "name": "2023",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1518808660,
+            "author": 8827633,
+            "stamp": 1709686374,
+            "flags": "A",
+            "commentary": "已新增标签：竞赛。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1514170257,
+            "author": 8546995,
+            "stamp": 1695468072,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1514170220,
+            "author": 8546995,
+            "stamp": 1695468028,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1514170209,
+            "author": 8546995,
+            "stamp": 1695467963,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1450124895,
+    "forum_thread": 17862639,
+    "tags": [
+        "竞赛"
+    ],
+    "title": "2023",
+    "sitemap_update": 1709686374000,
+    "votings": [
+        [
+            9844505,
+            false
+        ]
+    ],
+    "is_locked": false
+}

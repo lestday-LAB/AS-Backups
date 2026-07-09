@@ -1,0 +1,265 @@
+{
+    "name": "level-as-500",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1544983162,
+            "author": 8747271,
+            "stamp": 1783061229,
+            "flags": "T",
+            "commentary": "更改编号"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1544983142,
+            "author": 8747271,
+            "stamp": 1783061120,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-as-161\" 至 \"level-as-500\"."
+        },
+        {
+            "revision": 14,
+            "global_revision": 1544662919,
+            "author": 8749548,
+            "stamp": 1781576629,
+            "flags": "A",
+            "commentary": "已新增标签：阅读推荐。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1544470173,
+            "author": 8827633,
+            "stamp": 1780726640,
+            "flags": "A",
+            "commentary": "移除标签：大图书管理员。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1544092681,
+            "author": 8677784,
+            "stamp": 1779549222,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度其他。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1543809014,
+            "author": 8749548,
+            "stamp": 1778312674,
+            "flags": "A",
+            "commentary": "已新增标签：as层群千日纪念。 移除标签：后室as层群千日纪念。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1543678017,
+            "author": 9533296,
+            "stamp": 1777718506,
+            "flags": "A",
+            "commentary": "已新增标签：千日庆典通行券。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1543671933,
+            "author": 9533296,
+            "stamp": 1777699880,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543657515,
+            "author": 8752576,
+            "stamp": 1777649791,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543657502,
+            "author": 8752576,
+            "stamp": 1777649739,
+            "flags": "F",
+            "commentary": "已上传文件 “1”。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543657454,
+            "author": 8752576,
+            "stamp": 1777649693,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543657061,
+            "author": 9533296,
+            "stamp": 1777648280,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543657000,
+            "author": 9825883,
+            "stamp": 1777647993,
+            "flags": "A",
+            "commentary": "已新增标签：后室as层群千日纪念。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543656954,
+            "author": 9533296,
+            "stamp": 1777647819,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 大图书管理员。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543656941,
+            "author": 9533296,
+            "stamp": 1777647771,
+            "flags": "A",
+            "commentary": "已新增标签：层级。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543656809,
+            "author": 9533296,
+            "stamp": 1777647321,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543656477,
+            "author": 9533296,
+            "stamp": 1777646365,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11806643,
+            "name": "1",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-500/1",
+            "size": "970.38 kB (993671 Bytes)",
+            "size_bytes": 993671,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 216x216, segment length 16, Exif Standard: , baseline, precision 8, 1170x4326, components 3",
+            "author": 8752576,
+            "stamp": 1777649739,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468595713,
+    "rating": 17,
+    "forum_thread": 17832169,
+    "tags": [
+        "2026幻想竞赛",
+        "as层群千日纪念",
+        "千日庆典通行券",
+        "原创",
+        "层级",
+        "生存难度其他",
+        "阅读推荐"
+    ],
+    "title": "Felicity AS-500  “予你永恒微笑，愿你永远幸福”",
+    "sitemap_update": 1783061229000,
+    "votings": [
+        [
+            9842140,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9366578,
+            false
+        ],
+        [
+            9853042,
+            true
+        ],
+        [
+            10302775,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            7168571,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            4784440,
+            false
+        ],
+        [
+            9825883,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8797278,
+            false
+        ],
+        [
+            9533296,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            10258060,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9844993,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

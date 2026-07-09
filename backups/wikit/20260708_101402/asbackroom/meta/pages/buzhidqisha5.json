@@ -1,0 +1,120 @@
+{
+    "name": "buzhidqisha5",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1530339632,
+            "author": 8736966,
+            "stamp": 1748860948,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530329168,
+            "author": 8736966,
+            "stamp": 1748791437,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 速切大冒险, 速切玩家。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530329157,
+            "author": 8736966,
+            "stamp": 1748791394,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530329129,
+            "author": 8736966,
+            "stamp": 1748791207,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530329106,
+            "author": 8736966,
+            "stamp": 1748791069,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530329100,
+            "author": 8736966,
+            "stamp": 1748791039,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530329095,
+            "author": 8736966,
+            "stamp": 1748790995,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459744952,
+    "forum_thread": 17142659,
+    "tags": [
+        "原创",
+        "故事",
+        "速切大冒险",
+        "速切玩家"
+    ],
+    "title": "完蛋，我被失败案例包围了",
+    "sitemap_update": 1748860948000,
+    "votings": [
+        [
+            9056862,
+            true
+        ],
+        [
+            9171886,
+            true
+        ],
+        [
+            8113340,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9305633,
+            true
+        ],
+        [
+            9603691,
+            false
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8457826,
+            true
+        ],
+        [
+            9302580,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

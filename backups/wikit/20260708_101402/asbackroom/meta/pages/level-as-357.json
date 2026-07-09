@@ -1,0 +1,53 @@
+{
+    "name": "level-as-357",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1544341943,
+            "author": 8620589,
+            "stamp": 1780155492,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 喜剧, 层级, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544341939,
+            "author": 8620589,
+            "stamp": 1780155481,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468781969,
+    "rating": 2,
+    "forum_thread": 17971549,
+    "tags": [
+        "原创",
+        "喜剧",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level AS-357",
+    "sitemap_update": 1780155492000,
+    "votings": [
+        [
+            10389231,
+            false
+        ],
+        [
+            9420530,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            8749548,
+            true
+        ]
+    ],
+    "is_locked": false
+}

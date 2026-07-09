@@ -1,0 +1,116 @@
+{
+    "name": "level-as-542",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1544470206,
+            "author": 8827633,
+            "stamp": 1780726763,
+            "flags": "A",
+            "commentary": "移除标签：大图书管理员。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544092660,
+            "author": 8677784,
+            "stamp": 1779549158,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度0。 移除标签：等级0。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543717701,
+            "author": 8767769,
+            "stamp": 1777895830,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543717271,
+            "author": 8767769,
+            "stamp": 1777894875,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543717257,
+            "author": 8767769,
+            "stamp": 1777894829,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543715623,
+            "author": 8767769,
+            "stamp": 1777888348,
+            "flags": "A",
+            "commentary": "已新增标签：大图书管理员。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543715401,
+            "author": 8767769,
+            "stamp": 1777887630,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 层级, 等级0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543715395,
+            "author": 8767769,
+            "stamp": 1777887614,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468612875,
+    "rating": 8,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level As 542",
+    "sitemap_update": 1780726763000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9533296,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

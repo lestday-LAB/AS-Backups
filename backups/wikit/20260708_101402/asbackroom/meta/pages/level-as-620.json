@@ -1,0 +1,302 @@
+{
+    "name": "level-as-620",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1530724450,
+            "author": 9464213,
+            "stamp": 1751186558,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1526890920,
+            "author": 8145986,
+            "stamp": 1735010827,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1520711389,
+            "author": 8827633,
+            "stamp": 1717746524,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1520710916,
+            "author": 8827633,
+            "stamp": 1717743328,
+            "flags": "A",
+            "commentary": "已新增标签：as层群, 原创, 层级, 悲剧, 生存难度宜居。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1520710904,
+            "author": 8827633,
+            "stamp": 1717743247,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1520710871,
+            "author": 8827633,
+            "stamp": 1717742977,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1520710816,
+            "author": 8827633,
+            "stamp": 1717742819,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1520710813,
+            "author": 8827633,
+            "stamp": 1717742773,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1520710794,
+            "author": 8827633,
+            "stamp": 1717742615,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1520710793,
+            "author": 8827633,
+            "stamp": 1717742568,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1520710744,
+            "author": 8827633,
+            "stamp": 1717742482,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1453907685,
+    "rating": 48,
+    "forum_thread": 16873673,
+    "tags": [
+        "as层群",
+        "原创",
+        "层级",
+        "悲剧",
+        "生存难度宜居"
+    ],
+    "title": "Level AS-620- “南郊城外没有杜鹃”",
+    "sitemap_update": 1751186558000,
+    "votings": [
+        [
+            8728799,
+            true
+        ],
+        [
+            9056862,
+            true
+        ],
+        [
+            9171886,
+            true
+        ],
+        [
+            10204656,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9400165,
+            true
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            9552098,
+            true
+        ],
+        [
+            8690722,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            9324970,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            10333264,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8429428,
+            true
+        ],
+        [
+            7596287,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9201465,
+            true
+        ],
+        [
+            8159070,
+            true
+        ],
+        [
+            9360102,
+            true
+        ],
+        [
+            9293437,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            8527767,
+            true
+        ],
+        [
+            9166657,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            8643702,
+            true
+        ],
+        [
+            9613204,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9437079,
+            true
+        ],
+        [
+            9178718,
+            true
+        ],
+        [
+            8910625,
+            true
+        ],
+        [
+            9810572,
+            true
+        ],
+        [
+            9309833,
+            true
+        ],
+        [
+            8669732,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            8516280,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            8150623,
+            true
+        ],
+        [
+            8712717,
+            true
+        ],
+        [
+            8747271,
+            true
+        ],
+        [
+            9168168,
+            true
+        ],
+        [
+            9453818,
+            true
+        ],
+        [
+            9041970,
+            true
+        ],
+        [
+            9006457,
+            true
+        ]
+    ],
+    "is_locked": false
+}

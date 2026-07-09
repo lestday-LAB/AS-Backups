@@ -1,0 +1,126 @@
+{
+    "name": "level-as-1-4",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1545041114,
+            "author": 9453818,
+            "stamp": 1783314615,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1545040975,
+            "author": 8797278,
+            "stamp": 1783313888,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1545028567,
+            "author": 9453818,
+            "stamp": 1783253738,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1545028556,
+            "author": 9453818,
+            "stamp": 1783253704,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545028026,
+            "author": 9453818,
+            "stamp": 1783251703,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545027966,
+            "author": 9453818,
+            "stamp": 1783251331,
+            "flags": "A",
+            "commentary": "已新增标签：环境危害。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545027951,
+            "author": 9453818,
+            "stamp": 1783251286,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度4。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545027947,
+            "author": 9453818,
+            "stamp": 1783251263,
+            "flags": "F",
+            "commentary": "已上传文件 “car1”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545027906,
+            "author": 9453818,
+            "stamp": 1783251233,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11852963,
+            "name": "car1",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-1-4/car1",
+            "size": "389.37 kB (398716 Bytes)",
+            "size_bytes": 398716,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1200x800, components 3",
+            "author": 9453818,
+            "stamp": 1783251263,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468942574,
+    "forum_thread": 18081727,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "环境危害",
+        "生存难度4"
+    ],
+    "title": "Level AS-1.4",
+    "sitemap_update": 1783314615000,
+    "votings": [
+        [
+            10433929,
+            true
+        ],
+        [
+            9555124,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            9559506,
+            true
+        ],
+        [
+            4784440,
+            false
+        ]
+    ],
+    "is_locked": false
+}

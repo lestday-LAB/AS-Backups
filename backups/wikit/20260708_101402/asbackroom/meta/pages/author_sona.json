@@ -1,0 +1,186 @@
+{
+    "name": "author:sona",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1544917198,
+            "author": 8968839,
+            "stamp": 1782727753,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1544917115,
+            "author": 8968839,
+            "stamp": 1782727273,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1544916915,
+            "author": 8968839,
+            "stamp": 1782726304,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1544729764,
+            "author": 8968839,
+            "stamp": 1781856920,
+            "flags": "S",
+            "commentary": "对方的回信"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1544729033,
+            "author": 8968839,
+            "stamp": 1781853259,
+            "flags": "S",
+            "commentary": "增加对lanelu201207的感谢"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1544720110,
+            "author": 8968839,
+            "stamp": 1781807348,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544700674,
+            "author": 8968839,
+            "stamp": 1781726524,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544700609,
+            "author": 8968839,
+            "stamp": 1781726073,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544700587,
+            "author": 8968839,
+            "stamp": 1781725966,
+            "flags": "S",
+            "commentary": "现在是34篇"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543117219,
+            "author": 8968839,
+            "stamp": 1775326477,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543111598,
+            "author": 8968839,
+            "stamp": 1775305526,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543111046,
+            "author": 8968839,
+            "stamp": 1775303525,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543111006,
+            "author": 8968839,
+            "stamp": 1775303365,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543110988,
+            "author": 8968839,
+            "stamp": 1775303305,
+            "flags": "A",
+            "commentary": "已新增标签：作者。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543110967,
+            "author": 8968839,
+            "stamp": 1775303241,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468418427,
+    "rating": 12,
+    "forum_thread": 17695452,
+    "tags": [
+        "作者"
+    ],
+    "title": "Sona的作者页",
+    "sitemap_update": 1782727753000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            9287769,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8457826,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            8533756,
+            true
+        ],
+        [
+            8968839,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

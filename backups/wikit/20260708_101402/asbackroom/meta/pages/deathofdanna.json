@@ -1,0 +1,77 @@
+{
+    "name": "deathofdanna",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544469695,
+            "author": 9844505,
+            "stamp": 1780724912,
+            "flags": "S",
+            "commentary": "修改错别字"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544469202,
+            "author": 8827633,
+            "stamp": 1780723303,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 宅之魔法少女, 竞赛。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544469199,
+            "author": 8827633,
+            "stamp": 1780723278,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468813867,
+    "rating": 8,
+    "forum_thread": 17997626,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "宅之魔法少女",
+        "竞赛"
+    ],
+    "title": "戴安娜之死",
+    "sitemap_update": 1780724912000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

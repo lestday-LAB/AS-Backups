@@ -1,0 +1,185 @@
+{
+    "name": "level-as-482",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1544662927,
+            "author": 8749548,
+            "stamp": 1781576679,
+            "flags": "A",
+            "commentary": "已新增标签：阅读推荐。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1544622291,
+            "author": 9814883,
+            "stamp": 1781366266,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544622281,
+            "author": 9814883,
+            "stamp": 1781366218,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544617558,
+            "author": 9814883,
+            "stamp": 1781355477,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544617458,
+            "author": 9814883,
+            "stamp": 1781355024,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544472504,
+            "author": 9814883,
+            "stamp": 1780735328,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543829952,
+            "author": 8767769,
+            "stamp": 1778408204,
+            "flags": "A",
+            "commentary": "已新增标签：前厅映像。 移除标签：前厅映象。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543253806,
+            "author": 9814883,
+            "stamp": 1775836815,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543248785,
+            "author": 9814883,
+            "stamp": 1775819420,
+            "flags": "A",
+            "commentary": "已新增标签：前厅映象, 原创, 层级, 建筑, 生存难度待定, 神秘, 精神影响。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543248776,
+            "author": 9814883,
+            "stamp": 1775819332,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543248771,
+            "author": 9814883,
+            "stamp": 1775819293,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468472540,
+    "rating": 14,
+    "forum_thread": 17701910,
+    "tags": [
+        "前厅映像",
+        "原创",
+        "层级",
+        "建筑",
+        "生存难度待定",
+        "神秘",
+        "精神影响",
+        "阅读推荐"
+    ],
+    "title": "已删除讨论串：麦当劳的深处竟然有……",
+    "sitemap_update": 1781576679000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9833590,
+            true
+        ],
+        [
+            10437326,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            4784440,
+            true
+        ],
+        [
+            10140214,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            8457826,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            9034717,
+            false
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            8968839,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            9719553,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

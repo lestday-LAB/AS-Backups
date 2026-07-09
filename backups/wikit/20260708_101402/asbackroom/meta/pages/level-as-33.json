@@ -1,0 +1,157 @@
+{
+    "name": "level-as-33",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1542915876,
+            "author": 10146283,
+            "stamp": 1774456632,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542915703,
+            "author": 10146283,
+            "stamp": 1774455663,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542804759,
+            "author": 10146283,
+            "stamp": 1774031065,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542428610,
+            "author": 10146283,
+            "stamp": 1772652411,
+            "flags": "S",
+            "commentary": "已替换层级图像"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542413796,
+            "author": 10146283,
+            "stamp": 1772566733,
+            "flags": "S",
+            "commentary": "依据原文改动"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542408862,
+            "author": 10146283,
+            "stamp": 1772543126,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542397854,
+            "author": 10146283,
+            "stamp": 1772523253,
+            "flags": "A",
+            "commentary": "已新增标签：低温, 原创, 层级, 感官影响, 环境危害, 生存难度3, 精神影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542397816,
+            "author": 10146283,
+            "stamp": 1772523210,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468195845,
+    "rating": 9,
+    "forum_thread": 17599832,
+    "tags": [
+        "低温",
+        "原创",
+        "层级",
+        "开阔性",
+        "感官影响",
+        "环境危害",
+        "生存难度3",
+        "精神影响"
+    ],
+    "title": "Level AS-33 - “雪落袤原”",
+    "sitemap_update": 1774456632000,
+    "votings": [
+        [
+            10273658,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            8677784,
+            false
+        ],
+        [
+            10437326,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            9034717,
+            false
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            8968839,
+            false
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            8740422,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            9816655,
+            true
+        ]
+    ],
+    "is_locked": false
+}

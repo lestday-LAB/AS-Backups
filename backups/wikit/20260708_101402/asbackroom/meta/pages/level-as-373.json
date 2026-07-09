@@ -1,0 +1,77 @@
+{
+    "name": "level-as-373",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1523486828,
+            "author": 8643702,
+            "stamp": 1722953154,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1523486737,
+            "author": 8643702,
+            "stamp": 1722952781,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 生存难度2。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523486732,
+            "author": 8643702,
+            "stamp": 1722952744,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456091960,
+    "rating": 6,
+    "forum_thread": 18090899,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度2"
+    ],
+    "title": "Level As 373",
+    "sitemap_update": 1722953154000,
+    "votings": [
+        [
+            8443876,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            8643702,
+            true
+        ],
+        [
+            8546995,
+            true
+        ],
+        [
+            9178718,
+            true
+        ],
+        [
+            8727823,
+            true
+        ],
+        [
+            8527469,
+            true
+        ],
+        [
+            8695935,
+            false
+        ]
+    ],
+    "is_locked": false
+}

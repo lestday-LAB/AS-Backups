@@ -1,0 +1,143 @@
+{
+    "name": "big-stong",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1544609299,
+            "author": 9814883,
+            "stamp": 1781331269,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544606600,
+            "author": 8749548,
+            "stamp": 1781319186,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544606588,
+            "author": 8749548,
+            "stamp": 1781319144,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544592224,
+            "author": 9814883,
+            "stamp": 1781257457,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"author:big-stong\" 至 \"big-stong\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544472305,
+            "author": 9814883,
+            "stamp": 1780734562,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544472247,
+            "author": 9814883,
+            "stamp": 1780734376,
+            "flags": "A",
+            "commentary": "已新增标签：作者, 原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544472239,
+            "author": 9814883,
+            "stamp": 1780734344,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544472234,
+            "author": 9814883,
+            "stamp": 1780734307,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544472206,
+            "author": 9814883,
+            "stamp": 1780734223,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544472185,
+            "author": 9814883,
+            "stamp": 1780734139,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468814552,
+    "rating": 11,
+    "forum_thread": 17997656,
+    "tags": [
+        "作者",
+        "原创"
+    ],
+    "title": "大理石会梦到薛定谔吗？",
+    "sitemap_update": 1781331269000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            10245569,
+            true
+        ],
+        [
+            8457826,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

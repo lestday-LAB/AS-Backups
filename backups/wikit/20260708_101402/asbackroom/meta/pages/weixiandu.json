@@ -1,0 +1,43 @@
+{
+    "name": "weixiandu",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1544091999,
+            "author": 8677784,
+            "stamp": 1779547714,
+            "flags": "A",
+            "commentary": "已新增标签：jp, 搬运, 组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544091988,
+            "author": 8677784,
+            "stamp": 1779547679,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468702134,
+    "forum_thread": 17949986,
+    "tags": [
+        "jp",
+        "搬运",
+        "组件"
+    ],
+    "title": "相对危险度评估系统引源",
+    "sitemap_update": 1779547714000,
+    "votings": [
+        [
+            8677784,
+            true
+        ],
+        [
+            9729411,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,76 @@
+{
+    "name": "level-as-347",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1543956429,
+            "author": 8620589,
+            "stamp": 1778923176,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 生存难度2。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543956410,
+            "author": 8620589,
+            "stamp": 1778923101,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468671571,
+    "rating": 10,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度2"
+    ],
+    "title": "Level AS-347",
+    "sitemap_update": 1778923176000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9577969,
+            true
+        ],
+        [
+            10437326,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ]
+    ],
+    "is_locked": false
+}

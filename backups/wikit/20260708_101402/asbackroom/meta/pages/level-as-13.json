@@ -1,0 +1,130 @@
+{
+    "name": "level-as-13",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1524131046,
+            "author": 8827633,
+            "stamp": 1724472877,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1524131014,
+            "author": 8827633,
+            "stamp": 1724472845,
+            "flags": "A",
+            "commentary": "移除标签：音乐节。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1517374224,
+            "author": 8827633,
+            "stamp": 1705048165,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1515850856,
+            "author": 8827633,
+            "stamp": 1699343810,
+            "flags": "S",
+            "commentary": "改错别字~"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1515850774,
+            "author": 8827633,
+            "stamp": 1699343468,
+            "flags": "A",
+            "commentary": "已新增标签：as层群, 原创, 层级, 生存难度0, 音乐节。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1515850769,
+            "author": 8827633,
+            "stamp": 1699343432,
+            "flags": "F",
+            "commentary": "已上传文件 “U1”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1515850767,
+            "author": 8827633,
+            "stamp": 1699343390,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 10895732,
+            "name": "U1",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-13/U1",
+            "size": "1.27 MB (1326479 Bytes)",
+            "size_bytes": 1326479,
+            "mime": "image/png",
+            "content": "PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced",
+            "author": 8827633,
+            "stamp": 1699343432,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1451332154,
+    "rating": 8,
+    "forum_thread": 16450385,
+    "tags": [
+        "as层群",
+        "原创",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level AS-13-“后室音乐节”",
+    "sitemap_update": 1724472877000,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            8670898,
+            true
+        ],
+        [
+            9201438,
+            true
+        ],
+        [
+            9302808,
+            true
+        ],
+        [
+            7622619,
+            false
+        ],
+        [
+            10140214,
+            true
+        ],
+        [
+            8695300,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            8740422,
+            true
+        ],
+        [
+            8712717,
+            true
+        ]
+    ],
+    "is_locked": false
+}

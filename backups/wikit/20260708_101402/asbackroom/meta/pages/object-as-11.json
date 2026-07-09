@@ -1,0 +1,123 @@
+{
+    "name": "object-as-11",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1544861648,
+            "author": 10433929,
+            "stamp": 1782457564,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531195900,
+            "author": 9337543,
+            "stamp": 1753527825,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1525145104,
+            "author": 9337543,
+            "stamp": 1728645488,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1525145096,
+            "author": 9337543,
+            "stamp": 1728645454,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525145074,
+            "author": 9337543,
+            "stamp": 1728645352,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1525143275,
+            "author": 8827633,
+            "stamp": 1728636207,
+            "flags": "T",
+            "commentary": "修正页面名称"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1525131692,
+            "author": 9337543,
+            "stamp": 1728558885,
+            "flags": "A",
+            "commentary": "已新增标签：as层群, 原创, 物品。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1525131676,
+            "author": 9337543,
+            "stamp": 1728558786,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1525131637,
+            "author": 9337543,
+            "stamp": 1728558473,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1525131595,
+            "author": 9337543,
+            "stamp": 1728558106,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1457049907,
+    "forum_thread": 16959922,
+    "tags": [
+        "as层群",
+        "原创",
+        "物品"
+    ],
+    "title": "Object AS-11",
+    "sitemap_update": 1782457564000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            9360102,
+            true
+        ],
+        [
+            8941184,
+            false
+        ],
+        [
+            8747271,
+            true
+        ],
+        [
+            8695935,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,145 @@
+{
+    "name": "art:sherry1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1543825477,
+            "author": 8749548,
+            "stamp": 1778390707,
+            "flags": "A",
+            "commentary": "已新增标签：站娘。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531754392,
+            "author": 9681637,
+            "stamp": 1756099734,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"sherry1\" 至 \"art:sherry1\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531748740,
+            "author": 9681637,
+            "stamp": 1756068675,
+            "flags": "A",
+            "commentary": "已新增标签：2025夏日绘战祭, 原创, 艺术作品。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531748733,
+            "author": 9681637,
+            "stamp": 1756068622,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531748726,
+            "author": 9681637,
+            "stamp": 1756068568,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_7277.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531748724,
+            "author": 9681637,
+            "stamp": 1756068542,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11445007,
+            "name": "IMG_7277.png",
+            "url": "http://asbackroom.wikidot.com/local--files/art:sherry1/IMG_7277.png",
+            "size": "2.99 MB (3130157 Bytes)",
+            "size_bytes": 3130157,
+            "mime": "image/png",
+            "content": "PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced",
+            "author": 9681637,
+            "stamp": 1756068568,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460102850,
+    "forum_thread": 17228573,
+    "tags": [
+        "2025夏日绘战祭",
+        "原创",
+        "站娘",
+        "艺术作品"
+    ],
+    "title": "Sherry1",
+    "sitemap_update": 1778390707000,
+    "votings": [
+        [
+            8690147,
+            true
+        ],
+        [
+            9555124,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9795685,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9810572,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8669732,
+            true
+        ],
+        [
+            8712717,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

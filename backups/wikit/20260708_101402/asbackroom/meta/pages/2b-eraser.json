@@ -1,0 +1,234 @@
+{
+    "name": "2b-eraser",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1530916009,
+            "author": 8690147,
+            "stamp": 1752118181,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1530916003,
+            "author": 8690147,
+            "stamp": 1752118156,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1530916000,
+            "author": 8690147,
+            "stamp": 1752118137,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1529068080,
+            "author": 8690147,
+            "stamp": 1743848413,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1529067662,
+            "author": 8690147,
+            "stamp": 1743846668,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1529052435,
+            "author": 8690147,
+            "stamp": 1743774819,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1529052422,
+            "author": 8690147,
+            "stamp": 1743774744,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1529045415,
+            "author": 8690147,
+            "stamp": 1743744203,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1529045345,
+            "author": 8690147,
+            "stamp": 1743743989,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1529045334,
+            "author": 8690147,
+            "stamp": 1743743851,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529045299,
+            "author": 8690147,
+            "stamp": 1743743617,
+            "flags": "A",
+            "commentary": "已新增标签：作者, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529045295,
+            "author": 8690147,
+            "stamp": 1743743588,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529045288,
+            "author": 8690147,
+            "stamp": 1743743508,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529045276,
+            "author": 8690147,
+            "stamp": 1743743424,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459086598,
+    "forum_thread": 17087777,
+    "tags": [
+        "作者",
+        "原创"
+    ],
+    "title": "2B橡皮的作者页",
+    "sitemap_update": 1752118181000,
+    "votings": [
+        [
+            8690147,
+            true
+        ],
+        [
+            9056862,
+            true
+        ],
+        [
+            10433929,
+            true
+        ],
+        [
+            9171886,
+            true
+        ],
+        [
+            8172076,
+            true
+        ],
+        [
+            9555124,
+            true
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            9603691,
+            true
+        ],
+        [
+            7971589,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            8677784,
+            false
+        ],
+        [
+            9559506,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8457826,
+            true
+        ],
+        [
+            8504951,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9437079,
+            true
+        ],
+        [
+            9178718,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            8747271,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

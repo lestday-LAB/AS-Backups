@@ -1,0 +1,77 @@
+{
+    "name": "chaojidiqiu",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545085616,
+            "author": 9018165,
+            "stamp": 1783502323,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545077915,
+            "author": 9018165,
+            "stamp": 1783475530,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545077911,
+            "author": 9018165,
+            "stamp": 1783475510,
+            "flags": "A",
+            "commentary": "已新增标签：2026萌新竞赛, luckybox, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545077903,
+            "author": 9018165,
+            "stamp": 1783475468,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468952987,
+    "rating": 6,
+    "forum_thread": 18103113,
+    "tags": [
+        "2026萌新竞赛",
+        "luckybox",
+        "原创",
+        "故事"
+    ],
+    "title": "“后室戒赌甄选一则”",
+    "sitemap_update": 1783502323000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9304774,
+            true
+        ],
+        [
+            4784440,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

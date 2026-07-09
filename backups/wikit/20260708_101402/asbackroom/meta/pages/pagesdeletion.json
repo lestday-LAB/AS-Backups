@@ -1,0 +1,87 @@
+{
+    "name": "pagesdeletion",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1544966287,
+            "author": 7504264,
+            "stamp": 1782981627,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544966275,
+            "author": 7504264,
+            "stamp": 1782981584,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544966172,
+            "author": 7504264,
+            "stamp": 1782981304,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544933753,
+            "author": 7504264,
+            "stamp": 1782817471,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544933737,
+            "author": 7504264,
+            "stamp": 1782817405,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544933730,
+            "author": 7504264,
+            "stamp": 1782817378,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544933702,
+            "author": 7504264,
+            "stamp": 1782817206,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544933693,
+            "author": 7504264,
+            "stamp": 1782817162,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544933263,
+            "author": 7504264,
+            "stamp": 1782815261,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468922994,
+    "tags": [
+        "管理"
+    ],
+    "title": "AS-PagesDeletion数据看板",
+    "sitemap_update": 1782981627000,
+    "votings": [],
+    "is_locked": false
+}

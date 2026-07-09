@@ -1,0 +1,64 @@
+{
+    "name": "level-as-182",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545070715,
+            "author": 9309833,
+            "stamp": 1783435055,
+            "flags": "A",
+            "commentary": "已新增标签：格式错乱, 生存难度？。 移除标签：生存难度？格式错乱。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545070706,
+            "author": 9309833,
+            "stamp": 1783435021,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度？格式错乱。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545070697,
+            "author": 9309833,
+            "stamp": 1783434974,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468951896,
+    "forum_thread": 18097500,
+    "tags": [
+        "原创",
+        "层级",
+        "格式错乱",
+        "生存难度？"
+    ],
+    "title": "Level As 182",
+    "sitemap_update": 1783435055000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            4784440,
+            false
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

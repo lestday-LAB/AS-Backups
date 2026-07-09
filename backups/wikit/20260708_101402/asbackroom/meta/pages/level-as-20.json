@@ -1,0 +1,104 @@
+{
+    "name": "level-as-20",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1520964981,
+            "author": 8747271,
+            "stamp": 1718618660,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1516726322,
+            "author": 8747271,
+            "stamp": 1702643358,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1516459248,
+            "author": 8747271,
+            "stamp": 1701604785,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1516459238,
+            "author": 8747271,
+            "stamp": 1701604723,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451665414,
+    "rating": 13,
+    "forum_thread": 16705525,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level AS-20",
+    "sitemap_update": 1718618660000,
+    "votings": [
+        [
+            9201438,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            8906601,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            7596287,
+            true
+        ],
+        [
+            8643702,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8752576,
+            true
+        ],
+        [
+            8669732,
+            true
+        ],
+        [
+            8712717,
+            true
+        ],
+        [
+            8666147,
+            true
+        ],
+        [
+            8695935,
+            true
+        ]
+    ],
+    "is_locked": false
+}

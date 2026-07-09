@@ -1,0 +1,138 @@
+{
+    "name": "other-one",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1542591566,
+            "author": 8457826,
+            "stamp": 1773202702,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542591565,
+            "author": 8457826,
+            "stamp": 1773202685,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542591527,
+            "author": 8457826,
+            "stamp": 1773202667,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528490946,
+            "author": 8145986,
+            "stamp": 1742179134,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度其他。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528431804,
+            "author": 8457826,
+            "stamp": 1741958987,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 秽土转生竞赛, 隐秘系列。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528431790,
+            "author": 8457826,
+            "stamp": 1741958952,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458714522,
+    "rating": 15,
+    "forum_thread": 17068294,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度其他",
+        "秽土转生竞赛",
+        "隐秘系列"
+    ],
+    "title": "电台杂谈第二期：网域",
+    "sitemap_update": 1773202702000,
+    "votings": [
+        [
+            8172076,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9594304,
+            false
+        ],
+        [
+            8719322,
+            true
+        ],
+        [
+            9050277,
+            true
+        ],
+        [
+            9017126,
+            true
+        ],
+        [
+            9388549,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8504951,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8705259,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9620811,
+            true
+        ]
+    ],
+    "is_locked": false
+}

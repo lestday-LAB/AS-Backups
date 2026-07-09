@@ -1,0 +1,138 @@
+{
+    "name": "setu",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1542301425,
+            "author": 9808112,
+            "stamp": 1772030389,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542297052,
+            "author": 9808112,
+            "stamp": 1772014171,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542297031,
+            "author": 9808112,
+            "stamp": 1772014072,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542296141,
+            "author": 9808112,
+            "stamp": 1772010482,
+            "flags": "A",
+            "commentary": "已新增标签：搞笑。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542295773,
+            "author": 9808112,
+            "stamp": 1772008984,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542295706,
+            "author": 9808112,
+            "stamp": 1772008497,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542295657,
+            "author": 9808112,
+            "stamp": 1772008207,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 喜剧, 故事, 速切玩家。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542295647,
+            "author": 9808112,
+            "stamp": 1772008164,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468174282,
+    "rating": 9,
+    "forum_thread": 17594162,
+    "tags": [
+        "原创",
+        "喜剧",
+        "搞笑",
+        "故事",
+        "速切玩家"
+    ],
+    "title": "你这克劳德铯涂保熟吗？",
+    "sitemap_update": 1772030389000,
+    "votings": [
+        [
+            9056862,
+            true
+        ],
+        [
+            10204656,
+            true
+        ],
+        [
+            9555124,
+            false
+        ],
+        [
+            10389231,
+            false
+        ],
+        [
+            8765902,
+            true
+        ],
+        [
+            9494389,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            7599847,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

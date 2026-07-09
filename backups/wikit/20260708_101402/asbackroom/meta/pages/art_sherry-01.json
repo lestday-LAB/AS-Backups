@@ -1,0 +1,261 @@
+{
+    "name": "art:sherry-01",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 18,
+            "global_revision": 1531751083,
+            "author": 8827633,
+            "stamp": 1756083776,
+            "flags": "F",
+            "commentary": "已上传文件 “Sherry-1”。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1531751003,
+            "author": 8827633,
+            "stamp": 1756083055,
+            "flags": "F",
+            "commentary": "已上传文件 “Sherry-1”。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1531750939,
+            "author": 8827633,
+            "stamp": 1756082497,
+            "flags": "F",
+            "commentary": "文件 “S” 已重新命名为 “Sherry”。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1531750937,
+            "author": 8827633,
+            "stamp": 1756082477,
+            "flags": "F",
+            "commentary": "已上传文件 “S”。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1531750935,
+            "author": 8827633,
+            "stamp": 1756082454,
+            "flags": "F",
+            "commentary": "已删除文件 “Sherry”。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531750848,
+            "author": 8827633,
+            "stamp": 1756081896,
+            "flags": "A",
+            "commentary": "已新增标签：2025夏日绘战祭。 移除标签：夏日绘战祭。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531722584,
+            "author": 9533296,
+            "stamp": 1755952790,
+            "flags": "A",
+            "commentary": "已新增标签：站娘。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531722579,
+            "author": 9533296,
+            "stamp": 1755952770,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531722575,
+            "author": 9533296,
+            "stamp": 1755952749,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531722570,
+            "author": 9533296,
+            "stamp": 1755952733,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 夏日绘战祭, 艺术作品。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531722537,
+            "author": 9533296,
+            "stamp": 1755952559,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531722533,
+            "author": 9533296,
+            "stamp": 1755952532,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531722507,
+            "author": 9533296,
+            "stamp": 1755952389,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531722501,
+            "author": 9533296,
+            "stamp": 1755952370,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531722481,
+            "author": 9533296,
+            "stamp": 1755952278,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531722479,
+            "author": 9533296,
+            "stamp": 1755952258,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531722458,
+            "author": 9533296,
+            "stamp": 1755952130,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531722455,
+            "author": 9533296,
+            "stamp": 1755952097,
+            "flags": "F",
+            "commentary": "已上传文件 “Sherry”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531722450,
+            "author": 9533296,
+            "stamp": 1755952072,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11445061,
+            "name": "Sherry",
+            "url": "http://asbackroom.wikidot.com/local--files/art:sherry-01/Sherry",
+            "size": "254.25 kB (260357 Bytes)",
+            "size_bytes": 260357,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1920x1080, components 3",
+            "author": 8827633,
+            "stamp": 1756082477,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11445068,
+            "name": "Sherry-1",
+            "url": "http://asbackroom.wikidot.com/local--files/art:sherry-01/Sherry-1",
+            "size": "1.03 MB (1084592 Bytes)",
+            "size_bytes": 1084592,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1440x1080, components 3",
+            "author": 8827633,
+            "stamp": 1756083776,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460097696,
+    "forum_thread": 17224468,
+    "tags": [
+        "2025夏日绘战祭",
+        "原创",
+        "站娘",
+        "艺术作品"
+    ],
+    "title": "Sherry的街头涂鸦",
+    "sitemap_update": 1756083776000,
+    "votings": [
+        [
+            8690147,
+            true
+        ],
+        [
+            9171886,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9681637,
+            true
+        ],
+        [
+            8677784,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            9736816,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            9533296,
+            true
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            8669732,
+            true
+        ],
+        [
+            8712717,
+            true
+        ],
+        [
+            9844993,
+            true
+        ],
+        [
+            8747271,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

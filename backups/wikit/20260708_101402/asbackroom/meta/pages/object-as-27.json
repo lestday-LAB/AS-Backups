@@ -1,0 +1,89 @@
+{
+    "name": "object-as-27",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1545086104,
+            "author": 8749548,
+            "stamp": 1783504068,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545055868,
+            "author": 8749548,
+            "stamp": 1783381682,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545049568,
+            "author": 8749548,
+            "stamp": 1783346105,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545044513,
+            "author": 8749548,
+            "stamp": 1783330002,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 不良魔法少女, 原创, 物品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545044465,
+            "author": 8749548,
+            "stamp": 1783329812,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468946077,
+    "rating": 7,
+    "forum_thread": 18086930,
+    "tags": [
+        "2026幻想竞赛",
+        "不良魔法少女",
+        "原创",
+        "物品"
+    ],
+    "title": "Object As-27-“炽热手铐”",
+    "sitemap_update": 1783504068000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            10437326,
+            true
+        ],
+        [
+            9559506,
+            true
+        ],
+        [
+            4784440,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9453818,
+            true
+        ]
+    ],
+    "is_locked": false
+}

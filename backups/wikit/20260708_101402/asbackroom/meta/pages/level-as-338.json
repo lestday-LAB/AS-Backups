@@ -1,0 +1,154 @@
+{
+    "name": "level-as-338",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1545089424,
+            "author": 9853042,
+            "stamp": 1783516263,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1544812192,
+            "author": 9853042,
+            "stamp": 1782210118,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1544812183,
+            "author": 9853042,
+            "stamp": 1782210075,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1544771191,
+            "author": 9853042,
+            "stamp": 1782013314,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1544771168,
+            "author": 9853042,
+            "stamp": 1782013222,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1544771018,
+            "author": 9853042,
+            "stamp": 1782012649,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544759797,
+            "author": 9853042,
+            "stamp": 1781978202,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 不良魔法少女。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544750019,
+            "author": 9853042,
+            "stamp": 1781943561,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544749952,
+            "author": 9853042,
+            "stamp": 1781943300,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544749917,
+            "author": 9853042,
+            "stamp": 1781943025,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544749902,
+            "author": 9853042,
+            "stamp": 1781942967,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544748843,
+            "author": 9853042,
+            "stamp": 1781939463,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544748543,
+            "author": 9853042,
+            "stamp": 1781938612,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544748375,
+            "author": 9853042,
+            "stamp": 1781937783,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 层级意识, 生存难度宜居。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544748373,
+            "author": 9853042,
+            "stamp": 1781937764,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468874450,
+    "rating": 3,
+    "tags": [
+        "2026幻想竞赛",
+        "不良魔法少女",
+        "原创",
+        "层级",
+        "层级意识",
+        "生存难度宜居"
+    ],
+    "title": "Level AS-338 “浮岛幻梦”",
+    "sitemap_update": 1783516263000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

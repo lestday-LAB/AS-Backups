@@ -1,0 +1,379 @@
+{
+    "name": "level-as-xs-4",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 34,
+            "global_revision": 1526067394,
+            "author": 8145986,
+            "stamp": 1733143280,
+            "flags": "A",
+            "commentary": "已新增标签：新手专区。"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1525985994,
+            "author": 8145986,
+            "stamp": 1732600771,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1523054860,
+            "author": 9293437,
+            "stamp": 1721081388,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1520214909,
+            "author": 9097631,
+            "stamp": 1715672729,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1519991244,
+            "author": 8752576,
+            "stamp": 1714705434,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 补给可能。 移除标签：村庄, 残忍, 资源, 黑暗。"
+        },
+        {
+            "revision": 29,
+            "global_revision": 1519917771,
+            "author": 9097631,
+            "stamp": 1714402971,
+            "flags": "A",
+            "commentary": "已新增标签：村庄, 残忍, 生存难度死区, 资源, 黑暗。"
+        },
+        {
+            "revision": 28,
+            "global_revision": 1519917764,
+            "author": 9097631,
+            "stamp": 1714402930,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1519917753,
+            "author": 9097631,
+            "stamp": 1714402829,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1519865514,
+            "author": 9097631,
+            "stamp": 1714193158,
+            "flags": "F",
+            "commentary": "已上传文件 “artbreeder-pattern.jpg”。"
+        },
+        {
+            "revision": 25,
+            "global_revision": 1519823060,
+            "author": 9097631,
+            "stamp": 1714050037,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1519823043,
+            "author": 9097631,
+            "stamp": 1714050001,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1519822976,
+            "author": 9097631,
+            "stamp": 1714049794,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1519822934,
+            "author": 9097631,
+            "stamp": 1714049654,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1519822923,
+            "author": 9097631,
+            "stamp": 1714049615,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1519822462,
+            "author": 9097631,
+            "stamp": 1714048316,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1519822443,
+            "author": 9097631,
+            "stamp": 1714048234,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1519821962,
+            "author": 9097631,
+            "stamp": 1714046654,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1519821393,
+            "author": 9097631,
+            "stamp": 1714043294,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1519821352,
+            "author": 9097631,
+            "stamp": 1714042897,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1519821220,
+            "author": 9097631,
+            "stamp": 1714041993,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1519810824,
+            "author": 9097631,
+            "stamp": 1713972856,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1519810533,
+            "author": 9097631,
+            "stamp": 1713971638,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1519810416,
+            "author": 9097631,
+            "stamp": 1713971128,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1519810203,
+            "author": 9097631,
+            "stamp": 1713970343,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1519810188,
+            "author": 9097631,
+            "stamp": 1713970259,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1519810169,
+            "author": 9097631,
+            "stamp": 1713970196,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1519809854,
+            "author": 9097631,
+            "stamp": 1713968910,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1519809842,
+            "author": 9097631,
+            "stamp": 1713968844,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1519809826,
+            "author": 9097631,
+            "stamp": 1713968768,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1519809740,
+            "author": 9097631,
+            "stamp": 1713968420,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1519809730,
+            "author": 9097631,
+            "stamp": 1713968367,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1519809711,
+            "author": 9097631,
+            "stamp": 1713968253,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1519809700,
+            "author": 9097631,
+            "stamp": 1713968197,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1519775270,
+            "author": 9097631,
+            "stamp": 1713886824,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1519775117,
+            "author": 9097631,
+            "stamp": 1713886088,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11029796,
+            "name": "artbreeder-pattern.jpg",
+            "url": "http://asbackroom.wikidot.com/local--files/level-as-xs-4/artbreeder-pattern.jpg",
+            "size": "315.15 kB (322711 Bytes)",
+            "size_bytes": 322711,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1024x1024, components 3",
+            "author": 9097631,
+            "stamp": 1714193158,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1453415286,
+    "rating": 8,
+    "forum_thread": 16781561,
+    "tags": [
+        "原创",
+        "层级",
+        "新手专区",
+        "生存难度死区",
+        "补给可能"
+    ],
+    "title": "Level As Xs 4:暗淡之村",
+    "sitemap_update": 1733143280000,
+    "votings": [
+        [
+            8443876,
+            true
+        ],
+        [
+            9056862,
+            true
+        ],
+        [
+            9739429,
+            true
+        ],
+        [
+            9146620,
+            true
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            9023193,
+            true
+        ],
+        [
+            8719322,
+            false
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9409890,
+            true
+        ],
+        [
+            9360102,
+            false
+        ],
+        [
+            9293437,
+            true
+        ],
+        [
+            8752576,
+            false
+        ],
+        [
+            9018165,
+            true
+        ],
+        [
+            9097631,
+            true
+        ],
+        [
+            9168168,
+            true
+        ],
+        [
+            8695935,
+            false
+        ]
+    ],
+    "is_locked": false
+}

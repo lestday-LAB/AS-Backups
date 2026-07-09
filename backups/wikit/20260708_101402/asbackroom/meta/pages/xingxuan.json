@@ -1,0 +1,141 @@
+{
+    "name": "xingxuan",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1543957173,
+            "author": 8749548,
+            "stamp": 1778926917,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543957168,
+            "author": 8749548,
+            "stamp": 1778926897,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543957116,
+            "author": 8749548,
+            "stamp": 1778926646,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543682517,
+            "author": 8767769,
+            "stamp": 1777733935,
+            "flags": "A",
+            "commentary": "已新增标签：作者。 移除标签：作者页。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543682023,
+            "author": 8767769,
+            "stamp": 1777732215,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543682001,
+            "author": 8767769,
+            "stamp": 1777732129,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543681997,
+            "author": 8767769,
+            "stamp": 1777732111,
+            "flags": "A",
+            "commentary": "已新增标签：作者页。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543681983,
+            "author": 8767769,
+            "stamp": 1777732060,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543681965,
+            "author": 8767769,
+            "stamp": 1777732015,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468605862,
+    "forum_thread": 17837553,
+    "tags": [
+        "作者"
+    ],
+    "title": "星璇的作者页",
+    "sitemap_update": 1778926917000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            8767769,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9825883,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,142 @@
+{
+    "name": "author:cinice",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1544907029,
+            "author": 10270999,
+            "stamp": 1782668070,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1544906592,
+            "author": 10270999,
+            "stamp": 1782666344,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1544906529,
+            "author": 10270999,
+            "stamp": 1782665992,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544906404,
+            "author": 10270999,
+            "stamp": 1782665469,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544906380,
+            "author": 10270999,
+            "stamp": 1782665405,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543206529,
+            "author": 10270999,
+            "stamp": 1775741218,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543013085,
+            "author": 10270999,
+            "stamp": 1774881630,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542963590,
+            "author": 10270999,
+            "stamp": 1774674919,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542915091,
+            "author": 10270999,
+            "stamp": 1774453065,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542914802,
+            "author": 10270999,
+            "stamp": 1774452503,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542911890,
+            "author": 10270999,
+            "stamp": 1774444092,
+            "flags": "A",
+            "commentary": "已新增标签：作者。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542911885,
+            "author": 10270999,
+            "stamp": 1774444064,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468360682,
+    "rating": 7,
+    "forum_thread": 17656628,
+    "tags": [
+        "作者"
+    ],
+    "title": "星冰的作者页mini pro max",
+    "sitemap_update": 1782668070000,
+    "votings": [
+        [
+            8827633,
+            true
+        ],
+        [
+            10270999,
+            true
+        ],
+        [
+            9287769,
+            true
+        ],
+        [
+            9844505,
+            true
+        ],
+        [
+            8797278,
+            true
+        ],
+        [
+            8968839,
+            true
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

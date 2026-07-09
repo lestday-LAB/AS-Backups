@@ -1,0 +1,232 @@
+{
+    "name": "level-as-479",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 20,
+            "global_revision": 1544469454,
+            "author": 8827633,
+            "stamp": 1780724205,
+            "flags": "A",
+            "commentary": "移除标签：枪之魔法少女。"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1543671030,
+            "author": 9844505,
+            "stamp": 1777697031,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1543306137,
+            "author": 9844505,
+            "stamp": 1775995628,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1543306083,
+            "author": 9844505,
+            "stamp": 1775995404,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1543306075,
+            "author": 9844505,
+            "stamp": 1775995369,
+            "flags": "A",
+            "commentary": "已新增标签：格式错乱。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1543304307,
+            "author": 9844505,
+            "stamp": 1775988289,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1543299494,
+            "author": 9844505,
+            "stamp": 1775975000,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1543298330,
+            "author": 9844505,
+            "stamp": 1775970351,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1543298297,
+            "author": 9844505,
+            "stamp": 1775970239,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1543298140,
+            "author": 9844505,
+            "stamp": 1775969687,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1543297995,
+            "author": 9844505,
+            "stamp": 1775969000,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1543297441,
+            "author": 9844505,
+            "stamp": 1775966897,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543297349,
+            "author": 9844505,
+            "stamp": 1775966613,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543296508,
+            "author": 9844505,
+            "stamp": 1775964833,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543296495,
+            "author": 9844505,
+            "stamp": 1775964799,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543287836,
+            "author": 9844505,
+            "stamp": 1775920393,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543287798,
+            "author": 9844505,
+            "stamp": 1775920277,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543274000,
+            "author": 9729411,
+            "stamp": 1775901778,
+            "flags": "A",
+            "commentary": "移除标签：魔法手铐α。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543273924,
+            "author": 9729411,
+            "stamp": 1775901721,
+            "flags": "A",
+            "commentary": "已新增标签：魔法手铐α。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543269391,
+            "author": 9844505,
+            "stamp": 1775898098,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 层级, 悲剧, 枪之魔法少女, 生存难度死区, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543269366,
+            "author": 9844505,
+            "stamp": 1775898009,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468476430,
+    "rating": 0,
+    "forum_thread": 17705284,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "层级",
+        "悲剧",
+        "格式错乱",
+        "生存难度死区",
+        "神秘"
+    ],
+    "title": "『死亡以后』",
+    "sitemap_update": 1780724205000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10389231,
+            true
+        ],
+        [
+            9287769,
+            false
+        ],
+        [
+            8797278,
+            false
+        ],
+        [
+            9034717,
+            false
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9729411,
+            true
+        ],
+        [
+            8749548,
+            false
+        ]
+    ],
+    "is_locked": false
+}

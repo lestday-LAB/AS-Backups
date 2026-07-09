@@ -1,0 +1,113 @@
+{
+    "name": "level-as-419",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1544470203,
+            "author": 8827633,
+            "stamp": 1780726750,
+            "flags": "A",
+            "commentary": "移除标签：大图书管理员。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543952078,
+            "author": 8749548,
+            "stamp": 1778904702,
+            "flags": "A",
+            "commentary": "已新增标签：阅读推荐。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543429801,
+            "author": 8677784,
+            "stamp": 1776565181,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度其他。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542722365,
+            "author": 8827633,
+            "stamp": 1773736756,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 大图书管理员, 层级。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542722319,
+            "author": 8827633,
+            "stamp": 1773736676,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468286443,
+    "forum_thread": 17627154,
+    "tags": [
+        "2026幻想竞赛",
+        "原创",
+        "层级",
+        "生存难度其他",
+        "阅读推荐"
+    ],
+    "title": "Level AS-419-“麦浪之下”",
+    "sitemap_update": 1780726750000,
+    "votings": [
+        [
+            9555124,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            10302775,
+            true
+        ],
+        [
+            9420530,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            9325610,
+            true
+        ],
+        [
+            9593076,
+            true
+        ],
+        [
+            9533296,
+            true
+        ],
+        [
+            8749548,
+            true
+        ],
+        [
+            10297201,
+            true
+        ],
+        [
+            9620811,
+            true
+        ],
+        [
+            9844993,
+            true
+        ]
+    ],
+    "is_locked": false
+}

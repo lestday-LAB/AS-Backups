@@ -1,0 +1,810 @@
+{
+    "name": "object-as-30",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 95,
+            "global_revision": 1545092164,
+            "author": 8677784,
+            "stamp": 1783524580,
+            "flags": "A",
+            "commentary": "已新增标签：_低分删除豁免。 移除标签：_豁免删除。"
+        },
+        {
+            "revision": 94,
+            "global_revision": 1545092102,
+            "author": 8677784,
+            "stamp": 1783524360,
+            "flags": "A",
+            "commentary": "已新增标签：_豁免删除。 移除标签：待删除。"
+        },
+        {
+            "revision": 93,
+            "global_revision": 1545092096,
+            "author": 8677784,
+            "stamp": 1783524337,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"deleted:object-as-30\" 至 \"object-as-30\"."
+        },
+        {
+            "revision": 92,
+            "global_revision": 1545087108,
+            "author": 9018165,
+            "stamp": 1783507594,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"object-as-30\" 至 \"deleted:object-as-30\"."
+        },
+        {
+            "revision": 91,
+            "global_revision": 1545086970,
+            "author": 9018165,
+            "stamp": 1783507270,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 90,
+            "global_revision": 1544912870,
+            "author": 10433929,
+            "stamp": 1782704197,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 89,
+            "global_revision": 1544903295,
+            "author": 7504264,
+            "stamp": 1782654065,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 88,
+            "global_revision": 1544903177,
+            "author": 7504264,
+            "stamp": 1782653670,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 87,
+            "global_revision": 1544903123,
+            "author": 7504264,
+            "stamp": 1782653505,
+            "flags": "A",
+            "commentary": "移除标签：_豁免删除。"
+        },
+        {
+            "revision": 86,
+            "global_revision": 1544895368,
+            "author": 8677784,
+            "stamp": 1782623206,
+            "flags": "A",
+            "commentary": "已新增标签：_豁免删除。 移除标签：待删除。"
+        },
+        {
+            "revision": 85,
+            "global_revision": 1544894496,
+            "author": 10424552,
+            "stamp": 1782619253,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 84,
+            "global_revision": 1544894059,
+            "author": 10424552,
+            "stamp": 1782617445,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 83,
+            "global_revision": 1544894058,
+            "author": 10424552,
+            "stamp": 1782617444,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 82,
+            "global_revision": 1544894050,
+            "author": 10424552,
+            "stamp": 1782617396,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 81,
+            "global_revision": 1544894049,
+            "author": 10424552,
+            "stamp": 1782617394,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 80,
+            "global_revision": 1544893717,
+            "author": 10424552,
+            "stamp": 1782615653,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 79,
+            "global_revision": 1544893716,
+            "author": 10424552,
+            "stamp": 1782615652,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 78,
+            "global_revision": 1544893306,
+            "author": 10424552,
+            "stamp": 1782613841,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 77,
+            "global_revision": 1544893305,
+            "author": 10424552,
+            "stamp": 1782613840,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 76,
+            "global_revision": 1544892939,
+            "author": 10424552,
+            "stamp": 1782612053,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 75,
+            "global_revision": 1544892938,
+            "author": 10424552,
+            "stamp": 1782612052,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 74,
+            "global_revision": 1544892595,
+            "author": 10424552,
+            "stamp": 1782610251,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 73,
+            "global_revision": 1544892594,
+            "author": 10424552,
+            "stamp": 1782610249,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 72,
+            "global_revision": 1544892247,
+            "author": 10424552,
+            "stamp": 1782608456,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 71,
+            "global_revision": 1544892246,
+            "author": 10424552,
+            "stamp": 1782608454,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 70,
+            "global_revision": 1544891950,
+            "author": 10424552,
+            "stamp": 1782606653,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 69,
+            "global_revision": 1544891949,
+            "author": 10424552,
+            "stamp": 1782606652,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 68,
+            "global_revision": 1544891694,
+            "author": 10424552,
+            "stamp": 1782604857,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 67,
+            "global_revision": 1544891693,
+            "author": 10424552,
+            "stamp": 1782604855,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 66,
+            "global_revision": 1544891485,
+            "author": 10424552,
+            "stamp": 1782603224,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 65,
+            "global_revision": 1544891484,
+            "author": 10424552,
+            "stamp": 1782603222,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 64,
+            "global_revision": 1544891462,
+            "author": 10424552,
+            "stamp": 1782603054,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 63,
+            "global_revision": 1544891460,
+            "author": 10424552,
+            "stamp": 1782603052,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 62,
+            "global_revision": 1544891218,
+            "author": 10424552,
+            "stamp": 1782601251,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 61,
+            "global_revision": 1544891217,
+            "author": 10424552,
+            "stamp": 1782601251,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 60,
+            "global_revision": 1544890882,
+            "author": 10424552,
+            "stamp": 1782599444,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 59,
+            "global_revision": 1544890881,
+            "author": 10424552,
+            "stamp": 1782599443,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 58,
+            "global_revision": 1544890678,
+            "author": 10424552,
+            "stamp": 1782598218,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 57,
+            "global_revision": 1544890677,
+            "author": 10424552,
+            "stamp": 1782598216,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 56,
+            "global_revision": 1544890605,
+            "author": 10424552,
+            "stamp": 1782597650,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 55,
+            "global_revision": 1544890604,
+            "author": 10424552,
+            "stamp": 1782597649,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 54,
+            "global_revision": 1544890332,
+            "author": 10424552,
+            "stamp": 1782595848,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 53,
+            "global_revision": 1544890331,
+            "author": 10424552,
+            "stamp": 1782595847,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 52,
+            "global_revision": 1544890131,
+            "author": 10424552,
+            "stamp": 1782594055,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 51,
+            "global_revision": 1544890130,
+            "author": 10424552,
+            "stamp": 1782594053,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 50,
+            "global_revision": 1544890120,
+            "author": 10424552,
+            "stamp": 1782593950,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 49,
+            "global_revision": 1544890119,
+            "author": 10424552,
+            "stamp": 1782593949,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 48,
+            "global_revision": 1544889849,
+            "author": 10424552,
+            "stamp": 1782592252,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 47,
+            "global_revision": 1544889847,
+            "author": 10424552,
+            "stamp": 1782592250,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 46,
+            "global_revision": 1544889542,
+            "author": 10424552,
+            "stamp": 1782590448,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 45,
+            "global_revision": 1544889541,
+            "author": 10424552,
+            "stamp": 1782590447,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 44,
+            "global_revision": 1544889271,
+            "author": 10424552,
+            "stamp": 1782589217,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 43,
+            "global_revision": 1544889270,
+            "author": 10424552,
+            "stamp": 1782589216,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 42,
+            "global_revision": 1544889189,
+            "author": 10424552,
+            "stamp": 1782588648,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 41,
+            "global_revision": 1544889188,
+            "author": 10424552,
+            "stamp": 1782588646,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 40,
+            "global_revision": 1544888823,
+            "author": 10424552,
+            "stamp": 1782586849,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 39,
+            "global_revision": 1544888822,
+            "author": 10424552,
+            "stamp": 1782586848,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 38,
+            "global_revision": 1544888571,
+            "author": 10424552,
+            "stamp": 1782585048,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 37,
+            "global_revision": 1544888570,
+            "author": 10424552,
+            "stamp": 1782585047,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 36,
+            "global_revision": 1544888266,
+            "author": 10424552,
+            "stamp": 1782583256,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 35,
+            "global_revision": 1544888263,
+            "author": 10424552,
+            "stamp": 1782583255,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 34,
+            "global_revision": 1544888214,
+            "author": 10424552,
+            "stamp": 1782583163,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1544888212,
+            "author": 10424552,
+            "stamp": 1782583162,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 32,
+            "global_revision": 1544887855,
+            "author": 10424552,
+            "stamp": 1782581444,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 31,
+            "global_revision": 1544887853,
+            "author": 10424552,
+            "stamp": 1782581443,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 30,
+            "global_revision": 1544887552,
+            "author": 10424552,
+            "stamp": 1782579651,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 29,
+            "global_revision": 1544887551,
+            "author": 10424552,
+            "stamp": 1782579650,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 28,
+            "global_revision": 1544887249,
+            "author": 10424552,
+            "stamp": 1782578243,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 27,
+            "global_revision": 1544887248,
+            "author": 10424552,
+            "stamp": 1782578242,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 26,
+            "global_revision": 1544887168,
+            "author": 10424552,
+            "stamp": 1782577849,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 25,
+            "global_revision": 1544887167,
+            "author": 10424552,
+            "stamp": 1782577848,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1544886773,
+            "author": 10424552,
+            "stamp": 1782576056,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 23,
+            "global_revision": 1544886772,
+            "author": 10424552,
+            "stamp": 1782576054,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1544886253,
+            "author": 10424552,
+            "stamp": 1782574244,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 21,
+            "global_revision": 1544886251,
+            "author": 10424552,
+            "stamp": 1782574243,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 20,
+            "global_revision": 1544885824,
+            "author": 10424552,
+            "stamp": 1782572453,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1544885823,
+            "author": 10424552,
+            "stamp": 1782572451,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 18,
+            "global_revision": 1544885820,
+            "author": 10424552,
+            "stamp": 1782572443,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1544885819,
+            "author": 10424552,
+            "stamp": 1782572442,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1544885249,
+            "author": 10424552,
+            "stamp": 1782570650,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1544885248,
+            "author": 10424552,
+            "stamp": 1782570648,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1544884718,
+            "author": 10424552,
+            "stamp": 1782568854,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1544884717,
+            "author": 10424552,
+            "stamp": 1782568853,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1544884169,
+            "author": 10424552,
+            "stamp": 1782567045,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1544884168,
+            "author": 10424552,
+            "stamp": 1782567044,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1544884092,
+            "author": 10424552,
+            "stamp": 1782566751,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1544884090,
+            "author": 10424552,
+            "stamp": 1782566750,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544883755,
+            "author": 10424552,
+            "stamp": 1782565253,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544883754,
+            "author": 10424552,
+            "stamp": 1782565251,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544883270,
+            "author": 10424552,
+            "stamp": 1782563449,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544883267,
+            "author": 10424552,
+            "stamp": 1782563448,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544878198,
+            "author": 10433929,
+            "stamp": 1782544891,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544878188,
+            "author": 10433929,
+            "stamp": 1782544860,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544876838,
+            "author": 10433929,
+            "stamp": 1782539137,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544876693,
+            "author": 10433929,
+            "stamp": 1782538365,
+            "flags": "A",
+            "commentary": "已新增标签：2026幻想竞赛, 原创, 大图书管理员, 物品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544876679,
+            "author": 10433929,
+            "stamp": 1782538317,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468910748,
+    "rating": -3,
+    "forum_thread": 18064020,
+    "tags": [
+        "2026幻想竞赛",
+        "_低分删除豁免",
+        "原创",
+        "大图书管理员",
+        "物品"
+    ],
+    "title": "Object AS-30 合成面包",
+    "sitemap_update": 1783524580000,
+    "votings": [
+        [
+            9814883,
+            false
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9853042,
+            false
+        ],
+        [
+            8677784,
+            false
+        ],
+        [
+            8749548,
+            false
+        ]
+    ],
+    "is_locked": false
+}

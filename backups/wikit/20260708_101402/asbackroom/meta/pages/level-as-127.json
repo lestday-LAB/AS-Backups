@@ -1,0 +1,84 @@
+{
+    "name": "level-as-127",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543314543,
+            "author": 8827633,
+            "stamp": 1776041166,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543263575,
+            "author": 8827633,
+            "stamp": 1775877907,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度？。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543263272,
+            "author": 8193535,
+            "stamp": 1775876785,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543263262,
+            "author": 8193535,
+            "stamp": 1775876743,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468475247,
+    "rating": 6,
+    "forum_thread": 18028101,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度？"
+    ],
+    "title": "Level AS-127",
+    "sitemap_update": 1776041166000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            8827633,
+            true
+        ],
+        [
+            9833590,
+            true
+        ],
+        [
+            9577969,
+            true
+        ],
+        [
+            4784440,
+            true
+        ],
+        [
+            9593076,
+            false
+        ],
+        [
+            8705259,
+            true
+        ],
+        [
+            9018165,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,50 @@
+{
+    "name": "stone-tunnel",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1543493314,
+            "author": 8679251,
+            "stamp": 1776856895,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543493312,
+            "author": 8679251,
+            "stamp": 1776856878,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468547530,
+    "forum_thread": 17779877,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "石管中的凯洛斯",
+    "sitemap_update": 1776856895000,
+    "votings": [
+        [
+            8679251,
+            true
+        ],
+        [
+            9814883,
+            true
+        ],
+        [
+            9295815,
+            true
+        ],
+        [
+            8736966,
+            true
+        ]
+    ],
+    "is_locked": false
+}
