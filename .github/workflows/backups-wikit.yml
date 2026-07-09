@@ -9,7 +9,7 @@ env:
 
 on:
   schedule:
-    - cron: '30 3 */4 * *'
+    - cron: '20 5 */4 * *'
   workflow_dispatch:
 
 permissions:
@@ -22,8 +22,8 @@ jobs:
     env:
       WIKIT_BIN: "./wikit"
       BACKUP_ROOT: "backups/wikit"
-      WIKI_NAME: "write-on-paper"
-      WIKI_URL: "https://write-on-paper.wikidot.com"
+      WIKI_NAME: "asbackroom"
+      WIKI_URL: "https://asbackroom.wikidot.com"
       MAX_BACKUPS: "8"
       BACKUP_TIME_THRESHOLD: "3"
 

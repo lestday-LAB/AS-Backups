@@ -5,7 +5,7 @@ env:
 
 on:
   schedule:
-    - cron: '50 2 */6 * *'  
+    - cron: '40 3 */6 * *'  
   workflow_dispatch:
 
 jobs:
@@ -40,12 +40,12 @@ jobs:
         
     - name: 执行 HTTrack 镜像
       run: |
-        BACKUP_DIR="/tmp/httrack-backup/write-on-paper-${{ steps.date.outputs.date }}"
+        BACKUP_DIR="/tmp/httrack-backup/asbackroom-${{ steps.date.outputs.date }}"
         mkdir -p "$BACKUP_DIR"
         
         cd /tmp/httrack-backup
         
-        httrack "https://write-on-paper.wikidot.com/system:list-all-pages" -O "$BACKUP_DIR" \
+        httrack "https://asbackroom.wikidot.com/system:list-all-pages" -O "$BACKUP_DIR" \
             --mirror \
             --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
             --depth=3 \
@@ -57,7 +57,7 @@ jobs:
         
     - name: 检查镜像是否成功
       run: |
-        BACKUP_DIR="/tmp/httrack-backup/write-on-paper-${{ steps.date.outputs.date }}"
+        BACKUP_DIR="/tmp/httrack-backup/asbackroom-${{ steps.date.outputs.date }}"
         
         if [ -d "$BACKUP_DIR" ] && [ "$(ls -A $BACKUP_DIR)" ]; then
           echo "镜像成功，目录不为空"
@@ -69,27 +69,27 @@ jobs:
     - name: 压缩镜像文件
       run: |
         cd /tmp/httrack-backup
-        BACKUP_NAME="write-on-paper-${{ steps.date.outputs.date }}"
+        BACKUP_NAME="asbackroom-${{ steps.date.outputs.date }}"
         tar -czf "$GITHUB_WORKSPACE/backups/html/${BACKUP_NAME}.tar.gz" "$BACKUP_NAME"
         
     - name: 生成镜像信息
       run: |
         cd $GITHUB_WORKSPACE/backups/html
-        BACKUP_FILE="write-on-paper-${{ steps.date.outputs.date }}.tar.gz"
+        BACKUP_FILE="asbackroom-${{ steps.date.outputs.date }}.tar.gz"
         
         cat > backup_info_${{ steps.date.outputs.date }}.md << EOF
         # 镜像信息
         - **镜像时间**: ${{ steps.date.outputs.date }}
         - **镜像文件**: ${BACKUP_FILE}
         - **镜像大小**: $(du -h ${BACKUP_FILE} | cut -f1)
-        - **网站**: https://write-on-paper.wikidot.com/
+        - **网站**: https://asbackroom.wikidot.com/
         EOF
         
     - name: 更新软链接
       run: |
         cd $GITHUB_WORKSPACE/backups/html
         rm -f latest-backup latest-backup-info
-        ln -s "write-on-paper-${{ steps.date.outputs.date }}.tar.gz" "latest-backup"
+        ln -s "asbackroom-${{ steps.date.outputs.date }}.tar.gz" "latest-backup"
         ln -s "backup_info_${{ steps.date.outputs.date }}.md" "latest-backup-info"
 
     - name: 清理旧镜像（仅保留最近10个）
@@ -97,7 +97,7 @@ jobs:
         cd $GITHUB_WORKSPACE/backups/html
         
         # 删除超出的压缩包：按时间排序(ls -t)，保留前10个，从第11个开始删除
-        ls -t write-on-paper-*.tar.gz | tail -n +11 | xargs -r rm --
+        ls -t asbackroom-*.tar.gz | tail -n +11 | xargs -r rm --
         
         # 删除超出的信息文件：同理保留最近10个
         ls -t backup_info_*.md | tail -n +11 | xargs -r rm --
@@ -123,8 +123,8 @@ jobs:
     - name: 上传镜像文件作为工作流附件
       uses: actions/upload-artifact@v4
       with:
-        name: write-on-paper-backup-${{ steps.date.outputs.date }}
-        path: backups/html/write-on-paper-${{ steps.date.outputs.date }}.tar.gz
+        name: asbackroom-backup-${{ steps.date.outputs.date }}
+        path: backups/html/asbackroom-${{ steps.date.outputs.date }}.tar.gz
         retention-days: 30
 
     - name: 清理临时文件
